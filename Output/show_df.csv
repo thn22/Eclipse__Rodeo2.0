@@ -1,0 +1,1300 @@
+,id,Netflix,Hulu,HBO,title,type,age_certification,runtime,name,role,release_year,seasons,imdb_score
+26,ts45948,1.0,0.0,0.0,Monty Python's Fliegender Zirkus,SHOW,TV-MA,43,Ian MacNaughton,DIRECTOR,1972,1.0,8.1
+51,ts2760,1.0,0.0,0.0,Fireman Sam,SHOW,TV-Y,10,Gary Andrews,DIRECTOR,1987,13.0,6.1
+101,ts21034,1.0,0.0,0.0,InuYasha,SHOW,TV-14,25,Yasunao Aoki,DIRECTOR,2000,9.0,7.9
+102,ts21034,1.0,0.0,0.0,InuYasha,SHOW,TV-14,25,Masashi Ikeda,DIRECTOR,2000,9.0,7.9
+136,ts28516,1.0,0.0,0.0,Okupas,SHOW,TV-MA,40,Bruno Stagnaro,DIRECTOR,2000,1.0,9.0
+183,ts26091,1.0,0.0,0.0,The Staircase,SHOW,TV-MA,49,Jean-Xavier de Lestrade,DIRECTOR,2004,2.0,7.8
+190,ts20305,1.0,0.0,0.0,Naruto,SHOW,TV-PG,23,Hayato Date,DIRECTOR,2002,6.0,8.4
+233,ts15986,1.0,0.0,0.0,Dead Set,SHOW,TV-MA,141,Yann Demange,DIRECTOR,2008,1.0,7.6
+237,ts30356,1.0,0.0,0.0,Octonauts,SHOW,TV-Y,15,Blair Simmons,DIRECTOR,2010,7.0,7.6
+238,ts30356,1.0,0.0,0.0,Octonauts,SHOW,TV-Y,15,블레어 시몬스,DIRECTOR,2010,7.0,7.6
+276,ts20544,1.0,0.0,0.0,Ouran High School Host Club,SHOW,TV-14,23,Takuya Igarashi,DIRECTOR,2006,1.0,8.2
+278,ts30288,1.0,0.0,0.0,Mobile Suit Gundam Unicorn,SHOW,TV-14,36,Kazuhiro Furuhashi,DIRECTOR,2010,2.0,7.8
+279,ts38159,1.0,0.0,0.0,Wakfu,SHOW,TV-Y7,22,Fabrice Nzinzi,DIRECTOR,2008,3.0,8.1
+282,ts21688,1.0,0.0,0.0,Boys Over Flowers,SHOW,TV-14,64,Jun Ki Sang,DIRECTOR,2009,1.0,7.9
+287,ts12701,1.0,0.0,0.0,Code Lyoko,SHOW,TV-G,24,Jérome Mouscadet,DIRECTOR,2003,5.0,7.3
+290,ts27459,1.0,0.0,0.0,The Legend of Bruce Lee,SHOW,,45,Li Wen Qi,DIRECTOR,2008,1.0,7.0
+291,ts3666,1.0,0.0,0.0,Den-noh Coil,SHOW,TV-Y7,25,Mitsuo Iso,DIRECTOR,2007,1.0,7.8
+320,ts52849,1.0,0.0,0.0,Horrid Henry,SHOW,,13,Dave Unwin,DIRECTOR,2006,5.0,6.3
+389,ts18653,1.0,0.0,0.0,Chhota Bheem,SHOW,,22,Rajiv Chilaka,DIRECTOR,2008,12.0,4.1
+395,ts4866,1.0,0.0,0.0,Fated to Love You,SHOW,TV-G,67,Chen Ming Zhang,DIRECTOR,2008,1.0,7.4
+411,ts74928,1.0,0.0,0.0,Einsatzgruppen: The Nazi Death Squads,SHOW,TV-14,44,Michaël Prazan,DIRECTOR,2009,1.0,7.6
+445,ts12444,1.0,0.0,0.0,The Fierce Wife,SHOW,TV-MA,59,Fu-chun Hsu,DIRECTOR,2010,1.0,6.8
+453,ts39604,1.0,0.0,0.0,The Hospital,SHOW,TV-14,48,Tsai Yueh-Hsun,DIRECTOR,2006,1.0,7.4
+457,ts1413,1.0,0.0,0.0,Autumn's Concerto,SHOW,TV-14,58,Chen Wei-Ling,DIRECTOR,2009,1.0,7.8
+462,ts188031,1.0,0.0,0.0,Pink Zone,SHOW,,0,Alex Diaz,DIRECTOR,2007,1.0,5.8
+466,ts23797,1.0,0.0,0.0,Black & White,SHOW,TV-14,37,Tsai Yueh-Hsun,DIRECTOR,2009,3.0,7.6
+469,ts70843,1.0,0.0,0.0,The Prince Who Turns into a Frog,SHOW,TV-14,44,Ming Zhang Chen,DIRECTOR,2005,1.0,6.7
+470,ts70843,1.0,0.0,0.0,The Prince Who Turns into a Frog,SHOW,TV-14,44,Chun Chieh Liu,DIRECTOR,2005,1.0,6.7
+490,ts124246,1.0,0.0,0.0,Mighty Raju,SHOW,,20,Rajiv Chilaka,DIRECTOR,2010,4.0,4.3
+503,ts32835,1.0,0.0,0.0,Hunter x Hunter,SHOW,TV-14,23,Hiroshi Koujina,DIRECTOR,2011,3.0,9.0
+523,ts81858,1.0,0.0,0.0,Larva,SHOW,TV-G,2,Maeng Joo-gong,DIRECTOR,2011,5.0,7.1
+524,ts22249,1.0,0.0,0.0,Kuroko's Basketball,SHOW,TV-14,24,Shunsuke Tada,DIRECTOR,2012,3.0,8.3
+530,ts34921,1.0,0.0,0.0,Wolverine,SHOW,TV-14,24,Hiroshi Aoyama,DIRECTOR,2011,1.0,6.2
+541,ts26776,1.0,0.0,0.0,Smile PreCure!,SHOW,TV-Y7,23,Takashi Otsuka,DIRECTOR,2012,2.0,6.2
+543,ts33349,1.0,0.0,0.0,Robocar Poli,SHOW,TV-Y,14,Jun-Young Um,DIRECTOR,2011,4.0,6.0
+595,ts32561,1.0,0.0,0.0,Office Girls,SHOW,TV-14,46,Fu-chun Hsu,DIRECTOR,2011,1.0,6.8
+598,ts37864,1.0,0.0,0.0,The Glamorous Imperial Concubine,SHOW,TV-PG,47,Lin Feng,DIRECTOR,2011,1.0,6.8
+608,ts44064,1.0,0.0,0.0,Drunken to Love You,SHOW,TV-14,46,Chen Ming Zhang,DIRECTOR,2011,1.0,6.5
+616,ts27875,1.0,0.0,0.0,Masha's tales,SHOW,TV-Y,5,Oleg Kuzovkov,DIRECTOR,2012,2.0,6.4
+676,ts32271,1.0,0.0,0.0,Shtisel,SHOW,TV-14,49,Alon Zingman,DIRECTOR,2013,3.0,8.6
+678,ts36836,1.0,0.0,0.0,Zach Stone Is Gonna Be Famous,SHOW,TV-PG,20,Stuart McDonald,DIRECTOR,2013,1.0,8.3
+679,ts36836,1.0,0.0,0.0,Zach Stone Is Gonna Be Famous,SHOW,TV-PG,20,Jeffrey Blitz,DIRECTOR,2013,1.0,8.3
+680,ts36836,1.0,0.0,0.0,Zach Stone Is Gonna Be Famous,SHOW,TV-PG,20,Joe Nussbaum,DIRECTOR,2013,1.0,8.3
+681,ts36836,1.0,0.0,0.0,Zach Stone Is Gonna Be Famous,SHOW,TV-PG,20,Jeffrey Walker,DIRECTOR,2013,1.0,8.3
+682,ts36836,1.0,0.0,0.0,Zach Stone Is Gonna Be Famous,SHOW,TV-PG,20,Todd Strauss-Schulson,DIRECTOR,2013,1.0,8.3
+691,ts22445,1.0,0.0,0.0,The Heirs,SHOW,,59,Kang Shin-hyo,DIRECTOR,2013,1.0,7.5
+692,ts22445,1.0,0.0,0.0,The Heirs,SHOW,,59,Boo Sung-Chul,DIRECTOR,2013,1.0,7.5
+703,ts20709,1.0,0.0,0.0,Yowamushi Pedal,SHOW,TV-14,25,Takayoshi Tanasawa,DIRECTOR,2013,4.0,7.7
+704,ts154625,1.0,0.0,0.0,Dérapages,SHOW,,53,Ziad Doueiri,DIRECTOR,2014,2.0,7.9
+710,ts58010,1.0,0.0,0.0,VeggieTales in the House,SHOW,TV-G,18,Craig George,DIRECTOR,2014,4.0,4.2
+711,ts58010,1.0,0.0,0.0,VeggieTales in the House,SHOW,TV-G,18,Bill Breneisen,DIRECTOR,2014,4.0,4.2
+712,ts58010,1.0,0.0,0.0,VeggieTales in the House,SHOW,TV-G,18,Tim Hodge,DIRECTOR,2014,4.0,4.2
+721,ts16117,1.0,0.0,0.0,20 Minutes,SHOW,TV-MA,46,Ali Bilgin,DIRECTOR,2013,1.0,7.1
+731,ts20781,1.0,0.0,0.0,Incomplete Life,SHOW,TV-14,73,Kim Won-seok,DIRECTOR,2014,1.0,8.5
+742,ts34074,1.0,0.0,0.0,"That Winter, the Wind Blows",SHOW,TV-MA,63,Kim Kyu-tae,DIRECTOR,2013,1.0,7.6
+748,ts75833,1.0,0.0,0.0,Masha's Spooky Stories,SHOW,TV-Y,5,Oleg Kuzovkov,DIRECTOR,2014,1.0,6.2
+749,ts75833,1.0,0.0,0.0,Masha's Spooky Stories,SHOW,TV-Y,5,Denis Chervyatsov,DIRECTOR,2014,1.0,6.2
+750,ts75833,1.0,0.0,0.0,Masha's Spooky Stories,SHOW,TV-Y,5,Rinat Gazizov,DIRECTOR,2014,1.0,6.2
+759,ts67797,1.0,0.0,0.0,Sammy & Co,SHOW,TV-PG,15,Olivier Jongerlynck,DIRECTOR,2014,2.0,5.7
+760,ts67797,1.0,0.0,0.0,Sammy & Co,SHOW,TV-PG,15,Nicolas Le Nevé,DIRECTOR,2014,2.0,5.7
+761,ts67797,1.0,0.0,0.0,Sammy & Co,SHOW,TV-PG,15,Nicolas Le Nevé,DIRECTOR,2014,2.0,5.7
+796,ts20238,1.0,0.0,0.0,Boss & Me,SHOW,TV-PG,45,Yoo Jungeol,DIRECTOR,2014,1.0,7.3
+831,ts32752,1.0,0.0,0.0,Two Fathers,SHOW,TV-14,44,Chun Chieh Liu,DIRECTOR,2013,1.0,8.0
+900,ts41963,1.0,0.0,0.0,Easy,SHOW,TV-MA,30,Joe Swanberg,DIRECTOR,2016,3.0,6.9
+924,ts37660,1.0,0.0,0.0,Reply 1988,SHOW,TV-14,92,Shin Won-ho,DIRECTOR,2015,1.0,9.2
+928,ts38758,1.0,0.0,0.0,Ajin,SHOW,TV-MA,23,Hiroyuki Seshita,DIRECTOR,2016,2.0,7.6
+937,ts42257,1.0,0.0,0.0,Signal,SHOW,TV-MA,71,Kim Won-seok,DIRECTOR,2016,2.0,8.5
+941,ts37944,1.0,0.0,0.0,A Very Secret Service,SHOW,TV-MA,27,Alexandre Courtes,DIRECTOR,2015,2.0,7.7
+954,ts41258,1.0,0.0,0.0,Cinderella and Four Knights,SHOW,TV-PG,61,Kwon Hyuk-chan,DIRECTOR,2016,1.0,7.4
+958,ts43209,1.0,0.0,0.0,The Cuba Libre Story,SHOW,TV-14,45,Florian Dedio,DIRECTOR,2015,2.0,7.6
+959,ts43209,1.0,0.0,0.0,The Cuba Libre Story,SHOW,TV-14,45,Kai Christiansen,DIRECTOR,2015,2.0,7.6
+960,ts43209,1.0,0.0,0.0,The Cuba Libre Story,SHOW,TV-14,45,Emmanuel Amara,DIRECTOR,2015,2.0,7.6
+962,ts55365,1.0,0.0,0.0,The Haunted House,SHOW,TV-PG,25,tooniverse,DIRECTOR,2016,7.0,8.3
+973,ts41883,1.0,0.0,0.0,The K2,SHOW,TV-14,65,Kwak Jung-hwan,DIRECTOR,2016,1.0,7.8
+975,ts37804,1.0,0.0,0.0,W/ Bob & David,SHOW,TV-MA,35,Keith Truesdell,DIRECTOR,2015,1.0,7.4
+976,ts37804,1.0,0.0,0.0,W/ Bob & David,SHOW,TV-MA,35,Jason Woliner,DIRECTOR,2015,1.0,7.4
+977,ts35406,1.0,0.0,0.0,Between,SHOW,TV-14,25,Jon Cassar,DIRECTOR,2015,2.0,5.9
+978,ts41253,1.0,0.0,0.0,Love O2O,SHOW,TV-14,45,Lam Yuk Fan,DIRECTOR,2016,1.0,7.9
+982,ts54028,1.0,0.0,0.0,Case,SHOW,,46,Baldvin Z,DIRECTOR,2015,1.0,7.0
+992,ts35359,1.0,0.0,0.0,Heidi,SHOW,TV-Y,23,Jérome Mouscadet,DIRECTOR,2015,2.0,7.1
+998,ts38512,1.0,0.0,0.0,Cooked,SHOW,TV-PG,53,Peter Bull,DIRECTOR,2016,1.0,7.6
+999,ts38512,1.0,0.0,0.0,Cooked,SHOW,TV-PG,53,Ryan Miller,DIRECTOR,2016,1.0,7.6
+1000,ts53106,1.0,0.0,0.0,Tokyo Trial,SHOW,TV-MA,48,Pieter Verhoeff,DIRECTOR,2016,1.0,7.4
+1001,ts53106,1.0,0.0,0.0,Tokyo Trial,SHOW,TV-MA,48,Rob W. King,DIRECTOR,2016,1.0,7.4
+1008,ts74753,1.0,0.0,0.0,Tales by Light,SHOW,,28,Abraham Joffe,DIRECTOR,2015,3.0,8.3
+1019,ts41899,1.0,0.0,0.0,Nightmare Teacher,SHOW,TV-MA,16,Hyun Moon-sub,DIRECTOR,2016,1.0,7.1
+1024,ts56221,1.0,0.0,0.0,Rainbow Ruby,SHOW,TV-Y,12,Shin Tae sik,DIRECTOR,2016,4.0,6.6
+1034,ts38761,1.0,0.0,0.0,Another Miss Oh,SHOW,TV-MA,69,Song Hyun-wook,DIRECTOR,2016,1.0,7.8
+1040,ts74929,1.0,0.0,0.0,H20: Mermaid Adventures,SHOW,TV-Y,24,Tian Xiao Zhang,DIRECTOR,2015,2.0,5.7
+1042,ts38772,1.0,0.0,0.0,Dear My Friends,SHOW,TV-MA,70,Hong Jong-chan,DIRECTOR,2016,1.0,8.2
+1050,ts41260,1.0,0.0,0.0,"Hello, My Twenties!",SHOW,TV-14,63,Lee Tae-gon,DIRECTOR,2016,2.0,8.3
+1052,ts38717,1.0,0.0,0.0,Good Morning Call,SHOW,TV-14,48,Takashi Fujio,DIRECTOR,2016,2.0,7.5
+1053,ts38717,1.0,0.0,0.0,Good Morning Call,SHOW,TV-14,48,Yo Kawahara,DIRECTOR,2016,2.0,7.5
+1054,ts87465,1.0,0.0,0.0,Witch Hunt: A Century of Murder,SHOW,TV-14,46,Chris Holt,DIRECTOR,2015,1.0,7.1
+1062,ts36741,1.0,0.0,0.0,Fartsa,SHOW,TV-14,60,Egor Baranov,DIRECTOR,2015,1.0,6.7
+1069,ts83535,1.0,0.0,0.0,Popples,SHOW,,25,Olivier Derynck,DIRECTOR,2015,3.0,6.0
+1070,ts83535,1.0,0.0,0.0,Popples,SHOW,,25,Ram Ganapati Rao,DIRECTOR,2015,3.0,6.0
+1092,ts41485,1.0,0.0,0.0,Vanished 46,SHOW,TV-MA,63,Serdar Akar,DIRECTOR,2016,1.0,8.2
+1094,ts53543,1.0,0.0,0.0,The Miracle,SHOW,TV-14,18,Kwon Jin Mo,DIRECTOR,2016,1.0,6.3
+1096,ts83224,1.0,0.0,0.0,Toon,SHOW,TV-MA,27,Beer ten Kate,DIRECTOR,2016,2.0,7.6
+1109,ts55556,1.0,0.0,0.0,A Touch of Green,SHOW,TV-MA,53,Jui-Yuan Tsao,DIRECTOR,2015,1.0,8.4
+1136,ts52825,1.0,0.0,0.0,The Princess Weiyoung,SHOW,TV-14,45,Li Huizhu,DIRECTOR,2016,1.0,7.7
+1142,ts35505,1.0,0.0,0.0,Old Money,SHOW,TV-MA,47,David Schalko,DIRECTOR,2015,1.0,7.3
+1143,ts78442,1.0,0.0,0.0,Coach Snoop,SHOW,TV-MA,29,Rory Karpf,DIRECTOR,2016,2.0,6.7
+1144,ts78442,1.0,0.0,0.0,Coach Snoop,SHOW,TV-MA,29,William J. Saunders,DIRECTOR,2016,2.0,6.7
+1156,ts53065,1.0,0.0,0.0,One More Time,SHOW,TV-14,31,Hyun Wook Song,DIRECTOR,2016,1.0,6.8
+1179,ts38812,1.0,0.0,0.0,Fearless,SHOW,,42,Michael John Warren,DIRECTOR,2016,2.0,7.0
+1185,ts21876,1.0,0.0,0.0,My Sunshine,SHOW,TV-PG,45,Chun Chieh Liu,DIRECTOR,2015,1.0,6.5
+1212,ts83450,1.0,0.0,0.0,Close Your Eyes Before It's Dark,SHOW,TV-14,84,Chen-Nien Ko,DIRECTOR,2016,1.0,7.0
+1213,ts83450,1.0,0.0,0.0,Close Your Eyes Before It's Dark,SHOW,TV-14,84,Chen Yu-hsun,DIRECTOR,2016,1.0,7.0
+1217,ts52950,1.0,0.0,0.0,Miss in Kiss,SHOW,TV-14,27,Ching-Fang Lin,DIRECTOR,2016,1.0,7.7
+1245,ts53513,1.0,0.0,0.0,Back to 1989,SHOW,TV-14,44,Ker Choon Hooi,DIRECTOR,2016,1.0,8.0
+1285,ts58367,1.0,0.0,0.0,Safe,SHOW,TV-MA,45,Julia Ford,DIRECTOR,2018,1.0,7.2
+1286,ts58367,1.0,0.0,0.0,Safe,SHOW,TV-MA,45,Daniel Nettheim,DIRECTOR,2018,1.0,7.2
+1287,ts55798,1.0,0.0,0.0,Stranger,SHOW,TV-MA,64,Park Hyun-seok,DIRECTOR,2017,2.0,8.5
+1306,ts84574,1.0,0.0,0.0,Salt Fat Acid Heat,SHOW,,43,Caroline Suh,DIRECTOR,2018,1.0,7.7
+1310,ts78558,1.0,0.0,0.0,Queer Eye,SHOW,TV-14,47,Aaron Krummel,DIRECTOR,2018,6.0,8.5
+1314,ts79926,1.0,0.0,0.0,James Acaster: Repertoire,SHOW,TV-14,52,Daniel Lucchesi,DIRECTOR,2018,1.0,8.4
+1322,ts78430,1.0,0.0,0.0,Collateral,SHOW,TV-MA,57,S.J. Clarkson,DIRECTOR,2018,1.0,6.7
+1327,ts55645,1.0,0.0,0.0,Five Came Back,SHOW,TV-MA,65,Laurent Bouzereau,DIRECTOR,2017,1.0,8.3
+1337,ts80705,1.0,0.0,0.0,Evil Genius,SHOW,TV-MA,48,Barbara Schroeder,DIRECTOR,2018,1.0,7.5
+1354,ts80523,1.0,0.0,0.0,Aggretsuko,SHOW,TV-14,17,lareco,DIRECTOR,2018,4.0,8.0
+1356,ts77957,1.0,0.0,0.0,Dirty Money,SHOW,TV-14,63,Daniel Sandu,DIRECTOR,2018,2.0,8.1
+1357,ts86296,1.0,0.0,0.0,Sunderland 'Til I Die,SHOW,TV-MA,41,Tom Mallion,DIRECTOR,2018,2.0,8.1
+1360,ts53936,1.0,0.0,0.0,Innocent,SHOW,TV-14,51,Seren Yüce,DIRECTOR,2017,1.0,8.4
+1363,ts85895,1.0,0.0,0.0,Better Than Us,SHOW,TV-MA,52,Andrey Dzhunkovskiy,DIRECTOR,2018,2.0,7.3
+1366,ts77525,1.0,0.0,0.0,The Toys That Made Us,SHOW,TV-14,45,Brian Volk-Weiss,DIRECTOR,2017,3.0,8.0
+1367,ts77525,1.0,0.0,0.0,The Toys That Made Us,SHOW,TV-14,45,Tom Stern,DIRECTOR,2017,3.0,8.0
+1370,ts85568,1.0,0.0,0.0,Perfume,SHOW,TV-MA,58,Philipp Kadelbach,DIRECTOR,2018,1.0,7.1
+1371,ts77474,1.0,0.0,0.0,Mr. Sunshine,SHOW,TV-MA,76,Lee Eung-bok,DIRECTOR,2018,1.0,8.7
+1382,ts75263,1.0,0.0,0.0,Wormwood,SHOW,TV-14,43,Errol Morris,DIRECTOR,2017,1.0,7.0
+1393,ts83745,1.0,0.0,0.0,Norm Macdonald Has a Show,SHOW,,30,Gene Bernard,DIRECTOR,2018,1.0,8.5
+1394,ts85810,1.0,0.0,0.0,Al Hayba,SHOW,TV-PG,44,Samer AL Barkawi,DIRECTOR,2017,5.0,7.3
+1402,ts57082,1.0,0.0,0.0,White Gold,SHOW,TV-MA,29,Damon Beesley,DIRECTOR,2017,2.0,7.4
+1435,ts55581,1.0,0.0,0.0,The Bride of Habaek,SHOW,TV-14,67,Kim Byung-soo,DIRECTOR,2017,1.0,6.9
+1438,ts81318,1.0,0.0,0.0,When Heroes Fly,SHOW,,48,Omri Givon,DIRECTOR,2018,1.0,7.2
+1448,ts83360,1.0,0.0,0.0,The Guest,SHOW,TV-MA,66,Kim Hong-sun,DIRECTOR,2018,1.0,8.1
+1453,ts75749,1.0,0.0,0.0,Because This Is My First Life,SHOW,TV-14,69,Park Joon-hwa,DIRECTOR,2017,1.0,8.1
+1454,ts76486,1.0,0.0,0.0,Just Between Lovers,SHOW,TV-14,73,Kim Jin-won,DIRECTOR,2017,1.0,8.2
+1457,ts82892,1.0,0.0,0.0,I Am a Killer,SHOW,TV-MA,50,Gareth Morrow,DIRECTOR,2018,3.0,7.4
+1463,ts76417,1.0,0.0,0.0,Tabula Rasa,SHOW,TV-MA,52,Jonas Govaerts,DIRECTOR,2017,1.0,8.0
+1464,ts76417,1.0,0.0,0.0,Tabula Rasa,SHOW,TV-MA,52,Kaat Beels,DIRECTOR,2017,1.0,8.0
+1465,ts53367,1.0,0.0,0.0,Little Witch Academia,SHOW,TV-PG,25,Yoh Yoshinari,DIRECTOR,2017,1.0,7.9
+1469,ts53101,1.0,0.0,0.0,Voice,SHOW,TV-14,63,Shin Yong Hwi,DIRECTOR,2017,4.0,7.6
+1474,ts86814,1.0,0.0,0.0,Murder Mountain,SHOW,TV-MA,43,Joshua Zeman,DIRECTOR,2018,1.0,6.8
+1479,ts80720,1.0,0.0,0.0,Scissor Seven,SHOW,TV-PG,16,He Xiaofeng,DIRECTOR,2018,3.0,8.6
+1488,ts83251,1.0,0.0,0.0,Magic for Humans,SHOW,TV-14,23,Adam Franklin,DIRECTOR,2018,3.0,7.1
+1492,ts77034,1.0,0.0,0.0,A Love So Beautiful,SHOW,TV-14,41,탕빈,DIRECTOR,2017,1.0,8.0
+1496,ts85968,1.0,0.0,0.0,Nicky Jam: El Ganador,SHOW,,44,Jessy Terrero,DIRECTOR,2018,1.0,7.7
+1500,ts75620,1.0,0.0,0.0,Black,SHOW,TV-MA,78,Ko Jae-hyun,DIRECTOR,2017,2.0,7.9
+1501,ts75620,1.0,0.0,0.0,Black,SHOW,TV-MA,78,Kim Hong-sun,DIRECTOR,2017,2.0,7.9
+1504,ts58175,1.0,0.0,0.0,She's Gotta Have It,SHOW,TV-MA,35,Spike Lee,DIRECTOR,2017,2.0,6.7
+1511,ts85170,1.0,0.0,0.0,Memories of the Alhambra,SHOW,TV-MA,65,Ahn Gil-ho,DIRECTOR,2018,1.0,7.8
+1513,ts75477,1.0,0.0,0.0,The Confession Tapes,SHOW,TV-MA,45,Kelly Loudenberg,DIRECTOR,2017,2.0,7.5
+1514,ts83502,1.0,0.0,0.0,Ad Vitam,SHOW,TV-MA,52,Sébastien Mounier,DIRECTOR,2018,1.0,6.4
+1515,ts83502,1.0,0.0,0.0,Ad Vitam,SHOW,TV-MA,52,Thomas Cailley,DIRECTOR,2018,1.0,6.4
+1519,ts58297,1.0,0.0,0.0,The Indian Detective,SHOW,,43,Sandy Johnson,DIRECTOR,2017,1.0,6.5
+1520,ts80959,1.0,0.0,0.0,Sacred Games,SHOW,TV-MA,50,Neeraj Ghaywan,DIRECTOR,2018,2.0,8.5
+1521,ts80959,1.0,0.0,0.0,Sacred Games,SHOW,TV-MA,50,Vikramaditya Motwane,DIRECTOR,2018,2.0,8.5
+1522,ts80959,1.0,0.0,0.0,Sacred Games,SHOW,TV-MA,50,Anurag Kashyap,DIRECTOR,2018,2.0,8.5
+1530,ts81414,1.0,0.0,0.0,Meteor Garden,SHOW,TV-14,45,Lin He Long,DIRECTOR,2018,1.0,7.9
+1531,ts76793,1.0,0.0,0.0,Shot in the Dark,SHOW,TV-MA,37,Jeff Daniels,DIRECTOR,2017,1.0,8.0
+1532,ts78231,1.0,0.0,0.0,Unsolved: The Murders of Tupac and The Notorious B.I.G.,SHOW,TV-MA,45,Darren Grant,DIRECTOR,2018,1.0,7.8
+1533,ts78231,1.0,0.0,0.0,Unsolved: The Murders of Tupac and The Notorious B.I.G.,SHOW,TV-MA,45,Erica A. Watson,DIRECTOR,2018,1.0,7.8
+1534,ts321277,1.0,0.0,0.0,Daniel Sloss: Live Shows,SHOW,TV-MA,60,Ryan Polito,DIRECTOR,2018,1.0,8.5
+1535,ts321277,1.0,0.0,0.0,Daniel Sloss: Live Shows,SHOW,TV-MA,60,Daniel Sloss,DIRECTOR,2018,1.0,8.5
+1536,ts83790,1.0,0.0,0.0,The Beauty Inside,SHOW,TV-14,59,Song Hyun-wook,DIRECTOR,2018,1.0,7.6
+1541,ts236347,1.0,0.0,0.0,Thus Spoke Kishibe Rohan,SHOW,TV-MA,24,Kazutaka Watanabe,DIRECTOR,2017,1.0,7.5
+1550,ts75341,1.0,0.0,0.0,Final Fantasy XIV: Dad of Light,SHOW,TV-PG,30,Teruo Noguchi,DIRECTOR,2017,1.0,7.2
+1551,ts75341,1.0,0.0,0.0,Final Fantasy XIV: Dad of Light,SHOW,TV-PG,30,Kiyoshi Yamamoto,DIRECTOR,2017,1.0,7.2
+1553,ts57811,1.0,0.0,0.0,Fate/Apocrypha,SHOW,TV-14,24,Yoshiyuki Asai,DIRECTOR,2017,1.0,6.6
+1560,ts85837,1.0,0.0,0.0,SKY Castle,SHOW,TV-MA,68,Jo Hyun-tak,DIRECTOR,2018,1.0,8.6
+1571,ts53399,1.0,0.0,0.0,Eternal Love,SHOW,TV-14,45,Lam Yuk Fan,DIRECTOR,2017,1.0,8.3
+1573,ts82445,1.0,0.0,0.0,Ashes of Love,SHOW,TV-14,43,Zhu Ruibin,DIRECTOR,2018,1.0,8.3
+1574,ts82445,1.0,0.0,0.0,Ashes of Love,SHOW,TV-14,43,Cheng Feng,DIRECTOR,2018,1.0,8.3
+1575,ts80411,1.0,0.0,0.0,Lawless Lawyer,SHOW,TV-14,64,Kim Jin-min,DIRECTOR,2018,1.0,7.6
+1576,ts55232,1.0,0.0,0.0,Cyborg 009: Call of Justice,SHOW,,24,Kenji Kamiyama,DIRECTOR,2017,1.0,5.7
+1586,ts80479,1.0,0.0,0.0,Clean with Passion for Now,SHOW,TV-MA,60,Noh Jong-chan,DIRECTOR,2018,1.0,6.9
+1587,ts82268,1.0,0.0,0.0,GHOUL,SHOW,TV-MA,46,Patrick Graham,DIRECTOR,2018,2.0,8.0
+1590,ts90594,1.0,0.0,0.0,Barbie: Dreamhouse Adventures,SHOW,TV-Y,22,Conrad Helten,DIRECTOR,2018,5.0,6.7
+1591,ts76603,1.0,0.0,0.0,Erased,SHOW,TV-14,28,Ten Shimoyama,DIRECTOR,2017,1.0,7.8
+1592,ts87194,1.0,0.0,0.0,Instant Hotel,SHOW,TV-MA,49,John Karabelas,DIRECTOR,2018,2.0,7.3
+1596,ts82631,1.0,0.0,0.0,Monkey Twins,SHOW,,49,Nonthakorn Thaweesuk,DIRECTOR,2018,1.0,7.9
+1598,ts76753,1.0,0.0,0.0,A Korean Odyssey,SHOW,TV-MA,75,Kim Jung-hyun,DIRECTOR,2017,1.0,8.0
+1599,ts76753,1.0,0.0,0.0,A Korean Odyssey,SHOW,TV-MA,75,Park Hong-kyun,DIRECTOR,2017,1.0,8.0
+1601,ts84646,1.0,0.0,0.0,Warrior,SHOW,TV-MA,42,Christoffer Boe,DIRECTOR,2018,1.0,6.7
+1604,ts81583,1.0,0.0,0.0,Life,SHOW,,65,Hong Jong-chan,DIRECTOR,2018,1.0,7.6
+1611,ts79997,1.0,0.0,0.0,Something in the Rain,SHOW,TV-MA,73,Ahn Pan-seok,DIRECTOR,2018,1.0,8.1
+1614,ts76478,1.0,0.0,0.0,Prison Playbook,SHOW,,92,Shin Won-ho,DIRECTOR,2017,1.0,8.5
+1620,ts75750,1.0,0.0,0.0,Revolutionary Love,SHOW,TV-MA,68,Song Hyun-wook,DIRECTOR,2017,1.0,6.9
+1622,ts77545,1.0,0.0,0.0,Dope,SHOW,TV-MA,44,Rob VanAlkemade,DIRECTOR,2017,3.0,7.3
+1625,ts80313,1.0,0.0,0.0,Bobby Kennedy for President,SHOW,TV-MA,61,Dawn Porter,DIRECTOR,2018,1.0,8.1
+1630,ts79679,1.0,0.0,0.0,The Yard,SHOW,TV-MA,108,Yüksel Aksu,DIRECTOR,2018,3.0,7.1
+1631,ts82298,1.0,0.0,0.0,Familiar Wife,SHOW,TV-MA,62,Lee Sang-yeob,DIRECTOR,2018,1.0,7.7
+1636,ts77014,1.0,0.0,0.0,Wolf,SHOW,TV-MA,75,Cem Özüduru,DIRECTOR,2018,1.0,8.0
+1637,ts77014,1.0,0.0,0.0,Wolf,SHOW,TV-MA,75,Can Emre,DIRECTOR,2018,1.0,8.0
+1638,ts82181,1.0,0.0,0.0,Back Street Girls -GOKUDOLS-,SHOW,TV-MA,24,Chiaki Kon,DIRECTOR,2018,1.0,6.7
+1673,ts79219,1.0,0.0,0.0,Flint Town,SHOW,TV-MA,42,Jessica Dimmock,DIRECTOR,2018,1.0,7.8
+1674,ts79219,1.0,0.0,0.0,Flint Town,SHOW,TV-MA,42,Drea Cooper,DIRECTOR,2018,1.0,7.8
+1675,ts79219,1.0,0.0,0.0,Flint Town,SHOW,TV-MA,42,Zackary Canepari,DIRECTOR,2018,1.0,7.8
+1679,ts85183,1.0,0.0,0.0,Vai Anitta,SHOW,TV-MA,30,Andrucha Waddington,DIRECTOR,2018,2.0,5.5
+1680,ts85183,1.0,0.0,0.0,Vai Anitta,SHOW,TV-MA,30,Charlie Askew,DIRECTOR,2018,2.0,5.5
+1682,ts76245,1.0,0.0,0.0,The Day I Met El Chapo: The Kate del Castillo Story,SHOW,TV-MA,55,Carlos Armella,DIRECTOR,2017,1.0,6.8
+1688,ts56636,1.0,0.0,0.0,My Sassy Girl,SHOW,TV-14,44,Oh Jin-seok,DIRECTOR,2017,1.0,6.8
+1692,ts55978,1.0,0.0,0.0,Samurai Gourmet,SHOW,,21,Michihito Fujii,DIRECTOR,2017,1.0,8.1
+1693,ts55978,1.0,0.0,0.0,Samurai Gourmet,SHOW,,21,Mamoru Hoshi,DIRECTOR,2017,1.0,8.1
+1699,ts78789,1.0,0.0,0.0,Re: Mind,SHOW,TV-MA,23,Yûsuke Koroyasu,DIRECTOR,2017,1.0,4.9
+1700,ts78789,1.0,0.0,0.0,Re: Mind,SHOW,TV-MA,23,Yusuke Ishida,DIRECTOR,2017,1.0,4.9
+1701,ts78789,1.0,0.0,0.0,Re: Mind,SHOW,TV-MA,23,Akira Uchikata,DIRECTOR,2017,1.0,4.9
+1708,ts78913,1.0,0.0,0.0,Live,SHOW,,61,Kim Kyu-tae,DIRECTOR,2018,1.0,8.3
+1713,ts53516,1.0,0.0,0.0,Edgar Rice Burroughs' Tarzan and Jane,SHOW,TV-Y7,21,Jesse Lickman,DIRECTOR,2017,2.0,4.6
+1723,ts57913,1.0,0.0,0.0,Strongest Deliveryman,SHOW,TV-MA,55,Kim Shin-il,DIRECTOR,2017,1.0,7.3
+1724,ts57913,1.0,0.0,0.0,Strongest Deliveryman,SHOW,TV-MA,55,Jeon Woo-sung,DIRECTOR,2017,1.0,7.3
+1728,ts58442,1.0,0.0,0.0,Live Up To Your Name,SHOW,TV-MA,69,Hong Jong-chan,DIRECTOR,2017,1.0,8.0
+1732,ts77405,1.0,0.0,0.0,Bad Guys: Vile City,SHOW,,64,Han Dong-hwa,DIRECTOR,2017,1.0,5.9
+1742,ts83213,1.0,0.0,0.0,The Rise of Phoenixes,SHOW,TV-14,45,Yan Shen,DIRECTOR,2018,1.0,8.4
+1743,ts83213,1.0,0.0,0.0,The Rise of Phoenixes,SHOW,TV-14,45,刘海波,DIRECTOR,2018,1.0,8.4
+1747,ts82419,1.0,0.0,0.0,Zac & Mia,SHOW,TV-14,20,Jason Perlman,DIRECTOR,2017,2.0,7.8
+1752,ts55484,1.0,0.0,0.0,My Only Love Song,SHOW,TV-MA,29,Min Doo-sik,DIRECTOR,2017,1.0,7.0
+1759,ts80413,1.0,0.0,0.0,Busted!,SHOW,TV-14,75,Jang Hyuk-jae,DIRECTOR,2018,3.0,7.6
+1760,ts80413,1.0,0.0,0.0,Busted!,SHOW,TV-14,75,Jo Hyo-jin,DIRECTOR,2018,3.0,7.6
+1761,ts80413,1.0,0.0,0.0,Busted!,SHOW,TV-14,75,Kim Joo-hyung,DIRECTOR,2018,3.0,7.6
+1774,ts53264,1.0,0.0,0.0,My Shy Boss,SHOW,TV-MA,71,Song Hyun-wook,DIRECTOR,2017,1.0,7.2
+1775,ts83359,1.0,0.0,0.0,100 Days My Prince,SHOW,TV-14,75,Lee Jong-jae,DIRECTOR,2018,1.0,7.7
+1777,ts75012,1.0,0.0,0.0,Million Yen Women,SHOW,,30,Michihito Fujii,DIRECTOR,2017,1.0,7.6
+1790,ts78353,1.0,0.0,0.0,Misty,SHOW,TV-MA,71,Mo Wan-il,DIRECTOR,2018,1.0,8.1
+1793,ts82296,1.0,0.0,0.0,My ID is Gangnam Beauty,SHOW,TV-MA,57,Choi Seong-beom,DIRECTOR,2018,1.0,7.4
+1796,ts83430,1.0,0.0,0.0,Smoking,SHOW,TV-MA,24,Hajime Gonno,DIRECTOR,2018,2.0,7.4
+1810,ts85276,1.0,0.0,0.0,Hymn of Death,SHOW,,45,Park Soo-zin,DIRECTOR,2018,1.0,7.6
+1833,ts55936,1.0,0.0,0.0,My Secret Romance,SHOW,TV-14,52,Kang Cheol-Woo,DIRECTOR,2017,1.0,7.1
+1839,ts82875,1.0,0.0,0.0,Switched,SHOW,TV-MA,39,Hiroaki Matsuyama,DIRECTOR,2018,1.0,7.1
+1841,ts80410,1.0,0.0,0.0,Kantaro: The Sweet Tooth Salaryman,SHOW,,30,Kentaro Moriya,DIRECTOR,2017,1.0,7.6
+1842,ts80410,1.0,0.0,0.0,Kantaro: The Sweet Tooth Salaryman,SHOW,,30,Yusuke Ishida,DIRECTOR,2017,1.0,7.6
+1849,ts112279,1.0,0.0,0.0,Empire Games,SHOW,,49,Robert Kirk,DIRECTOR,2018,1.0,5.8
+1850,ts112279,1.0,0.0,0.0,Empire Games,SHOW,,49,Max Serio,DIRECTOR,2018,1.0,5.8
+1883,ts74765,1.0,0.0,0.0,Daughters of Destiny,SHOW,,61,Vanessa Roth,DIRECTOR,2017,1.0,8.6
+1887,ts75887,1.0,0.0,0.0,Paul Hollywood's Big Continental Road Trip,SHOW,TV-14,59,Ewan Keil,DIRECTOR,2017,1.0,7.4
+1895,ts76646,1.0,0.0,0.0,Blazing Transfer Students,SHOW,TV-MA,26,Toshio Lee,DIRECTOR,2017,1.0,6.9
+1896,ts75138,1.0,0.0,0.0,Argon,SHOW,,63,Lee Yoon-jung,DIRECTOR,2017,1.0,7.3
+1900,ts80342,1.0,0.0,0.0,AMO,SHOW,TV-MA,24,Brillante Mendoza,DIRECTOR,2018,1.0,6.4
+1901,ts57291,1.0,0.0,0.0,Unrequited Love,SHOW,,33,Ding Pei,DIRECTOR,2017,1.0,6.7
+1902,ts57291,1.0,0.0,0.0,Unrequited Love,SHOW,,33,Ba Yue Chang An,DIRECTOR,2017,1.0,6.7
+1932,ts82192,1.0,0.0,0.0,Samantha!,SHOW,TV-MA,28,Luis Pinheiro,DIRECTOR,2018,2.0,6.5
+1949,ts103638,1.0,0.0,0.0,Standup and Away! with Brian Regan,SHOW,TV-PG,25,Troy Miller,DIRECTOR,2018,1.0,5.7
+1959,ts56251,1.0,0.0,0.0,ID-0,SHOW,TV-14,24,Goro Taniguchi,DIRECTOR,2017,1.0,6.1
+1994,ts85660,1.0,0.0,0.0,The Sound of Your Heart: Reboot,SHOW,,34,Jeong Jeong-hwa,DIRECTOR,2018,2.0,5.9
+2054,ts85515,1.0,0.0,0.0,Bangkok Love Stories 2: Innocence,SHOW,,44,Suttasit Dechintaranarak,DIRECTOR,2018,1.0,6.6
+2078,ts83663,1.0,0.0,0.0,A Taiwanese Tale of Two Cities,SHOW,,69,Tien-Lun Yeh,DIRECTOR,2018,2.0,6.1
+2101,ts58061,1.0,0.0,0.0,Memories of Love,SHOW,TV-PG,44,yoo samsam,DIRECTOR,2018,1.0,5.7
+2111,ts82887,1.0,0.0,0.0,The Could've-Gone-All-the-Way Committee,SHOW,TV-14,24,Masatoshi Yamaguchi,DIRECTOR,2018,1.0,6.8
+2203,ts80859,1.0,0.0,0.0,Here to Heart,SHOW,TV-14,45,Tien Jen Huang,DIRECTOR,2018,1.0,7.5
+2238,ts80445,1.0,0.0,0.0,The Honeymoon Stand Up Special,SHOW,,32,Jay Karas,DIRECTOR,2018,1.0,6.8
+2245,ts250172,1.0,0.0,0.0,Afronta!,SHOW,TV-PG,14,Juliana Vicente,DIRECTOR,2017,1.0,7.4
+2247,ts97584,1.0,0.0,0.0,Highland: Thailand's Marijuana Awakening,SHOW,TV-MA,20,William Mitchell,DIRECTOR,2017,1.0,6.2
+2260,ts215046,1.0,0.0,0.0,Capitani,SHOW,TV-MA,29,Christophe Wagner,DIRECTOR,2019,2.0,6.6
+2261,ts81120,1.0,0.0,0.0,The Last Dance,SHOW,TV-MA,50,Jason Hehir,DIRECTOR,2020,1.0,9.1
+2294,ts223210,1.0,0.0,0.0,Don't F**k with Cats: Hunting an Internet Killer,SHOW,TV-MA,62,Mark Lewis,DIRECTOR,2019,1.0,8.0
+2297,ts107724,1.0,0.0,0.0,The Defeated,SHOW,TV-MA,55,Måns Mårlind,DIRECTOR,2020,1.0,7.0
+2304,ts218802,1.0,0.0,0.0,The Family,SHOW,TV-14,50,Jesse Moss,DIRECTOR,2019,1.0,6.4
+2306,ts225651,1.0,0.0,0.0,Feel Good,SHOW,TV-MA,25,Luke Snellin,DIRECTOR,2020,2.0,7.5
+2313,ts304505,1.0,0.0,0.0,Love Is Blind,SHOW,TV-MA,54,Brian Smith,DIRECTOR,2020,5.0,6.1
+2314,ts91039,1.0,0.0,0.0,The Chef Show,SHOW,TV-MA,31,Jon Favreau,DIRECTOR,2019,2.0,8.2
+2323,ts242210,1.0,0.0,0.0,The Cursed,SHOW,TV-MA,62,Kim Yong-wan,DIRECTOR,2020,1.0,7.1
+2324,ts116814,1.0,0.0,0.0,The Twelve,SHOW,TV-MA,48,Wouter Bouvijn,DIRECTOR,2019,1.0,7.4
+2340,ts237560,1.0,0.0,0.0,Jeffrey Epstein: Filthy Rich,SHOW,TV-MA,57,Lisa Bryant,DIRECTOR,2020,1.0,7.1
+2341,ts269397,1.0,0.0,0.0,Bogdan Boner: Egzorcysta,SHOW,TV-MA,12,Bartosz Walaszek,DIRECTOR,2020,2.0,7.3
+2346,ts103133,1.0,0.0,0.0,I Am Not Okay with This,SHOW,TV-MA,21,Jonathan Entwistle,DIRECTOR,2020,1.0,7.5
+2350,ts89014,1.0,0.0,0.0,DC Super Hero Girls,SHOW,TV-PG,10,Noëlle Raffaele,DIRECTOR,2019,2.0,7.1
+2355,ts215683,1.0,0.0,0.0,The Untamed,SHOW,TV-14,44,Ka-Lam Chan,DIRECTOR,2019,1.0,8.8
+2356,ts215683,1.0,0.0,0.0,The Untamed,SHOW,TV-14,44,Steve Cheng,DIRECTOR,2019,1.0,8.8
+2369,ts224907,1.0,0.0,0.0,Backstreet Rookie,SHOW,TV-14,62,Lee Myung-woo,DIRECTOR,2020,1.0,7.4
+2370,ts161737,1.0,0.0,0.0,Dare Me,SHOW,TV-MA,43,Josephine Decker,DIRECTOR,2019,1.0,6.6
+2376,ts105047,1.0,0.0,0.0,To the Lake,SHOW,TV-MA,51,Dmitry Tyurin,DIRECTOR,2019,2.0,7.2
+2384,ts242820,1.0,0.0,0.0,Floor is Lava,SHOW,TV-Y7,31,Brian Smith,DIRECTOR,2020,2.0,5.3
+2387,ts82361,1.0,0.0,0.0,Ultraman,SHOW,TV-14,24,Kenji Kamiyama,DIRECTOR,2019,3.0,6.8
+2388,ts82361,1.0,0.0,0.0,Ultraman,SHOW,TV-14,24,Shinji Aramaki,DIRECTOR,2019,3.0,6.8
+2395,ts224859,1.0,0.0,0.0,The Pharmacist,SHOW,TV-MA,54,Jenner Furst,DIRECTOR,2020,1.0,7.7
+2396,ts224859,1.0,0.0,0.0,The Pharmacist,SHOW,TV-MA,54,Julia Willoughby Nason,DIRECTOR,2020,1.0,7.7
+2399,ts269690,1.0,0.0,0.0,Schulz Saves America,SHOW,TV-MA,17,AlexxMedia,DIRECTOR,2020,1.0,7.3
+2402,ts223240,1.0,0.0,0.0,Itaewon Class,SHOW,TV-MA,70,Kim Seong-yoon,DIRECTOR,2020,1.0,8.2
+2414,ts225101,1.0,0.0,0.0,Start-Up,SHOW,TV-14,80,Oh Choong-hwan,DIRECTOR,2020,1.0,8.1
+2416,ts223404,1.0,0.0,0.0,It's Okay to Not Be Okay,SHOW,TV-MA,76,Park Shin-woo,DIRECTOR,2020,1.0,8.6
+2417,ts89075,1.0,0.0,0.0,Her Private Life,SHOW,TV-14,75,Hong Jong-chan,DIRECTOR,2019,2.0,7.7
+2419,ts236747,1.0,0.0,0.0,Middleditch & Schwartz,SHOW,TV-MA,51,Ryan Polito,DIRECTOR,2020,1.0,8.6
+2425,ts87364,1.0,0.0,0.0,Conversations with a Killer: The Ted Bundy Tapes,SHOW,TV-MA,59,Joe Berlinger,DIRECTOR,2019,1.0,7.8
+2432,ts268560,1.0,0.0,0.0,The Uncanny Counter,SHOW,TV-14,64,You Sun-dong,DIRECTOR,2020,1.0,8.1
+2440,ts236091,1.0,0.0,0.0,Oh My Baby,SHOW,TV-14,68,Nam Ki-hoon,DIRECTOR,2020,1.0,7.2
+2443,ts81646,1.0,0.0,0.0,Chambers,SHOW,TV-MA,44,Francesca Gregorini,DIRECTOR,2019,1.0,6.4
+2444,ts81646,1.0,0.0,0.0,Chambers,SHOW,TV-MA,44,Sydney Freeland,DIRECTOR,2019,1.0,6.4
+2445,ts81646,1.0,0.0,0.0,Chambers,SHOW,TV-MA,44,Geeta Patel,DIRECTOR,2019,1.0,6.4
+2446,ts81646,1.0,0.0,0.0,Chambers,SHOW,TV-MA,44,Tony Goldwyn,DIRECTOR,2019,1.0,6.4
+2447,ts81646,1.0,0.0,0.0,Chambers,SHOW,TV-MA,44,Lucy Tcherniak,DIRECTOR,2019,1.0,6.4
+2449,ts108392,1.0,0.0,0.0,The Letter for the King,SHOW,TV-PG,47,Felix Thompson,DIRECTOR,2020,1.0,5.9
+2450,ts108392,1.0,0.0,0.0,The Letter for the King,SHOW,TV-PG,47,Charles Martin,DIRECTOR,2020,1.0,5.9
+2451,ts108392,1.0,0.0,0.0,The Letter for the King,SHOW,TV-PG,47,Alex Holmes,DIRECTOR,2020,1.0,5.9
+2456,ts84586,1.0,0.0,0.0,Spinning Out,SHOW,TV-MA,49,Jon Amiel,DIRECTOR,2020,1.0,7.6
+2457,ts84586,1.0,0.0,0.0,Spinning Out,SHOW,TV-MA,49,Matthew Hastings,DIRECTOR,2020,1.0,7.6
+2458,ts84586,1.0,0.0,0.0,Spinning Out,SHOW,TV-MA,49,Norma Bailey,DIRECTOR,2020,1.0,7.6
+2462,ts86726,1.0,0.0,0.0,Tidying Up with Marie Kondo,SHOW,TV-PG,40,Jade Sandberg Wallis,DIRECTOR,2019,1.0,6.6
+2471,ts271247,1.0,0.0,0.0,LEGO City Adventures,SHOW,TV-Y7,13,Dana Dorian,DIRECTOR,2019,4.0,6.7
+2472,ts271247,1.0,0.0,0.0,LEGO City Adventures,SHOW,TV-Y7,13,Yoo Seon Ju,DIRECTOR,2019,4.0,6.7
+2477,ts321758,1.0,0.0,0.0,Vagabond,SHOW,TV-MA,63,Yoo In-sik,DIRECTOR,2019,1.0,8.2
+2483,ts256309,1.0,0.0,0.0,Aunty Donna's Big Ol House of Fun,SHOW,TV-MA,20,Max Miller,DIRECTOR,2020,1.0,7.9
+2484,ts219080,1.0,0.0,0.0,Caliphate,SHOW,TV-MA,48,Goran Kapetanović,DIRECTOR,2020,1.0,8.2
+2489,ts223759,1.0,0.0,0.0,Killer Inside: The Mind of Aaron Hernandez,SHOW,TV-MA,67,Geno McDermott,DIRECTOR,2020,1.0,7.4
+2497,ts89958,1.0,0.0,0.0,Arthdal Chronicles,SHOW,,80,Kim Won-seok,DIRECTOR,2019,3.0,8.3
+2500,ts225787,1.0,0.0,0.0,Unabomber: In His Own Words,SHOW,TV-MA,44,Mick Grogan,DIRECTOR,2020,1.0,7.2
+2515,ts237513,1.0,0.0,0.0,Ju-On: Origins,SHOW,TV-MA,29,Shô Miyake,DIRECTOR,2020,1.0,6.1
+2519,ts235862,1.0,0.0,0.0,My Unfamiliar Family,SHOW,TV-14,73,Kwon Young-il,DIRECTOR,2020,1.0,7.8
+2521,ts236501,1.0,0.0,0.0,Valeria,SHOW,TV-MA,41,Nely Reguera,DIRECTOR,2020,2.0,6.5
+2522,ts236501,1.0,0.0,0.0,Valeria,SHOW,TV-MA,41,Inma Torrente,DIRECTOR,2020,2.0,6.5
+2526,ts106126,1.0,0.0,0.0,The Bonfire of Destiny,SHOW,TV-MA,50,Alexandre Laurent,DIRECTOR,2019,1.0,7.6
+2530,ts225430,1.0,0.0,0.0,Mystic Pop-up Bar,SHOW,,70,Jeon Chang-geun,DIRECTOR,2020,1.0,8.0
+2532,ts88352,1.0,0.0,0.0,Designated Survivor: 60 Days,SHOW,,74,Yoo Jong-sun,DIRECTOR,2019,1.0,8.1
+2541,ts225716,1.0,0.0,0.0,Family Business,SHOW,TV-MA,33,Igor Gotesman,DIRECTOR,2019,3.0,7.4
+2545,ts189629,1.0,0.0,0.0,"Nisman. The Prosecutor, the President and the Spy",SHOW,,62,Justin Webster,DIRECTOR,2019,1.0,7.6
+2550,ts223126,1.0,0.0,0.0,The Confession Killer,SHOW,TV-14,48,Robert Kenner,DIRECTOR,2019,1.0,7.4
+2551,ts223126,1.0,0.0,0.0,The Confession Killer,SHOW,TV-14,48,Taki Oldham,DIRECTOR,2019,1.0,7.4
+2555,ts236725,1.0,0.0,0.0,Lenox Hill,SHOW,TV-MA,48,Adi Barash,DIRECTOR,2020,1.0,8.6
+2556,ts236725,1.0,0.0,0.0,Lenox Hill,SHOW,TV-MA,48,Ruthie Shatz,DIRECTOR,2020,1.0,8.6
+2569,ts238242,1.0,0.0,0.0,The Great Heist,SHOW,TV-MA,42,Pablo González,DIRECTOR,2020,1.0,7.3
+2570,ts238242,1.0,0.0,0.0,The Great Heist,SHOW,TV-MA,42,Camilo Salazar Prince,DIRECTOR,2020,1.0,7.3
+2577,ts236051,1.0,0.0,0.0,The Least Expected Day: Inside the Movistar Team 2019,SHOW,TV-MA,30,José Larraza,DIRECTOR,2020,3.0,7.4
+2578,ts236051,1.0,0.0,0.0,The Least Expected Day: Inside the Movistar Team 2019,SHOW,TV-MA,30,Marc Pons,DIRECTOR,2020,3.0,7.4
+2582,ts223238,1.0,0.0,0.0,My Holo Love,SHOW,TV-14,53,Lee Sang-yeob,DIRECTOR,2020,1.0,7.6
+2583,ts88296,1.0,0.0,0.0,Ares,SHOW,TV-MA,29,Giancarlo Sanchez,DIRECTOR,2020,1.0,5.7
+2584,ts88296,1.0,0.0,0.0,Ares,SHOW,TV-MA,29,Michiel ten Horn,DIRECTOR,2020,1.0,5.7
+2585,ts86744,1.0,0.0,0.0,Romance Is a Bonus Book,SHOW,,63,Lee Jung-hyo,DIRECTOR,2019,1.0,8.0
+2595,ts92547,1.0,0.0,0.0,Rise of Empires: Ottoman,SHOW,,45,Emre Sahin,DIRECTOR,2020,2.0,7.9
+2599,ts226602,1.0,0.0,0.0,How to Fix a Drug Scandal,SHOW,TV-MA,53,Erin Lee Carr,DIRECTOR,2020,1.0,7.0
+2600,ts86365,1.0,0.0,0.0,Rilakkuma and Kaoru,SHOW,TV-PG,12,Masahito Kobayashi,DIRECTOR,2019,1.0,8.2
+2602,ts91124,1.0,0.0,0.0,Love Alarm,SHOW,TV-MA,52,Kim Jin-woo,DIRECTOR,2019,2.0,6.8
+2608,ts222933,1.0,0.0,0.0,Who Killed Little Gregory?,SHOW,,60,Gilles Marchand,DIRECTOR,2019,1.0,7.4
+2609,ts89876,1.0,0.0,0.0,Lunatics,SHOW,TV-MA,36,Chris Lilley,DIRECTOR,2019,1.0,6.5
+2610,ts223659,1.0,0.0,0.0,Jamtara – Sabka Number Ayega,SHOW,,27,Soumendra Padhi,DIRECTOR,2020,1.0,7.2
+2611,ts219422,1.0,0.0,0.0,When the Camellia Blooms,SHOW,,55,Cha Young-hoon,DIRECTOR,2019,1.0,7.9
+2613,ts225102,1.0,0.0,0.0,Record of Youth,SHOW,TV-14,73,Ahn Gil-ho,DIRECTOR,2020,1.0,7.2
+2616,ts224072,1.0,0.0,0.0,Self Made: Inspired by the Life of Madam C.J. Walker,SHOW,TV-MA,47,Kasi Lemmons,DIRECTOR,2020,1.0,7.3
+2617,ts224072,1.0,0.0,0.0,Self Made: Inspired by the Life of Madam C.J. Walker,SHOW,TV-MA,47,DeMane Davis,DIRECTOR,2020,1.0,7.3
+2631,ts87372,1.0,0.0,0.0,Ultramarine Magmell,SHOW,TV-14,24,Hayato Date,DIRECTOR,2019,1.0,6.0
+2636,ts223456,1.0,0.0,0.0,Pandemic: How to Prevent an Outbreak,SHOW,TV-14,48,Doug Shultz,DIRECTOR,2020,1.0,6.3
+2644,ts106015,1.0,0.0,0.0,Kengan Ashura,SHOW,TV-MA,25,Seiji Kishi,DIRECTOR,2019,2.0,8.0
+2655,ts90063,1.0,0.0,0.0,Put Your Head on My Shoulder,SHOW,TV-Y7,41,주둥닝,DIRECTOR,2019,1.0,8.0
+2660,ts216474,1.0,0.0,0.0,The Trial,SHOW,TV-MA,50,Stefano Lodovichi,DIRECTOR,2019,1.0,7.2
+2661,ts86927,1.0,0.0,0.0,Touch Your Heart,SHOW,TV-MA,63,Park Joon-hwa,DIRECTOR,2019,1.0,7.6
+2666,ts217356,1.0,0.0,0.0,Betaal,SHOW,TV-MA,47,Patrick Graham,DIRECTOR,2020,1.0,5.4
+2667,ts217356,1.0,0.0,0.0,Betaal,SHOW,TV-MA,47,Nikhil Mahajan,DIRECTOR,2020,1.0,5.4
+2668,ts213544,1.0,0.0,0.0,Rookie Historian Goo Hae-Ryung,SHOW,,43,Han Hyun-hee,DIRECTOR,2019,1.0,8.1
+2669,ts213544,1.0,0.0,0.0,Rookie Historian Goo Hae-Ryung,SHOW,,43,Kang Il-soo,DIRECTOR,2019,1.0,8.1
+2674,ts223895,1.0,0.0,0.0,"Hi Bye, Mama!",SHOW,,63,Yoo Je-won,DIRECTOR,2020,2.0,7.9
+2676,ts269501,1.0,0.0,0.0,BREAK IT ALL: The History of Rock in Latin America,SHOW,TV-MA,50,Picky Talarico,DIRECTOR,2020,1.0,7.6
+2683,ts89048,1.0,0.0,0.0,My First First Love,SHOW,TV-PG,48,Oh Jin-seok,DIRECTOR,2019,2.0,7.5
+2684,ts89832,1.0,0.0,0.0,Abyss,SHOW,TV-14,63,Yoo Je-won,DIRECTOR,2019,1.0,7.1
+2685,ts216493,1.0,0.0,0.0,The Naked Director,SHOW,TV-MA,50,Masaharu Take,DIRECTOR,2019,2.0,7.7
+2691,ts88841,1.0,0.0,0.0,The School Nurse Files,SHOW,TV-14,51,Lee Kyoung-mi,DIRECTOR,2020,1.0,6.4
+2699,ts251560,1.0,0.0,0.0,Do Do Sol Sol La La Sol,SHOW,,60,Kim Min-gyeong,DIRECTOR,2020,1.0,7.3
+2701,ts223242,1.0,0.0,0.0,Was It Love?,SHOW,TV-MA,69,Kim Do-hyung,DIRECTOR,2020,1.0,7.1
+2711,ts268890,1.0,0.0,0.0,Lovestruck in the City,SHOW,TV-14,30,Park Shin-woo,DIRECTOR,2020,1.0,7.6
+2712,ts114080,1.0,0.0,0.0,Twice Upon a Time,SHOW,,48,Guillaume Nicloux,DIRECTOR,2019,1.0,6.2
+2713,ts89291,1.0,0.0,0.0,Mythomaniac,SHOW,TV-MA,46,Fabrice Gobert,DIRECTOR,2019,2.0,6.8
+2716,ts90902,1.0,0.0,0.0,Search: WWW,SHOW,,63,Kwon Young-il,DIRECTOR,2019,1.0,7.8
+2717,ts90902,1.0,0.0,0.0,Search: WWW,SHOW,,63,Jung Jee-hyun,DIRECTOR,2019,1.0,7.8
+2719,ts218176,1.0,0.0,0.0,The Big Show Show,SHOW,TV-PG,26,Jody Margolin Hahn,DIRECTOR,2020,1.0,6.3
+2720,ts252166,1.0,0.0,0.0,Private Lives,SHOW,,67,Nam Geon,DIRECTOR,2020,1.0,6.6
+2723,ts255809,1.0,0.0,0.0,Carmel: Who Killed Maria Marta?,SHOW,TV-14,58,Alejandro Hartmann,DIRECTOR,2020,1.0,7.0
+2724,ts88271,1.0,0.0,0.0,Flavorful Origins,SHOW,,12,Zhitang Hu,DIRECTOR,2019,4.0,7.6
+2730,ts185885,1.0,0.0,0.0,Oktoberfest: Beer & Blood,SHOW,TV-MA,48,Hannu Salonen,DIRECTOR,2020,1.0,6.8
+2746,ts89656,1.0,0.0,0.0,The Legend of White Snake,SHOW,TV-14,46,지뢰,DIRECTOR,2019,1.0,7.3
+2748,ts217389,1.0,0.0,0.0,Masaba Masaba,SHOW,TV-MA,28,Sonam Nair,DIRECTOR,2020,2.0,6.7
+2754,ts222049,1.0,0.0,0.0,Who Killed Malcolm X?,SHOW,TV-MA,43,Phil Bertelsen,DIRECTOR,2019,1.0,7.6
+2755,ts222049,1.0,0.0,0.0,Who Killed Malcolm X?,SHOW,TV-MA,43,Rachel Dretzin,DIRECTOR,2019,1.0,7.6
+2760,ts237071,1.0,0.0,0.0,The Forest of Love: Deep Cut,SHOW,TV-MA,40,Sion Sono,DIRECTOR,2020,1.0,6.8
+2768,ts191121,1.0,0.0,0.0,Reality Z,SHOW,TV-MA,31,Cláudio Torres,DIRECTOR,2020,1.0,5.6
+2777,ts222606,1.0,0.0,0.0,Black Dog,SHOW,TV-14,80,Hwang Joon-Hyuk,DIRECTOR,2019,1.0,7.6
+2784,ts104485,1.0,0.0,0.0,The Stranded,SHOW,TV-MA,49,Sophon Sakdaphisit,DIRECTOR,2019,1.0,6.2
+2789,ts88133,1.0,0.0,0.0,Well-Intended Love,SHOW,TV-14,45,Wu Qiang,DIRECTOR,2019,2.0,7.2
+2791,ts268758,1.0,0.0,0.0,Mismatched,SHOW,TV-MA,33,Akarsh Khurana,DIRECTOR,2020,1.0,5.5
+2804,ts215869,1.0,0.0,0.0,Extreme Engagement,SHOW,,38,Tim Noonan,DIRECTOR,2019,1.0,5.6
+2807,ts100354,1.0,0.0,0.0,Monzón: A Knockout Blow,SHOW,TV-MA,45,Jesús Braceras,DIRECTOR,2019,1.0,7.9
+2808,ts100354,1.0,0.0,0.0,Monzón: A Knockout Blow,SHOW,TV-MA,45,Gabriel Nicoli,DIRECTOR,2019,1.0,7.9
+2814,ts86928,1.0,0.0,0.0,The Crowned Clown,SHOW,TV-14,75,Kim Hee-won,DIRECTOR,2019,1.0,8.0
+2819,ts87698,1.0,0.0,0.0,Examination of Conscience,SHOW,TV-MA,52,Albert Solé,DIRECTOR,2019,1.0,7.8
+2824,ts91034,1.0,0.0,0.0,Leila,SHOW,TV-MA,46,Shanker Raman,DIRECTOR,2019,1.0,4.9
+2825,ts91034,1.0,0.0,0.0,Leila,SHOW,TV-MA,46,Deepa Mehta,DIRECTOR,2019,1.0,4.9
+2826,ts91034,1.0,0.0,0.0,Leila,SHOW,TV-MA,46,Pawan Kumar,DIRECTOR,2019,1.0,4.9
+2829,ts217045,1.0,0.0,0.0,Levius,SHOW,,25,Keisuke Ide,DIRECTOR,2019,1.0,6.9
+2830,ts235979,1.0,0.0,0.0,The Victims' Game,SHOW,TV-MA,59,David Chuang,DIRECTOR,2020,1.0,7.3
+2831,ts235979,1.0,0.0,0.0,The Victims' Game,SHOW,TV-MA,59,Chen Kuan-chung,DIRECTOR,2020,1.0,7.3
+2832,ts88169,1.0,0.0,0.0,Possessed,SHOW,,64,Choi Do-hoon,DIRECTOR,2019,1.0,6.7
+2833,ts256297,1.0,0.0,0.0,The Devil Punisher,SHOW,,70,Chin Jung Chang,DIRECTOR,2020,1.0,5.8
+2844,ts254817,1.0,0.0,0.0,A Perfect Crime,SHOW,,43,Jan Peter,DIRECTOR,2020,1.0,7.3
+2845,ts254817,1.0,0.0,0.0,A Perfect Crime,SHOW,,43,Georg Tschurtschenthaler,DIRECTOR,2020,1.0,7.3
+2864,ts90466,1.0,0.0,0.0,Hong Kong West Side Stories,SHOW,TV-MA,23,Nero Ng,DIRECTOR,2019,2.0,5.7
+2881,ts222625,1.0,0.0,0.0,A Little Thing Called First Love,SHOW,,45,Qi Xiaohui,DIRECTOR,2019,1.0,7.9
+2882,ts223084,1.0,0.0,0.0,Nowhere Man,SHOW,TV-MA,47,Yin-jung Chen,DIRECTOR,2019,1.0,5.5
+2883,ts269157,1.0,0.0,0.0,Room 2806: The Accusation,SHOW,TV-MA,49,Jalil Lespert,DIRECTOR,2020,1.0,7.0
+2912,ts222802,1.0,0.0,0.0,Once Upon a Time in Lingjian Mountain,SHOW,TV-14,44,Yu Chung Chung,DIRECTOR,2019,2.0,7.4
+2917,ts112733,1.0,0.0,0.0,Bard of Blood,SHOW,TV-MA,44,Ribhu Dasgupta,DIRECTOR,2019,2.0,6.8
+2918,ts90095,1.0,0.0,0.0,Jinn,SHOW,TV-14,32,Mir-Jean Bou Chaaya,DIRECTOR,2019,1.0,3.4
+2934,ts104507,1.0,0.0,0.0,Triad Princess,SHOW,,43,Neal Wu,DIRECTOR,2019,1.0,6.7
+2940,ts222803,1.0,0.0,0.0,Maradona in Mexico,SHOW,TV-MA,33,Angus MacQueen,DIRECTOR,2019,1.0,7.3
+2948,ts88821,1.0,0.0,0.0,I Hear You,SHOW,TV-14,44,Xu Heshen,DIRECTOR,2019,1.0,7.2
+2949,ts89331,1.0,0.0,0.0,My Husband Won't Fit,SHOW,TV-MA,35,Yuki Tanada,DIRECTOR,2019,1.0,6.7
+2953,ts87599,1.0,0.0,0.0,Somewhere Only We Know,SHOW,TV-MA,58,Liu Chang,DIRECTOR,2019,1.0,7.2
+2964,ts225539,1.0,0.0,0.0,Hyena,SHOW,,62,Jang Tae-yoo,DIRECTOR,2020,1.0,7.7
+2965,ts89330,1.0,0.0,0.0,Stay Tuned!,SHOW,TV-14,44,Tadahisa Fujimura,DIRECTOR,2019,1.0,7.5
+2966,ts89330,1.0,0.0,0.0,Stay Tuned!,SHOW,TV-14,44,Katsuyuki Motohiro,DIRECTOR,2019,1.0,7.5
+2977,ts222835,1.0,0.0,0.0,Holiday Secrets,SHOW,,38,Samira Radsi,DIRECTOR,2019,1.0,6.5
+2984,ts268997,1.0,0.0,0.0,Futmalls.com,SHOW,TV-14,40,Donnie Lai Cheun-Yu,DIRECTOR,2020,1.0,6.5
+2989,ts223098,1.0,0.0,0.0,Lugar de Mulher,SHOW,,15,Fabio Ock,DIRECTOR,2019,1.0,4.7
+2990,ts221851,1.0,0.0,0.0,The Lies Within,SHOW,,60,Lee Yoon-jung,DIRECTOR,2019,1.0,7.0
+3003,ts233367,1.0,0.0,0.0,Sing On! Spain,SHOW,TV-G,39,Salva Romero,DIRECTOR,2020,1.0,6.1
+3038,ts251072,1.0,0.0,0.0,The Underclass,SHOW,TV-MA,55,Pass Pattanakumjon,DIRECTOR,2020,1.0,6.5
+3053,ts218367,1.0,0.0,0.0,Secreto bien guardado,SHOW,TV-MA,30,Alberto Lecchi,DIRECTOR,2019,1.0,5.0
+3107,ts224906,1.0,0.0,0.0,Find Yourself,SHOW,TV-14,45,Ding Zi Guang,DIRECTOR,2020,1.0,7.7
+3133,ts89182,1.0,0.0,0.0,Green Door,SHOW,,49,Lingo Hsieh,DIRECTOR,2019,1.0,6.4
+3149,ts221472,1.0,0.0,0.0,Valentino,SHOW,TV-14,37,Ramy Imam,DIRECTOR,2020,1.0,5.2
+3166,ts101042,1.0,0.0,0.0,The 43,SHOW,TV-MA,66,Matías Gueilburt,DIRECTOR,2019,1.0,7.1
+3177,ts45322,1.0,0.0,0.0,"Wait, My Youth",SHOW,TV-PG,36,Shen Qinyuan,DIRECTOR,2019,1.0,8.0
+3180,ts89740,1.0,0.0,0.0,The Defected,SHOW,TV-14,42,So Man-Chung,DIRECTOR,2019,1.0,7.4
+3281,ts223115,1.0,0.0,0.0,The Charming Stepmom,SHOW,TV-14,46,Peerapol Kirdjareun,DIRECTOR,2019,1.0,7.9
+3289,ts255823,1.0,0.0,0.0,The House Arrest of Us,SHOW,TV-MA,26,Richard Arellano,DIRECTOR,2020,1.0,5.5
+3348,ts271437,1.0,0.0,0.0,Money Heist (Korean Remake),SHOW,TV-MA,70,Kim Hong-sun,DIRECTOR,2022,1.0,5.2
+3350,ts225061,1.0,0.0,0.0,Pieces of Her,SHOW,TV-MA,51,Minkie Spiro,DIRECTOR,2022,1.0,6.3
+3353,ts288808,1.0,0.0,0.0,The Longest Night,SHOW,TV-MA,45,Óscar Pedraza,DIRECTOR,2022,1.0,5.8
+3356,ts306526,1.0,0.0,0.0,Queen,SHOW,TV-MA,49,Łukasz Kośmicki,DIRECTOR,2022,1.0,7.1
+3358,ts312082,1.0,0.0,0.0,Alchemy of Souls,SHOW,TV-14,80,Park Joon-hwa,DIRECTOR,2022,1.0,8.6
+3359,ts90093,1.0,0.0,0.0,The Pentaverate,SHOW,TV-MA,26,Tim Kirkby,DIRECTOR,2022,1.0,6.1
+3362,ts256072,1.0,0.0,0.0,The Woman in the House Across the Street from the Girl in the Window,SHOW,TV-MA,26,Michael Lehmann,DIRECTOR,2022,1.0,6.3
+3364,ts317746,1.0,0.0,0.0,Café Minamdang,SHOW,,64,Ko Jae-hyun,DIRECTOR,2022,1.0,7.0
+3365,ts225855,1.0,0.0,0.0,All of Us Are Dead,SHOW,TV-MA,61,JQ Lee,DIRECTOR,2022,2.0,7.5
+3366,ts225855,1.0,0.0,0.0,All of Us Are Dead,SHOW,TV-MA,61,Kim Nam-soo,DIRECTOR,2022,2.0,7.5
+3372,ts320073,1.0,0.0,0.0,Attack on Pearl Harbor: Minute by Minute,SHOW,TV-14,45,Stan Griffin,DIRECTOR,2021,1.0,7.5
+3385,ts269096,1.0,0.0,0.0,She Would Never Know,SHOW,TV-14,64,Lee Dong-yoon,DIRECTOR,2021,1.0,7.5
+3389,ts311987,1.0,0.0,0.0,Bad Vegan: Fame. Fraud. Fugitives.,SHOW,TV-MA,52,Chris Smith,DIRECTOR,2022,1.0,5.8
+3390,ts251675,1.0,0.0,0.0,Hellbound,SHOW,TV-MA,52,Yeon Sang-ho,DIRECTOR,2021,1.0,6.6
+3407,ts232107,1.0,0.0,0.0,The Silent Sea,SHOW,TV-MA,45,Choi Hang-yong,DIRECTOR,2021,1.0,6.9
+3416,ts343430,1.0,0.0,0.0,The 7 Lives of Lea,SHOW,TV-MA,45,Julien Despaux,DIRECTOR,2022,1.0,7.5
+3417,ts343430,1.0,0.0,0.0,The 7 Lives of Lea,SHOW,TV-MA,45,Émilie Noblet,DIRECTOR,2022,1.0,7.5
+3423,ts282131,1.0,0.0,0.0,Attenborough's Life in Colour,SHOW,TV-PG,51,Adam Geiger,DIRECTOR,2021,1.0,8.2
+3425,ts356951,1.0,0.0,0.0,Hurts Like Hell,SHOW,TV-MA,50,Kittichai Wanprasert,DIRECTOR,2022,1.0,8.4
+3430,ts305788,1.0,0.0,0.0,The Perfect Mother,SHOW,TV-MA,49,Fred Garson,DIRECTOR,2022,1.0,5.9
+3434,ts328194,1.0,0.0,0.0,My Name,SHOW,TV-MA,50,Kim Jin-min,DIRECTOR,2021,1.0,7.8
+3440,ts329699,1.0,0.0,0.0,The Andy Warhol Diaries,SHOW,TV-MA,66,Andrew Rossi,DIRECTOR,2022,1.0,7.7
+3443,ts287976,1.0,0.0,0.0,Young Royals,SHOW,TV-MA,45,Rojda Sekersöz,DIRECTOR,2021,2.0,8.3
+3444,ts287976,1.0,0.0,0.0,Young Royals,SHOW,TV-MA,45,Erika Calmeyer,DIRECTOR,2021,2.0,8.3
+3458,ts287352,1.0,0.0,0.0,Hit & Run,SHOW,TV-MA,44,Rotem Shamir,DIRECTOR,2021,1.0,7.0
+3459,ts287352,1.0,0.0,0.0,Hit & Run,SHOW,TV-MA,44,Neasa Hardiman,DIRECTOR,2021,1.0,7.0
+3460,ts287352,1.0,0.0,0.0,Hit & Run,SHOW,TV-MA,44,Mike Barker,DIRECTOR,2021,1.0,7.0
+3461,ts328605,1.0,0.0,0.0,Midnight at the Pera Palace,SHOW,TV-14,44,Emre Sahin,DIRECTOR,2022,1.0,7.0
+3462,ts328541,1.0,0.0,0.0,The Puppet Master: Hunting the Ultimate Conman,SHOW,TV-MA,42,Sam Benstead,DIRECTOR,2022,1.0,7.0
+3463,ts328541,1.0,0.0,0.0,The Puppet Master: Hunting the Ultimate Conman,SHOW,TV-MA,42,Gareth Johnson,DIRECTOR,2022,1.0,7.0
+3470,ts321298,1.0,0.0,0.0,Business Proposal,SHOW,TV-14,61,Park Seon-ho,DIRECTOR,2022,1.0,8.1
+3475,ts309930,1.0,0.0,0.0,Remarriage & Desires,SHOW,TV-14,62,Kim Jung-min,DIRECTOR,2022,1.0,7.2
+3479,ts314164,1.0,0.0,0.0,Tomorrow,SHOW,TV-14,61,Kim Tae-yun,DIRECTOR,2022,1.0,7.7
+3482,ts321513,1.0,0.0,0.0,My Liberation Notes,SHOW,TV-MA,68,Kim Sok-yun,DIRECTOR,2022,1.0,8.4
+3483,ts273229,1.0,0.0,0.0,Feria: The Darkest Light,SHOW,TV-MA,50,Jorge Dorado,DIRECTOR,2022,1.0,5.7
+3484,ts273229,1.0,0.0,0.0,Feria: The Darkest Light,SHOW,TV-MA,50,Carles Torrens,DIRECTOR,2022,1.0,5.7
+3491,ts94677,1.0,0.0,0.0,Worst Roommate Ever,SHOW,TV-MA,47,Domini Hofmann,DIRECTOR,2022,1.0,8.1
+3502,ts302363,1.0,0.0,0.0,Twenty Five Twenty One,SHOW,TV-14,76,Jung Jee-hyun,DIRECTOR,2022,1.0,8.7
+3511,ts284702,1.0,0.0,0.0,This Is a Robbery: The World's Biggest Art Heist,SHOW,TV-MA,53,Colin Barnicle,DIRECTOR,2021,1.0,6.5
+3520,ts299874,1.0,0.0,0.0,Cocaine Cowboys: The Kings of Miami,SHOW,TV-MA,57,Billy Corben,DIRECTOR,2021,1.0,7.1
+3528,ts288744,1.0,0.0,0.0,The Sound of Magic,SHOW,TV-14,69,Kim Seong-yoon,DIRECTOR,2022,1.0,7.7
+3536,ts313646,1.0,0.0,0.0,"Mom, Don't Do That!",SHOW,TV-MA,53,Chun-Hong Lee,DIRECTOR,2022,1.0,6.5
+3537,ts313646,1.0,0.0,0.0,"Mom, Don't Do That!",SHOW,TV-MA,53,Chen Wei-Ling,DIRECTOR,2022,1.0,6.5
+3541,ts271867,1.0,0.0,0.0,Vincenzo,SHOW,,81,Kim Hee-won,DIRECTOR,2021,1.0,8.4
+3545,ts288087,1.0,0.0,0.0,Sophie: A Murder in West Cork,SHOW,TV-14,55,John Dower,DIRECTOR,2021,1.0,6.8
+3566,ts297483,1.0,0.0,0.0,Hometown Cha-Cha-Cha,SHOW,TV-14,78,Yoo Je-won,DIRECTOR,2021,1.0,8.4
+3571,ts222864,1.0,0.0,0.0,Falling Into Your Smile,SHOW,TV-14,44,Qiu Zhongwei,DIRECTOR,2021,1.0,8.4
+3586,ts312984,1.0,0.0,0.0,Our Blues,SHOW,TV-MA,66,Kim Kyu-tae,DIRECTOR,2022,1.0,8.5
+3587,ts352579,1.0,0.0,0.0,As the Crow Flies,SHOW,TV-MA,46,Deniz Yorulmazer,DIRECTOR,2022,1.0,6.3
+3588,ts311791,1.0,0.0,0.0,The Raincoat Killer: Chasing a Predator in Korea,SHOW,TV-MA,48,Rob Sixsmith,DIRECTOR,2021,1.0,6.4
+3592,ts271025,1.0,0.0,0.0,Bling Empire,SHOW,TV-MA,37,Paris Dylan,DIRECTOR,2021,2.0,5.8
+3595,ts306203,1.0,0.0,0.0,Monsters Inside: The 24 Faces of Billy Milligan,SHOW,TV-MA,61,Olivier Megaton,DIRECTOR,2021,1.0,6.2
+3596,ts271321,1.0,0.0,0.0,Beyond Evil,SHOW,TV-MA,66,Sim Na-yeon,DIRECTOR,2021,1.0,8.1
+3597,ts319412,1.0,0.0,0.0,Forecasting Love and Weather,SHOW,TV-14,66,Cha Young-hoon,DIRECTOR,2022,1.0,7.1
+3602,ts246073,1.0,0.0,0.0,Tribes of Europa,SHOW,TV-MA,47,Philip Koch,DIRECTOR,2021,1.0,6.7
+3603,ts246073,1.0,0.0,0.0,Tribes of Europa,SHOW,TV-MA,47,Florian Baxmeyer,DIRECTOR,2021,1.0,6.7
+3607,ts344043,1.0,0.0,0.0,Welcome to Wedding Hell,SHOW,TV-14,37,Seo Joo-wan,DIRECTOR,2022,1.0,6.9
+3608,ts317078,1.0,0.0,0.0,The Journalist,SHOW,TV-14,51,Michihito Fujii,DIRECTOR,2022,1.0,7.0
+3610,ts315041,1.0,0.0,0.0,Bulgasal: Immortal Souls,SHOW,TV-MA,71,Jang Young Woo,DIRECTOR,2021,1.0,7.3
+3619,ts272366,1.0,0.0,0.0,Amend: The Fight for America,SHOW,TV-MA,58,Reinaldo Marcus Green,DIRECTOR,2021,1.0,7.8
+3620,ts272366,1.0,0.0,0.0,Amend: The Fight for America,SHOW,TV-MA,58,Kenny Leon,DIRECTOR,2021,1.0,7.8
+3621,ts268102,1.0,0.0,0.0,Juvenile Justice,SHOW,TV-MA,61,Hong Jong-chan,DIRECTOR,2022,1.0,8.0
+3622,ts288195,1.0,0.0,0.0,Invisible City,SHOW,TV-MA,37,Júlia Pacheco Jordão,DIRECTOR,2021,2.0,7.7
+3623,ts288195,1.0,0.0,0.0,Invisible City,SHOW,TV-MA,37,Luis Carone,DIRECTOR,2021,2.0,7.7
+3634,ts271593,1.0,0.0,0.0,Spycraft,SHOW,TV-MA,34,Maria Berry,DIRECTOR,2021,1.0,6.7
+3635,ts271593,1.0,0.0,0.0,Spycraft,SHOW,TV-MA,34,Jan Spindler,DIRECTOR,2021,1.0,6.7
+3636,ts271593,1.0,0.0,0.0,Spycraft,SHOW,TV-MA,34,Marek Bures,DIRECTOR,2021,1.0,6.7
+3643,ts268835,1.0,0.0,0.0,Sisyphus,SHOW,,71,Jin Hyuk,DIRECTOR,2021,1.0,7.0
+3644,ts268835,1.0,0.0,0.0,Sisyphus,SHOW,,71,Kim Seung-ho,DIRECTOR,2021,1.0,7.0
+3646,ts301914,1.0,0.0,0.0,Inspector Koo,SHOW,TV-14,69,Lee Jung-heum,DIRECTOR,2021,1.0,6.9
+3650,ts343251,1.0,0.0,0.0,Green Mothers' Club,SHOW,,70,La Ha-na,DIRECTOR,2022,1.0,6.5
+3652,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,Lizzie Kempton,DIRECTOR,2021,1.0,7.3
+3653,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,Miles Blayden-Ryall,DIRECTOR,2021,1.0,7.3
+3654,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,Luke Sewell,DIRECTOR,2021,1.0,7.3
+3655,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,Alex Kiehl,DIRECTOR,2021,1.0,7.3
+3656,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,Georgina Cammalleri,DIRECTOR,2021,1.0,7.3
+3657,ts308838,1.0,0.0,0.0,Bad Sport,SHOW,TV-MA,68,James House,DIRECTOR,2021,1.0,7.3
+3667,ts317422,1.0,0.0,0.0,Saturday Morning All Star Hits!,SHOW,TV-14,23,Dave McCary,DIRECTOR,2021,1.0,7.5
+3671,ts304468,1.0,0.0,0.0,Thirty-Nine,SHOW,TV-MA,73,Kim Sang-ho,DIRECTOR,2022,1.0,7.9
+3676,ts287703,1.0,0.0,0.0,Mine,SHOW,TV-14,70,Lee Na-jeong,DIRECTOR,2021,1.0,7.7
+3677,ts287703,1.0,0.0,0.0,Mine,SHOW,TV-14,70,오승열,DIRECTOR,2021,1.0,7.7
+3678,ts317612,1.0,0.0,0.0,Love is Blind: Japan,SHOW,TV-PG,57,Akira Ooshima,DIRECTOR,2022,2.0,7.1
+3681,ts258415,1.0,0.0,0.0,Elves,SHOW,TV-14,24,Roni Ezra,DIRECTOR,2021,1.0,5.5
+3685,ts301196,1.0,0.0,0.0,Top Secret UFO Projects: Declassified,SHOW,TV-PG,44,Vojtech Filcev,DIRECTOR,2021,1.0,5.5
+3686,ts301196,1.0,0.0,0.0,Top Secret UFO Projects: Declassified,SHOW,TV-PG,44,Petr Vachler,DIRECTOR,2021,1.0,5.5
+3687,ts250998,1.0,0.0,0.0,Dirty Lines,SHOW,TV-MA,46,Anna van der Heide,DIRECTOR,2022,1.0,7.4
+3688,ts250998,1.0,0.0,0.0,Dirty Lines,SHOW,TV-MA,46,Tomas Kaan,DIRECTOR,2022,1.0,7.4
+3690,ts288005,1.0,0.0,0.0,"Nevertheless,",SHOW,,70,Kim Ga-ram,DIRECTOR,2021,1.0,7.2
+3698,ts320075,1.0,0.0,0.0,Aranyak,SHOW,TV-MA,43,Vinay Waikul,DIRECTOR,2021,1.0,7.9
+3699,ts280892,1.0,0.0,0.0,"Devotion, a Story of Love and Desire",SHOW,TV-MA,40,Stefano Cipani,DIRECTOR,2022,1.0,6.4
+3700,ts280892,1.0,0.0,0.0,"Devotion, a Story of Love and Desire",SHOW,TV-MA,40,Andrea Molaioli,DIRECTOR,2022,1.0,6.4
+3706,ts223450,1.0,0.0,0.0,Move to Heaven,SHOW,TV-MA,52,Kim Sung-ho,DIRECTOR,2021,1.0,8.6
+3712,ts314395,1.0,0.0,0.0,The Motive,SHOW,,35,Asaf Sudry,DIRECTOR,2021,1.0,5.2
+3713,ts314395,1.0,0.0,0.0,The Motive,SHOW,,35,Tali Shemesh,DIRECTOR,2021,1.0,5.2
+3720,ts312094,1.0,0.0,0.0,JAPAN SINKS: People of Hope,SHOW,TV-14,55,Nobuhiro Doi,DIRECTOR,2021,1.0,6.0
+3721,ts312094,1.0,0.0,0.0,JAPAN SINKS: People of Hope,SHOW,TV-14,55,Yohei Miyazaki,DIRECTOR,2021,1.0,6.0
+3725,ts276067,1.0,0.0,0.0,Maldivas,SHOW,TV-MA,36,José Alvarenga Jr.,DIRECTOR,2022,1.0,5.6
+3727,ts320302,1.0,0.0,0.0,Neymar: The Perfect Chaos,SHOW,TV-MA,55,David Charles Rodrigues,DIRECTOR,2022,1.0,6.6
+3735,ts296129,1.0,0.0,0.0,Elite Short Stories: Guzmán Caye Rebe,SHOW,TV-MA,12,Dani de la Orden,DIRECTOR,2021,1.0,7.4
+3736,ts275448,1.0,0.0,0.0,Navillera,SHOW,,65,Han Dong-hwa,DIRECTOR,2021,1.0,8.8
+3737,ts269286,1.0,0.0,0.0,Once Upon a Time... Happily Never After,SHOW,TV-MA,30,Manolo Caro,DIRECTOR,2022,1.0,5.4
+3743,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Ruchir Arun,DIRECTOR,2021,1.0,6.4
+3744,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Tahira Kashyap,DIRECTOR,2021,1.0,6.4
+3745,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Anand Tiwari,DIRECTOR,2021,1.0,6.4
+3746,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Danish Aslam,DIRECTOR,2021,1.0,6.4
+3747,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Jaydeep Sarkar,DIRECTOR,2021,1.0,6.4
+3748,ts283610,1.0,0.0,0.0,Feels Like Ishq,SHOW,TV-MA,31,Sachin Kundalkar,DIRECTOR,2021,1.0,6.4
+3751,ts280693,1.0,0.0,0.0,Thomas & Friends: All Engines Go!,SHOW,TV-Y,11,Ma Sang-hyeon,DIRECTOR,2021,1.0,2.0
+3758,ts315551,1.0,0.0,0.0,Elite Short Stories: Phillipe Caye Felipe,SHOW,,13,Lucía Alemany,DIRECTOR,2021,1.0,6.2
+3759,ts260502,1.0,0.0,0.0,Until Life Do Us Part,SHOW,TV-MA,49,Manuel Pureza,DIRECTOR,2021,1.0,7.5
+3760,ts320557,1.0,0.0,0.0,Elite Short Stories: Patrick,SHOW,TV-MA,12,Eduardo Chapero-Jackson,DIRECTOR,2021,1.0,6.1
+3762,ts296069,1.0,0.0,0.0,Elite Short Stories: Omar Ander Alexis,SHOW,TV-MA,12,Jorge Torregrossa,DIRECTOR,2021,1.0,7.3
+3765,ts297685,1.0,0.0,0.0,I Need Romance,SHOW,TV-14,45,Sakon Tiacharoen,DIRECTOR,2021,1.0,7.8
+3766,ts296059,1.0,0.0,0.0,Elite Short Stories: Carla Samuel,SHOW,TV-MA,14,Jorge Torregrossa,DIRECTOR,2021,1.0,6.9
+3769,ts216407,1.0,0.0,0.0,Age of Samurai: Battle for Japan,SHOW,TV-MA,43,Stephen Scott,DIRECTOR,2021,1.0,7.4
+3776,ts287838,1.0,0.0,0.0,Mad for Each Other,SHOW,,35,Lee Tae-gon,DIRECTOR,2021,1.0,7.9
+3780,ts331449,1.0,0.0,0.0,Hei$t: The Great Robbery of Brazil's Central Bank,SHOW,TV-14,61,Rodrigo Astiz,DIRECTOR,2022,1.0,6.4
+3781,ts331449,1.0,0.0,0.0,Hei$t: The Great Robbery of Brazil's Central Bank,SHOW,TV-14,61,Nikolas Fonseca,DIRECTOR,2022,1.0,6.4
+3782,ts331449,1.0,0.0,0.0,Hei$t: The Great Robbery of Brazil's Central Bank,SHOW,TV-14,61,Daniel Billio,DIRECTOR,2022,1.0,6.4
+3785,ts283639,1.0,0.0,0.0,Decoupled,SHOW,TV-MA,31,Hardik Mehta,DIRECTOR,2021,1.0,8.0
+3786,ts296091,1.0,0.0,0.0,Elite Short Stories: Nadia Guzmán,SHOW,TV-MA,11,Dani de la Orden,DIRECTOR,2021,1.0,6.2
+3795,ts292446,1.0,0.0,0.0,Taarak Mehta Kka Chhota Chashmah,SHOW,TV-Y,22,Asit Kumarr Modi,DIRECTOR,2021,1.0,6.6
+3796,ts315549,1.0,0.0,0.0,Elite Short Stories: Samuel Omar,SHOW,,12,Lucía Alemany,DIRECTOR,2021,1.0,6.1
+3801,ts257817,1.0,0.0,0.0,Call My Agent Bollywood,SHOW,TV-MA,48,Shaad Ali,DIRECTOR,2021,1.0,6.9
+3811,ts285724,1.0,0.0,0.0,2020,SHOW,TV-14,45,Philippe Asmar,DIRECTOR,2021,2.0,7.9
+3819,ts257345,1.0,0.0,0.0,Wild Abandon,SHOW,TV-MA,51,Onur Saylak,DIRECTOR,2022,1.0,7.1
+3822,ts291150,1.0,0.0,0.0,Soil,SHOW,TV-MA,48,Bilall Fallah,DIRECTOR,2021,1.0,7.1
+3823,ts291150,1.0,0.0,0.0,Soil,SHOW,TV-MA,48,Mathieu Mortelmans,DIRECTOR,2021,1.0,7.1
+3824,ts291150,1.0,0.0,0.0,Soil,SHOW,TV-MA,48,Adil El Arbi,DIRECTOR,2021,1.0,7.1
+3825,ts309235,1.0,0.0,0.0,Christmas Flow,SHOW,TV-MA,50,Nadège Loiseau,DIRECTOR,2021,1.0,5.7
+3826,ts90023,1.0,0.0,0.0,AlRawabi School for Girls,SHOW,TV-14,48,Tima Shomali,DIRECTOR,2021,2.0,7.3
+3828,ts226392,1.0,0.0,0.0,Sexify,SHOW,TV-MA,44,Kalina Alabrudzińska,DIRECTOR,2021,1.0,6.5
+3829,ts226392,1.0,0.0,0.0,Sexify,SHOW,TV-MA,44,Piotr Domalewski,DIRECTOR,2021,1.0,6.5
+3831,ts287941,1.0,0.0,0.0,Racket Boys,SHOW,TV-14,71,Jo Young Kwang,DIRECTOR,2021,1.0,4.0
+3838,ts288472,1.0,0.0,0.0,You Are My Spring,SHOW,,69,Jung Jee-hyun,DIRECTOR,2021,1.0,7.4
+3841,ts330012,1.0,0.0,0.0,Eternally Confused and Eager for Love,SHOW,TV-MA,23,Rahul Nair,DIRECTOR,2022,1.0,6.7
+3843,ts279953,1.0,0.0,0.0,Law School,SHOW,,65,Kim Sok-yun,DIRECTOR,2021,1.0,8.0
+3849,ts270807,1.0,0.0,0.0,"Hello, Me!",SHOW,,62,Lee Hyun-seok,DIRECTOR,2021,1.0,7.2
+3851,ts321437,1.0,0.0,0.0,Fishbowl Wives,SHOW,TV-MA,43,Michiko Namiki,DIRECTOR,2022,1.0,6.1
+3852,ts321437,1.0,0.0,0.0,Fishbowl Wives,SHOW,TV-MA,43,Hiroaki Matsuyama,DIRECTOR,2022,1.0,6.1
+3855,ts282214,1.0,0.0,0.0,Let's Fight Ghost,SHOW,TV-14,65,Kongkiat Khomsiri,DIRECTOR,2021,1.0,6.7
+3856,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Mahmoud Sabbagh,DIRECTOR,2022,1.0,5.6
+3857,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Sandra Nashaat,DIRECTOR,2022,1.0,5.6
+3858,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Kaouther Ben Hania,DIRECTOR,2022,1.0,5.6
+3859,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Khairy Beshara,DIRECTOR,2022,1.0,5.6
+3860,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Amira Diab,DIRECTOR,2022,1.0,5.6
+3861,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Hany Abu-Assad,DIRECTOR,2022,1.0,5.6
+3862,ts329711,1.0,0.0,0.0,"Love, Life & Everything in Between",SHOW,TV-14,27,Abdulmohsen Aldhabaan,DIRECTOR,2022,1.0,5.6
+3863,ts14520,1.0,0.0,0.0,Action Pack,SHOW,TV-Y,28,Phil Allora,DIRECTOR,2022,2.0,6.3
+3864,ts14520,1.0,0.0,0.0,Action Pack,SHOW,TV-Y,28,Jae Woo Kim,DIRECTOR,2022,2.0,6.3
+3867,ts326029,1.0,0.0,0.0,Savage Rhythm,SHOW,TV-MA,38,Andres Beltran,DIRECTOR,2022,1.0,6.3
+3868,ts326029,1.0,0.0,0.0,Savage Rhythm,SHOW,TV-MA,38,Rafa Martínez,DIRECTOR,2022,1.0,6.3
+3873,ts330132,1.0,0.0,0.0,800 Meters,SHOW,TV-MA,53,Elías León Siminiani,DIRECTOR,2022,1.0,6.9
+3877,ts297763,1.0,0.0,0.0,Myth and Mogul: John DeLorean,SHOW,TV-14,44,Mike Connolly,DIRECTOR,2021,1.0,6.8
+3878,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Jin Mo-young,DIRECTOR,2021,1.0,7.5
+3879,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Carolina Sá,DIRECTOR,2021,1.0,7.5
+3880,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Deepti Kakkar,DIRECTOR,2021,1.0,7.5
+3881,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Fahad Mustafa,DIRECTOR,2021,1.0,7.5
+3882,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Chico Pereira,DIRECTOR,2021,1.0,7.5
+3883,ts61384,1.0,0.0,0.0,My Love: Six Stories of True Love,SHOW,TV-PG,70,Elaine McMillion Sheldon,DIRECTOR,2021,1.0,7.5
+3884,ts321084,1.0,0.0,0.0,Framed! A Sicilian Murder Mystery,SHOW,TV-MA,31,Valentino Picone,DIRECTOR,2022,1.0,6.8
+3885,ts321084,1.0,0.0,0.0,Framed! A Sicilian Murder Mystery,SHOW,TV-MA,31,Salvatore Ficarra,DIRECTOR,2022,1.0,6.8
+3896,ts296201,1.0,0.0,0.0,Elize Matsunaga: Once Upon a Crime,SHOW,TV-MA,49,Eliza Capai,DIRECTOR,2021,1.0,5.9
+3899,ts306135,1.0,0.0,0.0,"Vendetta: Truth, Lies and The Mafia",SHOW,TV-MA,0,Davide Gambino,DIRECTOR,2021,1.0,6.7
+3915,ts304690,1.0,0.0,0.0,Remember You,SHOW,TV-MA,67,Aew Ampaiporn Jitmaingong,DIRECTOR,2021,1.0,7.5
+3926,ts302653,1.0,0.0,0.0,Light the Night,SHOW,TV-MA,59,Lien Yi-Chi,DIRECTOR,2021,3.0,7.4
+3936,ts329882,1.0,0.0,0.0,Secrets of Summer,SHOW,TV-Y,30,Jorge Edelstein,DIRECTOR,2022,1.0,5.9
+3940,ts330289,1.0,0.0,0.0,Smother-In-Law,SHOW,TV-MA,25,Alex Cabral,DIRECTOR,2022,1.0,4.2
+3943,ts311958,1.0,0.0,0.0,The Hungry and the Hairy,SHOW,TV-14,63,Kim Tae-ho,DIRECTOR,2021,1.0,7.5
+3959,ts285422,1.0,0.0,0.0,Newton's Cradle,SHOW,TV-14,41,Tamer Mohsen,DIRECTOR,2021,1.0,8.0
+3982,ts286218,1.0,0.0,0.0,The Rational Life,SHOW,,45,Fu-chun Hsu,DIRECTOR,2021,1.0,8.1
+4025,ts316882,1.0,0.0,0.0,Reasonable Doubt: A Tale of Two Kidnappings,SHOW,TV-MA,47,Roberto Hernández,DIRECTOR,2021,1.0,7.6
+4031,ts319303,1.0,0.0,0.0,He's Expecting,SHOW,TV-PG,26,Yuko Hakoda,DIRECTOR,2022,1.0,2.0
+4032,ts319303,1.0,0.0,0.0,He's Expecting,SHOW,TV-PG,26,Takeo Kikuchi,DIRECTOR,2022,1.0,2.0
+4042,ts282876,1.0,0.0,0.0,"Nevenka, Breaking The Silence",SHOW,TV-14,38,Maribel Sánchez-Maroto,DIRECTOR,2021,1.0,6.9
+4076,ts284885,1.0,0.0,0.0,Abla Fahita: Drama Queen,SHOW,TV-14,25,Khaled Marei,DIRECTOR,2021,1.0,6.5
+4109,ts270616,1.0,0.0,0.0,We Are: The Brooklyn Saints,SHOW,TV-14,47,Rudy Valdez,DIRECTOR,2021,1.0,6.5
+4125,ts287729,1.0,0.0,0.0,Alma Matters: Inside the IIT Dream,SHOW,TV-MA,49,Pratik Patra,DIRECTOR,2021,1.0,8.3
+4126,ts287729,1.0,0.0,0.0,Alma Matters: Inside the IIT Dream,SHOW,TV-MA,49,Prashant Raj,DIRECTOR,2021,1.0,8.3
+4135,ts288861,1.0,0.0,0.0,Let's Eat,SHOW,TV-14,60,Sarawut Wichiensarn,DIRECTOR,2021,1.0,8.2
+4148,ts33559,1.0,0.0,0.0,Shaun the Sheep,SHOW,TV-G,7,--,--,2007,6.0,8.1
+4149,ts42914,1.0,0.0,0.0,Zig and Sharko,SHOW,,9,--,--,2010,3.0,6.8
+4150,ts14102,1.0,0.0,0.0,Bo on the Go!,SHOW,,22,--,--,2007,4.0,4.2
+4151,ts74931,1.0,0.0,0.0,Kung Fu Panda Awesome Secrets,SHOW,TV-PG,32,--,--,2008,1.0,7.1
+4152,ts56589,1.0,0.0,0.0,Tayo the Little Bus,SHOW,TV-Y,11,--,--,2010,6.0,5.3
+4153,ts98353,1.0,0.0,0.0,DreamWorks Spooky Stories,SHOW,TV-PG,26,--,--,2009,1.0,6.2
+4154,ts13411,1.0,0.0,0.0,Cocaine,SHOW,TV-14,49,--,--,2005,1.0,7.1
+4155,ts1464,1.0,0.0,0.0,The Cartel,SHOW,TV-MA,44,--,--,2008,2.0,8.0
+4156,ts137477,1.0,0.0,0.0,Behind Enemy Lines,SHOW,TV-14,49,--,--,2001,1.0,7.2
+4157,ts204466,1.0,0.0,0.0,Pecados capitales,SHOW,TV-MA,0,--,--,2002,1.0,8.5
+4158,ts178360,1.0,0.0,0.0,El cartel 2 - La guerra total,SHOW,TV-MA,44,--,--,2010,1.0,6.7
+4159,ts56595,1.0,0.0,0.0,Cocomong,SHOW,TV-Y,13,--,--,2008,4.0,5.6
+4160,ts160526,1.0,0.0,0.0,Khawatir,SHOW,TV-14,19,--,--,2005,11.0,9.5
+4162,ts126804,1.0,0.0,0.0,My MVP Valentine,SHOW,TV-PG,69,--,--,2002,1.0,6.8
+4164,ts278,1.0,0.0,0.0,Black Mirror,SHOW,TV-MA,59,--,--,2011,5.0,8.8
+4165,ts55532,1.0,0.0,0.0,LEGO Friends,SHOW,TV-Y,16,--,--,2012,5.0,7.6
+4166,ts191698,1.0,0.0,0.0,Little Baby Bum,SHOW,TV-Y,7,--,--,2011,4.0,6.4
+4167,ts35426,1.0,0.0,0.0,LEGO City,SHOW,TV-G,4,--,--,2011,3.0,5.0
+4168,ts58528,1.0,0.0,0.0,Inside West Coast Customs,SHOW,TV-PG,43,--,--,2011,8.0,7.3
+4169,ts167724,1.0,0.0,0.0,Meet the Adebanjos,SHOW,TV-PG,25,--,--,2012,3.0,7.6
+4170,ts99814,1.0,0.0,0.0,Masameer,SHOW,TV-MA,14,--,--,2011,1.0,8.2
+4171,ts158608,1.0,0.0,0.0,The Ultimate Braai Master,SHOW,TV-PG,45,--,--,2012,5.0,8.1
+4176,ts98110,1.0,0.0,0.0,Dreamworks How to Train Your Dragon Legends,SHOW,,23,--,--,2013,1.0,7.3
+4177,ts521,1.0,0.0,0.0,Black Ink Crew New York,SHOW,TV-14,43,--,--,2013,10.0,4.6
+4178,ts53641,1.0,0.0,0.0,Lalaloopsy,SHOW,TV-Y,23,--,--,2013,3.0,6.5
+4179,ts88394,1.0,0.0,0.0,Moving Art,SHOW,,28,--,--,2014,3.0,8.6
+4180,ts122290,1.0,0.0,0.0,Dharmakshetra,SHOW,TV-14,44,--,--,2014,1.0,8.3
+4191,ts107543,1.0,0.0,0.0,Mystic Whispers,SHOW,TV-14,26,--,--,2014,1.0,6.9
+4192,ts261583,1.0,0.0,0.0,Ojo's in d' House,SHOW,,24,--,--,2013,1.0,6.1
+4193,ts37143,1.0,0.0,0.0,Alone,SHOW,TV-MA,51,--,--,2015,9.0,8.4
+4194,ts82825,1.0,0.0,0.0,La Casa,SHOW,TV-MA,47,--,--,2015,1.0,7.7
+4195,ts35256,1.0,0.0,0.0,Chef's Table,SHOW,TV-MA,50,--,--,2015,7.0,8.5
+4196,ts119087,1.0,0.0,0.0,Sunny Bunnies,SHOW,TV-Y,3,--,--,2015,5.0,6.7
+4197,ts54110,1.0,0.0,0.0,Puffin Rock,SHOW,TV-Y,11,--,--,2015,2.0,8.6
+4198,ts77654,1.0,0.0,0.0,Care Bears and Cousins,SHOW,TV-Y,22,--,--,2015,2.0,6.8
+4199,ts86021,1.0,0.0,0.0,Molang,SHOW,TV-G,3,--,--,2015,3.0,8.3
+4200,ts54100,1.0,0.0,0.0,World of Winx,SHOW,TV-Y7,24,--,--,2016,2.0,6.6
+4201,ts75829,1.0,0.0,0.0,Lego Bionicle: The Journey to One,SHOW,TV-Y7,20,--,--,2016,2.0,5.4
+4202,ts54156,1.0,0.0,0.0,Chef's Table: France,SHOW,TV-14,46,--,--,2016,1.0,8.2
+4203,ts81483,1.0,0.0,0.0,Simon,SHOW,TV-Y,5,--,--,2016,2.0,7.0
+4204,ts52943,1.0,0.0,0.0,The Sound of Your Heart,SHOW,,26,--,--,2016,2.0,8.2
+4205,ts87884,1.0,0.0,0.0,Sons of the Caliphate,SHOW,TV-14,0,--,--,2015,1.0,7.4
+4206,ts52988,1.0,0.0,0.0,Captive,SHOW,,63,--,--,2016,1.0,6.8
+4207,ts42011,1.0,0.0,0.0,Cheer Squad,SHOW,TV-PG,42,--,--,2016,1.0,7.2
+4208,ts127430,1.0,0.0,0.0,StoryBots Super Songs,SHOW,TV-Y,21,--,--,2016,1.0,8.7
+4209,ts81898,1.0,0.0,0.0,Kazoops!,SHOW,,13,--,--,2016,3.0,7.4
+4211,ts43258,1.0,0.0,0.0,Stories by Rabindranath Tagore,SHOW,TV-PG,43,--,--,2015,1.0,8.7
+4212,ts82327,1.0,0.0,0.0,Три кота,SHOW,TV-Y,5,--,--,2015,3.0,7.0
+4213,ts248736,1.0,0.0,0.0,The Governor,SHOW,TV-14,45,--,--,2016,1.0,7.3
+4217,ts91990,1.0,0.0,0.0,The Creative Indians,SHOW,TV-MA,29,--,--,2016,4.0,8.3
+4218,ts249161,1.0,0.0,0.0,Tariqi: My Way,SHOW,TV-14,41,--,--,2015,1.0,7.1
+4219,ts107658,1.0,0.0,0.0,Mind Game,SHOW,TV-14,44,--,--,2015,1.0,7.5
+4220,ts56648,1.0,0.0,0.0,The Keepers,SHOW,TV-MA,56,--,--,2017,1.0,8.2
+4221,ts88783,1.0,0.0,0.0,Bakugan: Battle Planet,SHOW,TV-Y7,20,--,--,2018,4.0,4.9
+4222,ts82281,1.0,0.0,0.0,Zoids Wild,SHOW,TV-Y7,21,--,--,2018,1.0,6.2
+4223,ts81344,1.0,0.0,0.0,Explained,SHOW,TV-MA,21,--,--,2018,3.0,8.0
+4224,ts215037,1.0,0.0,0.0,Minecraft: Story Mode,SHOW,TV-PG,52,--,--,2018,1.0,5.6
+4225,ts55231,1.0,0.0,0.0,Abstract: The Art of Design,SHOW,TV-14,45,--,--,2017,2.0,8.4
+4226,ts113109,1.0,0.0,0.0,Numberblocks,SHOW,TV-Y,5,--,--,2017,5.0,8.6
+4227,ts56670,1.0,0.0,0.0,Hot Girls Wanted: Turned On,SHOW,TV-MA,47,--,--,2017,1.0,6.6
+4228,ts85686,1.0,0.0,0.0,The Casketeers,SHOW,TV-14,22,--,--,2018,5.0,7.4
+4229,ts87043,1.0,0.0,0.0,Transformers: Rescue Bots Academy,SHOW,TV-Y,12,--,--,2018,2.0,6.2
+4230,ts90994,1.0,0.0,0.0,Chip and Potato,SHOW,TV-Y,17,--,--,2018,3.0,6.3
+4231,ts85138,1.0,0.0,0.0,Dogs,SHOW,TV-PG,50,--,--,2018,2.0,8.0
+4232,ts86682,1.0,0.0,0.0,7 Days Out,SHOW,TV-PG,47,--,--,2018,1.0,6.7
+4233,ts95569,1.0,0.0,0.0,Rainbow Rangers,SHOW,TV-Y,22,--,--,2018,2.0,4.4
+4234,ts228255,1.0,0.0,0.0,Cry Babies Magic Tears,SHOW,TV-Y,4,--,--,2018,2.0,5.2
+4235,ts90869,1.0,0.0,0.0,Love Daily,SHOW,,18,--,--,2018,1.0,6.1
+4236,ts83457,1.0,0.0,0.0,Cleo & Cuquin,SHOW,TV-Y,7,--,--,2018,2.0,8.1
+4237,ts85967,1.0,0.0,0.0,Bumping Mics with Jeff Ross & Dave Attell,SHOW,TV-MA,36,--,--,2018,1.0,7.7
+4238,ts118696,1.0,0.0,0.0,Robot Trains,SHOW,TV-Y7,13,--,--,2017,3.0,6.2
+4239,ts82867,1.0,0.0,0.0,Becoming Champions,SHOW,TV-G,51,--,--,2018,1.0,6.7
+4241,ts80030,1.0,0.0,0.0,Fastest Car,SHOW,TV-MA,44,--,--,2018,2.0,7.1
+4242,ts111582,1.0,0.0,0.0,The Platform,SHOW,TV-14,45,--,--,2018,2.0,5.4
+4243,ts85126,1.0,0.0,0.0,The Degenerates,SHOW,,24,--,--,2018,2.0,6.2
+4244,ts83925,1.0,0.0,0.0,Boca Juniors Confidential,SHOW,,42,--,--,2018,1.0,6.3
+4245,ts83554,1.0,0.0,0.0,Inside the Criminal Mind,SHOW,TV-MA,49,--,--,2018,1.0,5.4
+4246,ts119730,1.0,0.0,0.0,Luo Bao Bei,SHOW,TV-Y,11,--,--,2018,1.0,8.0
+4247,ts79330,1.0,0.0,0.0,Girls Incarcerated,SHOW,TV-MA,43,--,--,2018,2.0,7.2
+4248,ts82085,1.0,0.0,0.0,Ainori Love Wagon: Asian Journey,SHOW,,30,--,--,2017,2.0,6.8
+4249,ts78692,1.0,0.0,0.0,Rapture,SHOW,TV-MA,58,--,--,2018,1.0,5.4
+4250,ts81596,1.0,0.0,0.0,Black Crows,SHOW,TV-MA,33,--,--,2017,1.0,5.3
+4251,ts84038,1.0,0.0,0.0,Battlefish,SHOW,,43,--,--,2018,1.0,7.1
+4252,ts84782,1.0,0.0,0.0,Larva Island,SHOW,TV-Y7,8,--,--,2018,2.0,6.5
+4253,ts83204,1.0,0.0,0.0,Million Pound Menu,SHOW,,60,--,--,2018,2.0,6.6
+4254,ts82559,1.0,0.0,0.0,Amazing Interiors,SHOW,TV-PG,26,--,--,2018,1.0,6.6
+4255,ts81944,1.0,0.0,0.0,The Comedy Lineup,SHOW,TV-MA,15,--,--,2018,2.0,5.9
+4256,ts89372,1.0,0.0,0.0,Titipo Titipo,SHOW,TV-Y,18,--,--,2018,2.0,6.8
+4258,ts75491,1.0,0.0,0.0,Fire Chasers,SHOW,,55,--,--,2017,1.0,6.5
+4259,ts85217,1.0,0.0,0.0,Motown Magic,SHOW,TV-Y,15,--,--,2018,2.0,7.9
+4260,ts265844,1.0,0.0,0.0,#ABtalks,SHOW,TV-PG,68,--,--,2018,1.0,9.6
+4261,ts83710,1.0,0.0,0.0,First and Last,SHOW,TV-MA,41,--,--,2018,1.0,6.7
+4262,ts95274,1.0,0.0,0.0,Age of Tanks,SHOW,TV-PG,54,--,--,2017,1.0,7.3
+4263,ts101883,1.0,0.0,0.0,Regiment Diaries,SHOW,TV-PG,42,--,--,2018,2.0,8.6
+4264,ts82323,1.0,0.0,0.0,On Children,SHOW,,98,--,--,2018,1.0,7.2
+4267,ts231159,1.0,0.0,0.0,Learning Songs by Little Baby Bum: Nursery Rhyme Friends,SHOW,TV-Y,30,--,--,2017,1.0,4.2
+4268,ts272185,1.0,0.0,0.0,Running Man,SHOW,,11,--,--,2017,1.0,8.5
+4269,ts82564,1.0,0.0,0.0,Jimmy: The True Story of a True Idiot,SHOW,TV-MA,46,--,--,2018,1.0,6.8
+4270,ts113031,1.0,0.0,0.0,Droppin' Cash: Los Angeles,SHOW,TV-MA,23,--,--,2018,2.0,3.4
+4271,ts119220,1.0,0.0,0.0,The Hollywood Masters,SHOW,TV-MA,34,--,--,2017,3.0,7.2
+4272,ts83407,1.0,0.0,0.0,Follow This,SHOW,TV-MA,18,--,--,2018,3.0,4.9
+4277,ts229123,1.0,0.0,0.0,Little Singham,SHOW,,12,--,--,2018,2.0,3.5
+4279,ts78444,1.0,0.0,0.0,Luna Petunia Return to Amazia,SHOW,TV-Y,24,--,--,2018,2.0,4.8
+4281,ts84555,1.0,0.0,0.0,The Unknown Hitman: The Story of El Cholo Adrián,SHOW,TV-MA,50,--,--,2017,2.0,6.6
+4286,ts88361,1.0,0.0,0.0,"Love, Death & Robots",SHOW,TV-MA,13,--,--,2019,3.0,8.4
+4287,ts86912,1.0,0.0,0.0,Surviving R. Kelly,SHOW,TV-14,59,--,--,2019,2.0,7.5
+4288,ts241486,1.0,0.0,0.0,Pokémon Journeys: The Series,SHOW,TV-PG,22,--,--,2020,1.0,6.9
+4289,ts89339,1.0,0.0,0.0,Selling Sunset,SHOW,TV-MA,36,--,--,2019,5.0,6.4
+4290,ts281928,1.0,0.0,0.0,Unsolved Mysteries,SHOW,TV-MA,49,--,--,2020,2.0,7.3
+4291,ts227305,1.0,0.0,0.0,Tiger King,SHOW,TV-MA,44,--,--,2020,2.0,7.5
+4292,ts187541,1.0,0.0,0.0,Hotel Del Luna,SHOW,TV-14,80,--,--,2019,1.0,8.2
+4293,ts89347,1.0,0.0,0.0,Street Food,SHOW,TV-G,31,--,--,2019,2.0,7.9
+4294,ts86978,1.0,0.0,0.0,Power Rangers Beast Morphers,SHOW,TV-Y7,22,--,--,2019,2.0,6.5
+4295,ts223308,1.0,0.0,0.0,Astronomy Club: The Sketch Show,SHOW,TV-MA,20,--,--,2019,1.0,6.9
+4296,ts252856,1.0,0.0,0.0,Challenger: The Final Flight,SHOW,TV-14,45,--,--,2020,1.0,7.8
+4297,ts237096,1.0,0.0,0.0,Trial by Media,SHOW,TV-MA,62,--,--,2020,1.0,7.1
+4298,ts252341,1.0,0.0,0.0,Chef's Table: BBQ,SHOW,TV-14,44,--,--,2020,1.0,7.8
+4299,ts113637,1.0,0.0,0.0,The Alcàsser Murders,SHOW,TV-MA,61,--,--,2019,1.0,7.1
+4301,ts252122,1.0,0.0,0.0,The Possessed,SHOW,TV-MA,9,--,--,2020,1.0,5.7
+4302,ts88744,1.0,0.0,0.0,Losers,SHOW,TV-MA,8,--,--,2019,1.0,7.6
+4303,ts217719,1.0,0.0,0.0,Basketball or Nothing,SHOW,TV-PG,34,--,--,2019,1.0,7.4
+4304,ts255104,1.0,0.0,0.0,Deaf U,SHOW,TV-MA,19,--,--,2020,1.0,6.4
+4305,ts223982,1.0,0.0,0.0,Until Dawn,SHOW,,21,--,--,2020,1.0,2.4
+4306,ts88336,1.0,0.0,0.0,Dating Around,SHOW,,27,--,--,2019,2.0,6.3
+4307,ts103209,1.0,0.0,0.0,Exhibit A,SHOW,TV-14,36,--,--,2019,1.0,6.3
+4308,ts226617,1.0,0.0,0.0,The Innocence Files,SHOW,TV-MA,64,--,--,2020,1.0,8.0
+4310,ts107963,1.0,0.0,0.0,Restaurants on the Edge,SHOW,TV-14,47,--,--,2019,2.0,6.8
+4311,ts236388,1.0,0.0,0.0,The Circle France,SHOW,,47,--,--,2020,1.0,7.4
+4312,ts312044,1.0,0.0,0.0,Beyblade Burst Surge,SHOW,TV-Y,23,--,--,2020,1.0,8.3
+4313,ts221174,1.0,0.0,0.0,Ricky Zoom,SHOW,TV-Y,12,--,--,2019,2.0,6.3
+4314,ts269442,1.0,0.0,0.0,The Surgeon's Cut,SHOW,TV-14,54,--,--,2020,1.0,8.5
+4315,ts251615,1.0,0.0,0.0,(Un)Well,SHOW,TV-MA,52,--,--,2020,1.0,6.4
+4316,ts251512,1.0,0.0,0.0,Immigration Nation,SHOW,TV-MA,63,--,--,2020,1.0,7.4
+4317,ts222325,1.0,0.0,0.0,Magical Andes,SHOW,,34,--,--,2019,2.0,7.8
+4318,ts251272,1.0,0.0,0.0,Skin Decision: Before and After,SHOW,TV-MA,40,--,--,2020,1.0,5.8
+4319,ts227412,1.0,0.0,0.0,Shaun the Sheep: Adventures from Mossy Bottom,SHOW,TV-Y7,12,--,--,2020,1.0,8.1
+4320,ts233530,1.0,0.0,0.0,Win the Wilderness: Alaska,SHOW,,59,--,--,2020,1.0,6.9
+4321,ts351349,1.0,0.0,0.0,Street Food: Latin America,SHOW,TV-PG,35,--,--,2020,1.0,7.8
+4322,ts269844,1.0,0.0,0.0,Paava Kadhaigal,SHOW,,37,--,--,2020,1.0,8.1
+4323,ts254767,1.0,0.0,0.0,"Whose Vote Counts, Explained",SHOW,TV-PG,25,--,--,2020,1.0,7.3
+4324,ts268592,1.0,0.0,0.0,Beyblade Burst Rise,SHOW,,23,--,--,2019,1.0,6.0
+4325,ts87361,1.0,0.0,0.0,Back with the Ex,SHOW,,45,--,--,2019,1.0,6.2
+4326,ts216744,1.0,0.0,0.0,Heroes of Goo Jit Zu,SHOW,TV-Y7,12,--,--,2019,1.0,7.7
+4327,ts214579,1.0,0.0,0.0,Dino Girl Gauko,SHOW,,9,--,--,2019,2.0,6.9
+4328,ts236769,1.0,0.0,0.0,"Coronavirus, Explained",SHOW,TV-PG,23,--,--,2020,1.0,7.6
+4329,ts231260,1.0,0.0,0.0,Last One Standing,SHOW,,36,--,--,2019,1.0,6.8
+4330,ts251094,1.0,0.0,0.0,Indian Matchmaking,SHOW,TV-14,36,--,--,2020,2.0,6.2
+4331,ts86940,1.0,0.0,0.0,COMEDIANS of the world,SHOW,TV-MA,30,--,--,2019,1.0,6.5
+4332,ts252661,1.0,0.0,0.0,La Línea: Shadow of Narco,SHOW,TV-MA,30,--,--,2020,1.0,6.4
+4334,ts90511,1.0,0.0,0.0,Crime Diaries: Night Out,SHOW,TV-MA,44,--,--,2019,1.0,7.3
+4335,ts78324,1.0,0.0,0.0,Pinky Malinky,SHOW,TV-Y7,13,--,--,2019,3.0,5.5
+4336,ts90789,1.0,0.0,0.0,Jailbirds,SHOW,TV-MA,41,--,--,2019,1.0,7.0
+4337,ts243256,1.0,0.0,0.0,Social Distance,SHOW,TV-MA,20,--,--,2020,1.0,5.7
+4338,ts250803,1.0,0.0,0.0,Say I Do,SHOW,TV-14,54,--,--,2020,1.0,7.7
+4339,ts250920,1.0,0.0,0.0,Home Game,SHOW,TV-MA,29,--,--,2020,1.0,7.0
+4340,ts241246,1.0,0.0,0.0,The Smart Money Woman,SHOW,TV-MA,48,--,--,2020,1.0,6.2
+4341,ts189314,1.0,0.0,0.0,Tiffany Haddish Presents: They Ready,SHOW,TV-14,23,--,--,2019,2.0,6.5
+4342,ts214463,1.0,0.0,0.0,"Los Briceño, una familia todo terreno",SHOW,,46,--,--,2019,2.0,7.8
+4344,ts222942,1.0,0.0,0.0,Narcoworld: Dope Stories,SHOW,TV-MA,40,--,--,2019,1.0,6.6
+4345,ts266966,1.0,0.0,0.0,Juman,SHOW,TV-PG,39,--,--,2019,1.0,5.0
+4348,ts221151,1.0,0.0,0.0,Living Undocumented,SHOW,TV-MA,43,--,--,2019,1.0,6.6
+4349,ts269073,1.0,0.0,0.0,The Fabulous Lives of Bollywood Wives,SHOW,TV-MA,37,--,--,2020,1.0,4.7
+4351,ts258169,1.0,0.0,0.0,Holiday Home Makeover with Mr. Christmas,SHOW,TV-G,44,--,--,2020,1.0,5.8
+4352,ts223110,1.0,0.0,0.0,Sugar Rush Christmas,SHOW,TV-PG,51,--,--,2019,2.0,6.8
+4353,ts218776,1.0,0.0,0.0,Happy Jail,SHOW,,34,--,--,2019,1.0,6.9
+4354,ts88608,1.0,0.0,0.0,Cricket Fever: Mumbai Indians,SHOW,TV-MA,38,--,--,2019,1.0,7.2
+4355,ts234501,1.0,0.0,0.0,Buddi,SHOW,TV-Y,10,--,--,2020,2.0,7.2
+4356,ts89895,1.0,0.0,0.0,Mighty Little Bheem,SHOW,TV-Y,6,--,--,2019,3.0,6.4
+4357,ts262228,1.0,0.0,0.0,Tobot Galaxy Detectives,SHOW,TV-Y7,13,--,--,2020,2.0,6.7
+4359,ts262037,1.0,0.0,0.0,Bread Barbershop,SHOW,TV-Y,11,--,--,2020,2.0,7.4
+4360,ts225708,1.0,0.0,0.0,Six Windows in the Desert,SHOW,TV-14,21,--,--,2020,1.0,4.3
+4364,ts243189,1.0,0.0,0.0,Booba: Food Puzzle,SHOW,TV-Y,3,--,--,2020,1.0,8.3
+4365,ts224261,1.0,0.0,0.0,Nailed It! Germany,SHOW,TV-14,0,--,--,2020,1.0,5.7
+4366,ts222687,1.0,0.0,0.0,No hay tiempo para la vergüenza,SHOW,,43,--,--,2019,1.0,5.8
+4367,ts298837,1.0,0.0,0.0,Badanamu Stories,SHOW,TV-Y,10,--,--,2020,1.0,5.6
+4368,ts251607,1.0,0.0,0.0,Word Party Songs,SHOW,TV-Y,4,--,--,2020,1.0,3.6
+4369,ts255418,1.0,0.0,0.0,Bad Boy Billionaires: India,SHOW,TV-14,59,--,--,2020,1.0,7.9
+4374,ts218307,1.0,0.0,0.0,Styling Hollywood,SHOW,TV-14,36,--,--,2019,1.0,6.6
+4383,ts233732,1.0,0.0,0.0,Mighty Little Bheem: Festival of Colors,SHOW,,7,--,--,2020,1.0,7.2
+4384,ts90696,1.0,0.0,0.0,In the Bosom of a Thorn,SHOW,TV-14,46,--,--,2019,1.0,7.2
+4385,ts215862,1.0,0.0,0.0,True Tunes,SHOW,TV-Y7,3,--,--,2019,1.0,8.0
+4388,ts222362,1.0,0.0,0.0,Mighty Little Bheem: Diwali,SHOW,,6,--,--,2019,1.0,7.7
+4389,ts353844,1.0,0.0,0.0,Keep Sweet: Pray and Obey,SHOW,TV-MA,49,--,--,2022,1.0,7.4
+4390,ts308317,1.0,0.0,0.0,Snowflake Mountain,SHOW,TV-MA,38,--,--,2022,1.0,4.9
+4391,ts356887,1.0,0.0,0.0,How To Build a Sex Room,SHOW,TV-MA,42,--,--,2022,1.0,5.3
+4392,ts353837,1.0,0.0,0.0,"Web of Make Believe: Death, Lies and the Internet",SHOW,TV-MA,57,--,--,2022,1.0,6.1
+4393,ts357137,1.0,0.0,0.0,First Class,SHOW,,43,--,--,2022,1.0,2.8
+4394,ts349630,1.0,0.0,0.0,Love on the Spectrum U.S.,SHOW,TV-14,41,--,--,2022,1.0,8.2
+4395,ts307649,1.0,0.0,0.0,Turning Point: 9/11 and the War on Terror,SHOW,TV-14,62,--,--,2021,1.0,8.0
+4396,ts314135,1.0,0.0,0.0,VOIR,SHOW,TV-MA,20,--,--,2021,1.0,6.8
+4397,ts321966,1.0,0.0,0.0,WWII in Color: Road to Victory,SHOW,,51,--,--,2021,1.0,8.2
+4398,ts287294,1.0,0.0,0.0,"Money, Explained",SHOW,TV-14,23,--,--,2021,1.0,6.9
+4399,ts311915,1.0,0.0,0.0,Rebelde,SHOW,TV-MA,40,--,--,2022,2.0,6.2
+4401,ts289620,1.0,0.0,0.0,House of Secrets: The Burari Deaths,SHOW,TV-MA,45,--,--,2021,1.0,7.4
+4402,ts319333,1.0,0.0,0.0,Tiger King: The Doc Antle Story,SHOW,TV-MA,42,--,--,2021,1.0,6.2
+4403,ts320426,1.0,0.0,0.0,Crime Scene: The Times Square Killer,SHOW,TV-MA,49,--,--,2021,1.0,6.5
+4404,ts283676,1.0,0.0,0.0,Last Chance U: Basketball,SHOW,TV-MA,57,--,--,2021,1.0,8.3
+4406,ts283528,1.0,0.0,0.0,This Is Pop,SHOW,TV-MA,44,--,--,2021,1.0,6.9
+4407,ts345976,1.0,0.0,0.0,The Boss Baby: Back in the Crib,SHOW,TV-Y7,24,--,--,2022,1.0,6.2
+4408,ts287802,1.0,0.0,0.0,Penguin Town,SHOW,TV-G,30,--,--,2021,1.0,7.8
+4410,ts325756,1.0,0.0,0.0,Midnight Asia: Eat · Dance · Dream,SHOW,TV-MA,37,--,--,2022,1.0,6.6
+4412,ts317526,1.0,0.0,0.0,Selling Tampa,SHOW,TV-MA,40,--,--,2021,1.0,4.5
+4413,ts318024,1.0,0.0,0.0,Sea Power,SHOW,TV-14,48,--,--,2021,1.0,7.7
+4414,ts271720,1.0,0.0,0.0,Pui Pui Molcar,SHOW,TV-Y7,2,--,--,2021,1.0,8.1
+4415,ts289364,1.0,0.0,0.0,Cat People,SHOW,TV-14,32,--,--,2021,1.0,6.3
+4416,ts282133,1.0,0.0,0.0,City of Ghosts,SHOW,TV-Y7,19,--,--,2021,1.0,6.1
+4417,ts289261,1.0,0.0,0.0,Transformers: BotBots,SHOW,TV-Y,25,--,--,2022,1.0,6.9
+4418,ts300456,1.0,0.0,0.0,My Unorthodox Life,SHOW,TV-MA,40,--,--,2021,1.0,5.5
+4419,ts288545,1.0,0.0,0.0,We the People,SHOW,TV-Y7,5,--,--,2021,1.0,3.6
+4420,ts188861,1.0,0.0,0.0,Battle Kitty,SHOW,TV-Y7,33,--,--,2022,1.0,6.3
+4421,ts282840,1.0,0.0,0.0,Worn Stories,SHOW,TV-MA,30,--,--,2021,1.0,6.7
+4422,ts352881,1.0,0.0,0.0,DI4RI,SHOW,,28,--,--,2022,1.0,7.3
+4423,ts283614,1.0,0.0,0.0,Haunted: Latin America,SHOW,TV-14,34,--,--,2021,1.0,5.3
+4425,ts229537,1.0,0.0,0.0,The New Adventures of Oggy,SHOW,TV-Y,22,--,--,2021,1.0,6.6
+4426,ts317064,1.0,0.0,0.0,Where Is Marta?,SHOW,,63,--,--,2021,1.0,6.8
+4427,ts302570,1.0,0.0,0.0,John of God: The Crimes of a Spiritual Healer,SHOW,TV-MA,50,--,--,2021,1.0,6.5
+4428,ts310331,1.0,0.0,0.0,Twenty Somethings: Austin,SHOW,TV-MA,32,--,--,2021,1.0,5.9
+4431,ts289757,1.0,0.0,0.0,Crime Stories: India Detectives,SHOW,TV-MA,47,--,--,2021,1.0,7.1
+4432,ts297132,1.0,0.0,0.0,Brave Animated Series,SHOW,TV-MA,26,--,--,2021,1.0,7.0
+4433,ts330422,1.0,0.0,0.0,Team Zenko Go,SHOW,TV-Y,20,--,--,2022,1.0,7.8
+4434,ts296581,1.0,0.0,0.0,The Mystic River,SHOW,TV-14,40,--,--,2021,1.0,5.8
+4435,ts308053,1.0,0.0,0.0,Jailbirds New Orleans,SHOW,TV-MA,41,--,--,2021,1.0,6.6
+4437,ts286386,1.0,0.0,0.0,The Big Day,SHOW,TV-MA,43,--,--,2021,2.0,4.7
+4438,ts285470,1.0,0.0,0.0,Pet Stars,SHOW,TV-PG,27,--,--,2021,1.0,4.9
+4439,ts305254,1.0,0.0,0.0,The Ingenuity of the Househusband,SHOW,,5,--,--,2021,1.0,6.7
+4440,ts283284,1.0,0.0,0.0,Navarasa,SHOW,TV-MA,34,--,--,2021,1.0,5.8
+4441,ts274575,1.0,0.0,0.0,How to Be A Cowboy,SHOW,TV-PG,25,--,--,2021,1.0,6.9
+4442,ts341760,1.0,0.0,0.0,Byron Baes,SHOW,TV-MA,39,--,--,2022,1.0,2.6
+4443,ts285471,1.0,0.0,0.0,The Wedding Coach,SHOW,TV-MA,33,--,--,2021,1.0,5.0
+4447,ts273317,1.0,0.0,0.0,Pitta Kathalu,SHOW,TV-MA,37,--,--,2021,1.0,5.1
+4450,ts271048,1.0,0.0,0.0,Mighty Little Bheem: Kite Festival,SHOW,,7,--,--,2021,1.0,7.8
+4466,ts20738,0.0,1.0,0.0,Ranma ½,SHOW,TV-14,24,Tomomi Mochizuki,DIRECTOR,1989,7.0,8.2
+4487,ts28078,0.0,1.0,0.0,Yu Yu Hakusho,SHOW,TV-14,23,Noriyuki Abe,DIRECTOR,1992,5.0,8.4
+4492,ts21034,0.0,1.0,1.0,InuYasha,SHOW,TV-14,25,Yasunao Aoki,DIRECTOR,2000,9.0,7.9
+4493,ts21034,0.0,1.0,1.0,InuYasha,SHOW,TV-14,25,Masashi Ikeda,DIRECTOR,2000,9.0,7.9
+4496,ts28998,0.0,1.0,0.0,Mobile Suit Gundam Wing,SHOW,TV-MA,24,Shinji Takamatsu,DIRECTOR,1995,1.0,8.0
+4497,ts28998,0.0,1.0,0.0,Mobile Suit Gundam Wing,SHOW,TV-MA,24,Masashi Ikeda,DIRECTOR,1995,1.0,8.0
+4514,ts25497,0.0,1.0,0.0,Outlaw Star,SHOW,TV-14,25,Mitsuru Hongo,DIRECTOR,1998,1.0,7.9
+4515,ts25497,0.0,1.0,0.0,Outlaw Star,SHOW,TV-14,25,Yuuji Yamaguchi,DIRECTOR,1998,1.0,7.9
+4520,ts4242,0.0,1.0,0.0,Dragon Ball GT,SHOW,TV-PG,24,Osamu Kasai,DIRECTOR,1996,4.0,6.8
+4521,ts4242,0.0,1.0,0.0,Dragon Ball GT,SHOW,TV-PG,24,Minoru Okazaki,DIRECTOR,1996,4.0,6.8
+4527,ts19785,0.0,1.0,0.0,David Copperfield,SHOW,TV-PG,69,Simon Curtis,DIRECTOR,1999,1.0,7.7
+4555,ts34188,0.0,1.0,0.0,Project Runway,SHOW,TV-PG,56,Ariel Boles,DIRECTOR,2004,19.0,7.4
+4565,ts20305,0.0,1.0,0.0,Naruto,SHOW,TV-PG,23,Hayato Date,DIRECTOR,2002,6.0,8.4
+4578,ts31799,0.0,1.0,0.0,Samurai Champloo,SHOW,TV-MA,23,Shinichiro Watanabe,DIRECTOR,2004,1.0,8.6
+4590,ts21208,0.0,1.0,0.0,Sense and Sensibility,SHOW,TV-PG,58,John Alexander,DIRECTOR,2008,1.0,8.0
+4593,ts20513,0.0,1.0,0.0,Fairy Tail,SHOW,TV-14,24,Shinji Ishihira,DIRECTOR,2009,9.0,8.0
+4598,ts24087,0.0,1.0,0.0,Horrible Histories,SHOW,TV-G,28,Steve Connelly,DIRECTOR,2009,9.0,8.8
+4612,ts3805,0.0,1.0,0.0,Afro Samurai,SHOW,TV-MA,25,Fuminori Kizaki,DIRECTOR,2007,1.0,7.6
+4622,ts19528,0.0,1.0,0.0,Ergo Proxy,SHOW,TV-MA,27,Shuko Murase,DIRECTOR,2006,1.0,7.9
+4627,ts34370,0.0,1.0,0.0,Higurashi: When They Cry,SHOW,TV-MA,14,Toshifumi Kawase,DIRECTOR,2006,3.0,5.3
+4629,ts21688,0.0,1.0,0.0,Boys Over Flowers,SHOW,TV-14,64,Jun Ki Sang,DIRECTOR,2009,1.0,7.9
+4632,ts21676,0.0,1.0,0.0,Hellsing,SHOW,TV-MA,23,Umanosuke Iida,DIRECTOR,2001,1.0,7.8
+4633,ts21676,0.0,1.0,0.0,Hellsing,SHOW,TV-MA,23,Urata Yasunori,DIRECTOR,2001,1.0,7.8
+4649,ts27099,0.0,1.0,0.0,Guyver: The Bioboosted Armor,SHOW,,24,Katsuhito Akiyama,DIRECTOR,2005,1.0,7.8
+4653,ts16814,0.0,1.0,0.0,.hack,SHOW,TV-14,24,Kouichi Mashimo,DIRECTOR,2002,3.0,6.8
+4654,ts25656,0.0,1.0,1.0,The Marvelous Misadventures of Flapjack,SHOW,TV-Y7,17,Thurop Van Orman,DIRECTOR,2008,3.0,7.8
+4656,ts20308,0.0,1.0,0.0,Full Metal Panic!,SHOW,TV-14,24,Koichi Chigira,DIRECTOR,2002,4.0,7.6
+4661,ts20544,0.0,1.0,0.0,Ouran High School Host Club,SHOW,TV-14,23,Takuya Igarashi,DIRECTOR,2006,1.0,8.2
+4662,ts59417,0.0,1.0,0.0,Desert Punk,SHOW,TV-MA,24,Takayuki Inagaki,DIRECTOR,2004,1.0,7.2
+4663,ts30288,0.0,1.0,0.0,Mobile Suit Gundam Unicorn,SHOW,TV-14,35,Kazuhiro Furuhashi,DIRECTOR,2010,2.0,7.8
+4665,ts29076,0.0,1.0,0.0,REBORN!,SHOW,TV-14,23,Ken'ichi Imaizumi,DIRECTOR,2006,9.0,7.7
+4666,ts43942,0.0,1.0,0.0,Samurai 7,SHOW,TV-PG,27,Toshifumi Takizawa,DIRECTOR,2004,1.0,7.6
+4667,ts959,0.0,1.0,0.0,Basilisk,SHOW,TV-MA,24,Junji Nishimura,DIRECTOR,2005,2.0,7.8
+4671,ts29475,0.0,1.0,0.0,xxxHOLiC,SHOW,TV-PG,25,Tsutomu Mizushima,DIRECTOR,2006,2.0,7.6
+4673,ts9527,0.0,1.0,0.0,Eden of the East,SHOW,TV-MA,22,Kenji Kamiyama,DIRECTOR,2009,1.0,7.5
+4674,ts17714,0.0,1.0,0.0,Devil May Cry,SHOW,TV-14,24,Shin Itagaki,DIRECTOR,2007,1.0,7.0
+4677,ts29465,0.0,1.0,0.0,Witchblade,SHOW,TV-MA,24,Yoshimitsu Ohashi,DIRECTOR,2006,1.0,7.0
+4683,ts26043,0.0,1.0,0.0,ItaKiss,SHOW,TV-14,25,Osamu Yamasaki,DIRECTOR,2008,1.0,7.3
+4684,ts22452,0.0,1.0,0.0,Baka and Test: Summon the Beasts,SHOW,TV-14,25,Shin Oonuma,DIRECTOR,2010,2.0,7.2
+4685,ts27220,0.0,1.0,0.0,Gun x Sword,SHOW,TV-14,24,Goro Taniguchi,DIRECTOR,2005,1.0,7.2
+4686,ts7222,0.0,1.0,0.0,Dragonaut: The Resonance,SHOW,TV-14,25,Manabu Ono,DIRECTOR,2007,1.0,6.1
+4687,ts29087,0.0,1.0,0.0,The Wallflower,SHOW,TV-14,23,Shinichi Watanabe,DIRECTOR,2006,1.0,7.3
+4690,ts453,0.0,1.0,0.0,Black Blood Brothers,SHOW,TV-MA,24,Hiroaki Yoshikawa,DIRECTOR,2006,1.0,6.9
+4691,ts27189,0.0,1.0,0.0,Junjou Romantica,SHOW,TV-MA,26,Chiaki Kon,DIRECTOR,2008,3.0,7.7
+4696,ts56437,0.0,1.0,0.0,Full Metal Panic? Fumoffu,SHOW,TV-14,24,Yasuhiro Takemoto,DIRECTOR,2003,2.0,7.7
+4697,ts12668,0.0,1.0,0.0,Aurora,SHOW,,42,Otto Rodríguez,DIRECTOR,2010,2.0,7.1
+4698,ts12668,0.0,1.0,0.0,Aurora,SHOW,,42,David Posada,DIRECTOR,2010,2.0,7.1
+4699,ts12668,0.0,1.0,0.0,Aurora,SHOW,,42,Tony Rodríguez,DIRECTOR,2010,2.0,7.1
+4703,ts23774,0.0,1.0,0.0,Tears to Tiara,SHOW,TV-14,24,Tomoki Kobayashi,DIRECTOR,2009,1.0,6.4
+4705,ts761,0.0,1.0,0.0,Elena's Ghost,SHOW,,44,David Posada,DIRECTOR,2010,1.0,7.1
+4706,ts761,0.0,1.0,0.0,Elena's Ghost,SHOW,,44,Nicolás Di Blasi,DIRECTOR,2010,1.0,7.1
+4707,ts761,0.0,1.0,0.0,Elena's Ghost,SHOW,,44,Ricardo Schwarz,DIRECTOR,2010,1.0,7.1
+4715,ts32835,0.0,1.0,1.0,Hunter x Hunter,SHOW,TV-14,23,Hiroshi Koujina,DIRECTOR,2011,3.0,9.0
+4725,ts28010,0.0,1.0,0.0,High School DxD,SHOW,TV-MA,25,Yoshifumi Sueda,DIRECTOR,2012,4.0,7.6
+4732,ts22232,0.0,1.0,0.0,The Future Diary,SHOW,TV-MA,25,Naoto Hosoda,DIRECTOR,2011,1.0,7.6
+4740,ts35428,0.0,1.0,0.0,The Secret of Crickley Hall,SHOW,TV-14,58,Joe Ahearne,DIRECTOR,2012,1.0,6.8
+4744,ts18066,0.0,1.0,0.0,Blood-C,SHOW,TV-MA,24,Tsutomu Mizushima,DIRECTOR,2011,1.0,6.2
+4745,ts35525,0.0,1.0,0.0,Kamisama Kiss,SHOW,TV-PG,24,Akitarou Daichi,DIRECTOR,2012,2.0,8.1
+4751,ts27027,0.0,1.0,0.0,Jormungand,SHOW,TV-MA,24,Keitaro Motonaga,DIRECTOR,2012,2.0,7.5
+4754,ts33646,0.0,1.0,0.0,Infinite Stratos,SHOW,TV-14,26,Yasuhito Kikuchi,DIRECTOR,2011,2.0,6.6
+4755,ts11600,0.0,1.0,1.0,The Fades,SHOW,TV-14,59,Farren Blackburn,DIRECTOR,2011,1.0,7.6
+4756,ts11600,0.0,1.0,1.0,The Fades,SHOW,TV-14,59,Tom Shankland,DIRECTOR,2011,1.0,7.6
+4757,ts33824,0.0,1.0,0.0,Maken-Ki! Battling Venus,SHOW,TV-MA,25,Hiraku Kaneko,DIRECTOR,2011,2.0,5.9
+4758,ts27837,0.0,1.0,0.0,"Say ""I Love You.""",SHOW,TV-14,25,Takuya Sato,DIRECTOR,2012,1.0,5.6
+4759,ts16683,0.0,1.0,0.0,Haganai: I Don't Have Many Friends,SHOW,TV-MA,25,Tooru Kitahata,DIRECTOR,2011,2.0,7.1
+4765,ts21213,0.0,1.0,0.0,Yu-Gi-Oh! Zexal,SHOW,TV-Y7,22,Satoshi Kuwabara,DIRECTOR,2011,6.0,5.0
+4770,ts27922,0.0,1.0,0.0,NARUTO Spin-Off: Rock Lee & His Ninja Pals,SHOW,TV-Y7,23,Masahiko Murata,DIRECTOR,2012,1.0,7.2
+4771,ts27922,0.0,1.0,0.0,NARUTO Spin-Off: Rock Lee & His Ninja Pals,SHOW,TV-Y7,23,Masaharu Watanabe,DIRECTOR,2012,1.0,7.2
+4803,ts20804,0.0,1.0,0.0,Witches of East End,SHOW,TV-MA,42,Allan Arkush,DIRECTOR,2013,2.0,7.6
+4813,ts18865,0.0,1.0,0.0,Danganronpa: The Animation,SHOW,TV-14,24,Daisei Fukuoka,DIRECTOR,2013,2.0,6.8
+4814,ts18865,0.0,1.0,0.0,Danganronpa: The Animation,SHOW,TV-14,24,Seiji Kishi,DIRECTOR,2013,2.0,6.8
+4815,ts20686,0.0,1.0,0.0,Terror in Resonance,SHOW,TV-14,21,Shinichiro Watanabe,DIRECTOR,2014,1.0,7.9
+4821,ts35492,0.0,1.0,0.0,Nisekoi,SHOW,TV-14,24,Naoyuki Tatsuwa,DIRECTOR,2014,2.0,7.4
+4822,ts35492,0.0,1.0,0.0,Nisekoi,SHOW,TV-14,24,Akiyuki Simbo,DIRECTOR,2014,2.0,7.4
+4831,ts7770,0.0,1.0,0.0,The Driver,SHOW,TV-14,54,Jamie Payne,DIRECTOR,2014,1.0,6.9
+4838,ts44098,0.0,1.0,0.0,Yu-Gi-Oh! Arc-V,SHOW,TV-Y7,22,Katsumi Ono,DIRECTOR,2014,3.0,7.0
+4841,ts89424,0.0,1.0,0.0,ソードアート・オンラインⅡ,SHOW,TV-14,22,Tomohiko Ito,DIRECTOR,2014,1.0,7.5
+4844,ts20733,0.0,1.0,0.0,The Impostor,SHOW,,50,Carlos Villegas Rosales,DIRECTOR,2014,1.0,7.7
+4845,ts20733,0.0,1.0,0.0,The Impostor,SHOW,,50,Rodrigo Curiel,DIRECTOR,2014,1.0,7.7
+4874,ts44119,0.0,1.0,0.0,Part of Me,SHOW,TV-14,43,Luis Manzo,DIRECTOR,2014,1.0,8.3
+4875,ts44119,0.0,1.0,0.0,Part of Me,SHOW,TV-14,43,Ricardo Schwarz,DIRECTOR,2014,1.0,8.3
+4882,ts37899,0.0,1.0,0.0,Overlord,SHOW,TV-MA,23,Naoyuki Itou,DIRECTOR,2015,4.0,7.7
+4894,ts44983,0.0,1.0,0.0,Prison School,SHOW,TV-MA,24,Tsutomu Mizushima,DIRECTOR,2015,1.0,7.6
+4895,ts15477,0.0,1.0,0.0,American Crime,SHOW,TV-14,46,John Ridley,DIRECTOR,2015,3.0,7.8
+4902,ts42080,0.0,1.0,0.0,Grimgar of Fantasy and Ash,SHOW,TV-14,23,Ryosuke Nakamura,DIRECTOR,2016,1.0,7.4
+4904,ts38689,0.0,1.0,0.0,Descendants of the Sun,SHOW,TV-14,59,Yoo Jong-sun,DIRECTOR,2016,1.0,8.3
+4905,ts38689,0.0,1.0,0.0,Descendants of the Sun,SHOW,TV-14,59,Baek Sang-Hoon,DIRECTOR,2016,1.0,8.3
+4906,ts38689,0.0,1.0,0.0,Descendants of the Sun,SHOW,TV-14,59,Lee Eung-bok,DIRECTOR,2016,1.0,8.3
+4908,ts43283,0.0,1.0,0.0,Chivalry of a Failed Knight,SHOW,TV-MA,24,Shin Oonuma,DIRECTOR,2015,1.0,7.3
+4911,ts42207,0.0,1.0,0.0,The Legend of the Blue Sea,SHOW,TV-14,60,Jin Hyuk,DIRECTOR,2016,2.0,8.2
+4913,ts36812,0.0,1.0,0.0,Attack on Titan: Junior High,SHOW,TV-14,17,Yoshihide Ibata,DIRECTOR,2015,1.0,7.2
+4920,ts6028,0.0,1.0,0.0,Banished,SHOW,TV-MA,54,Daniel Percival,DIRECTOR,2015,1.0,7.4
+4922,ts41889,0.0,1.0,0.0,National Treasure,SHOW,TV-MA,48,Marc Munden,DIRECTOR,2016,1.0,7.4
+4933,ts76601,0.0,1.0,0.0,Ancient Top 10,SHOW,TV-14,40,Stuart Clarke,DIRECTOR,2016,1.0,7.6
+4934,ts42045,0.0,1.0,0.0,Barbarians Rising,SHOW,TV-14,67,Declan O'Dwyer,DIRECTOR,2016,1.0,7.7
+4935,ts42045,0.0,1.0,0.0,Barbarians Rising,SHOW,TV-14,67,Maurice Sweeney,DIRECTOR,2016,1.0,7.7
+4936,ts42045,0.0,1.0,0.0,Barbarians Rising,SHOW,TV-14,67,Simon George,DIRECTOR,2016,1.0,7.7
+4938,ts38038,0.0,1.0,0.0,Oh My Venus,SHOW,TV-14,59,Kim Hyung-suk,DIRECTOR,2015,1.0,7.8
+4939,ts38723,0.0,1.0,0.0,The Asterisk War,SHOW,TV-14,24,Kenji Seto,DIRECTOR,2015,2.0,6.8
+4940,ts38723,0.0,1.0,0.0,The Asterisk War,SHOW,TV-14,24,Manabu Ono,DIRECTOR,2015,2.0,6.8
+4943,ts57624,0.0,1.0,0.0,Dance with Devils,SHOW,TV-14,23,Ai Yoshimura,DIRECTOR,2015,1.0,5.9
+4945,ts43068,0.0,1.0,0.0,Prince of Stride: Alternative,SHOW,TV-PG,24,Atsuko Ishizuka,DIRECTOR,2016,1.0,6.5
+4954,ts51282,0.0,1.0,1.0,Mighty Magiswords,SHOW,TV-PG,14,Ken Mitchroney,DIRECTOR,2015,2.0,4.7
+4958,ts42073,0.0,1.0,0.0,Wasted,SHOW,TV-MA,20,Tom Marshall,DIRECTOR,2016,3.0,7.3
+4968,ts37834,0.0,1.0,0.0,Heavy Object,SHOW,TV-MA,23,Takashi Watanabe,DIRECTOR,2015,1.0,6.4
+4971,ts42697,0.0,1.0,0.0,Divine Gate,SHOW,TV-14,23,Noriyuki Abe,DIRECTOR,2016,1.0,5.0
+4976,ts142375,0.0,1.0,0.0,Future-Worm!,SHOW,TV-Y7,22,Dan O'Connor,DIRECTOR,2015,1.0,5.6
+4977,ts142375,0.0,1.0,0.0,Future-Worm!,SHOW,TV-Y7,22,Pete Michels,DIRECTOR,2015,1.0,5.6
+4988,ts41494,0.0,1.0,0.0,RocketJump: The Show,SHOW,TV-14,25,Freddie Wong,DIRECTOR,2015,1.0,7.2
+4995,ts35977,0.0,1.0,0.0,Chaos Dragon: Sekiryuu Sen'eki,SHOW,TV-MA,23,Masato Matsune,DIRECTOR,2015,1.0,4.4
+5011,ts56104,0.0,1.0,0.0,Boruto: Naruto Next Generations,SHOW,TV-14,23,Toshiro Fujii,DIRECTOR,2017,2.0,6.9
+5012,ts56104,0.0,1.0,0.0,Boruto: Naruto Next Generations,SHOW,TV-14,23,Masayuki Kouda,DIRECTOR,2017,2.0,6.9
+5023,ts55901,0.0,1.0,0.0,The Looming Tower,SHOW,TV-MA,50,Ali Selim,DIRECTOR,2018,1.0,8.0
+5024,ts55901,0.0,1.0,0.0,The Looming Tower,SHOW,TV-MA,50,Michael Slovis,DIRECTOR,2018,1.0,8.0
+5025,ts55901,0.0,1.0,0.0,The Looming Tower,SHOW,TV-MA,50,Alex Gibney,DIRECTOR,2018,1.0,8.0
+5026,ts55901,0.0,1.0,0.0,The Looming Tower,SHOW,TV-MA,50,Craig Zisk,DIRECTOR,2018,1.0,8.0
+5027,ts55901,0.0,1.0,0.0,The Looming Tower,SHOW,TV-MA,50,John Dahl,DIRECTOR,2018,1.0,8.0
+5040,ts81039,0.0,1.0,0.0,What's Wrong with Secretary Kim,SHOW,,69,Park Joon-hwa,DIRECTOR,2018,1.0,8.1
+5041,ts81039,0.0,1.0,0.0,What's Wrong with Secretary Kim,SHOW,,69,Yoo Jong-sun,DIRECTOR,2018,1.0,8.1
+5052,ts55823,0.0,1.0,0.0,While You Were Sleeping,SHOW,TV-14,45,Oh Choong-hwan,DIRECTOR,2017,1.0,8.3
+5053,ts79331,0.0,1.0,0.0,Persona 5: The Animation,SHOW,TV-14,28,Masashi Ishihama,DIRECTOR,2018,1.0,6.7
+5058,ts81275,0.0,1.0,0.0,Gordon Ramsay's 24 Hours to Hell and Back,SHOW,TV-14,45,Tony Sacco,DIRECTOR,2018,3.0,7.3
+5062,ts53909,0.0,1.0,0.0,Apple Tree Yard,SHOW,TV-14,58,Jessica Hobbs,DIRECTOR,2017,1.0,7.2
+5066,ts115324,0.0,1.0,0.0,The Menendez Murders: Erik Tells All,SHOW,,43,Eamon Harrington,DIRECTOR,2017,1.0,7.5
+5067,ts115324,0.0,1.0,0.0,The Menendez Murders: Erik Tells All,SHOW,,43,Nancy Saslow,DIRECTOR,2017,1.0,7.5
+5068,ts75222,0.0,1.0,0.0,The Murder of Laci Peterson,SHOW,TV-14,50,Emily Dillon Berry,DIRECTOR,2017,1.0,7.4
+5076,ts77927,0.0,1.0,0.0,Kiri,SHOW,TV-MA,47,Euros Lyn,DIRECTOR,2018,1.0,6.6
+5106,ts79411,0.0,1.0,0.0,Safe Harbour,SHOW,TV-MA,53,Glendyn Ivin,DIRECTOR,2018,1.0,6.6
+5126,ts85459,0.0,1.0,0.0,Encounter,SHOW,,67,Park Shin-woo,DIRECTOR,2018,1.0,7.5
+5129,ts84686,0.0,1.0,0.0,The Bisexual,SHOW,,29,Desiree Akhavan,DIRECTOR,2018,1.0,6.2
+5150,ts78570,0.0,1.0,0.0,Impossible Builds,SHOW,TV-G,48,Johnny Shipley,DIRECTOR,2018,1.0,7.4
+5151,ts84778,0.0,1.0,0.0,Butterfly,SHOW,,45,Anthony Byrne,DIRECTOR,2018,1.0,6.5
+5206,ts89904,0.0,1.0,0.0,Dark Side of the Ring,SHOW,TV-MA,46,Jason Eisener,DIRECTOR,2019,3.0,8.7
+5314,ts150511,0.0,1.0,0.0,The Most Dangerous Animal of All,SHOW,TV-14,44,Kief Davidson,DIRECTOR,2020,1.0,6.3
+5324,ts252756,0.0,1.0,0.0,Mr. Queen,SHOW,,71,Kang Ye-ji,DIRECTOR,2020,1.0,8.8
+5330,ts89553,0.0,1.0,0.0,Astra Lost in Space,SHOW,TV-14,27,Masaomi Ando,DIRECTOR,2019,2.0,8.0
+5350,ts254971,0.0,1.0,0.0,Deutschland 89,SHOW,TV-MA,50,Randa Chaoud,DIRECTOR,2020,1.0,7.8
+5373,ts223515,0.0,1.0,0.0,Live In Front of a Studio Audience,SHOW,TV-14,64,James Burrows,DIRECTOR,2019,1.0,8.1
+5380,ts229988,0.0,1.0,0.0,Southern Gothic,SHOW,TV-14,44,Joanne Hock,DIRECTOR,2020,1.0,7.0
+5391,ts219055,0.0,1.0,0.0,Stars Align,SHOW,TV-14,24,Kazuki Akane,DIRECTOR,2019,1.0,7.4
+5402,ts225974,0.0,1.0,0.0,Hillary,SHOW,TV-PG,61,Nanette Burstein,DIRECTOR,2020,1.0,6.6
+5404,ts188938,0.0,1.0,0.0,"Oh Jerome, No",SHOW,,12,Alex Karpovsky,DIRECTOR,2019,1.0,7.9
+5405,ts188938,0.0,1.0,0.0,"Oh Jerome, No",SHOW,,12,Teddy Blanks,DIRECTOR,2019,1.0,7.9
+5430,ts190954,0.0,1.0,0.0,Utopia Falls,SHOW,TV-PG,45,Mellit Orr,DIRECTOR,2020,1.0,4.9
+5431,ts190954,0.0,1.0,0.0,Utopia Falls,SHOW,TV-PG,45,Warren P. Sonoda,DIRECTOR,2020,1.0,4.9
+5432,ts190954,0.0,1.0,0.0,Utopia Falls,SHOW,TV-PG,45,R.T. Thorne,DIRECTOR,2020,1.0,4.9
+5433,ts89552,0.0,1.0,0.0,"Demon Lord, Retry!",SHOW,TV-14,23,Hiroshi Kimura,DIRECTOR,2019,1.0,6.7
+5438,ts252716,0.0,1.0,0.0,More Than Friends,SHOW,,68,Choi Seong-beom,DIRECTOR,2020,1.0,6.7
+5446,ts220175,0.0,1.0,0.0,Buried Secrets of WWII,SHOW,TV-14,44,Nathan Williams,DIRECTOR,2019,1.0,7.5
+5454,ts88979,0.0,1.0,0.0,Afterlost,SHOW,,23,Shigeyuki Miya,DIRECTOR,2019,1.0,5.2
+5467,ts257411,0.0,1.0,0.0,Pikwik Pack,SHOW,TV-Y,12,Todd Kauffman,DIRECTOR,2020,1.0,8.6
+5468,ts257411,0.0,1.0,0.0,Pikwik Pack,SHOW,TV-Y,12,Mark Thornton,DIRECTOR,2020,1.0,8.6
+5470,ts224886,0.0,1.0,0.0,Listeners,SHOW,TV-14,24,Hiroaki Ando,DIRECTOR,2020,1.0,5.1
+5472,ts88978,0.0,1.0,0.0,Mix: Meisei Story,SHOW,,23,Odahiro Watanabe,DIRECTOR,2019,1.0,7.3
+5473,ts90021,0.0,1.0,0.0,My Absolute Boyfriend,SHOW,,34,Jeong Jeong-hwa,DIRECTOR,2019,1.0,7.1
+5474,ts222360,0.0,1.0,0.0,Infinite Dendrogram,SHOW,TV-14,23,Tomoki Kobayashi,DIRECTOR,2020,1.0,5.9
+5492,ts89563,0.0,1.0,0.0,Cop Craft,SHOW,TV-MA,23,Shin Itagaki,DIRECTOR,2019,1.0,6.6
+5496,ts233979,0.0,1.0,0.0,Attaway General,SHOW,TV-Y7,13,Alexander Berman,DIRECTOR,2020,3.0,1.0
+5504,ts250846,0.0,1.0,0.0,The School That Tried To End Racism,SHOW,,47,Rachel Dupuy,DIRECTOR,2019,1.0,4.7
+5505,ts250846,0.0,1.0,0.0,The School That Tried To End Racism,SHOW,,47,David Harris,DIRECTOR,2019,1.0,4.7
+5507,ts221303,0.0,1.0,0.0,Stand My Heroes: Piece of Truth,SHOW,,24,Hideyo Yamamoto,DIRECTOR,2019,1.0,6.9
+5514,ts88043,0.0,1.0,0.0,Quarter Life Poetry,SHOW,,3,Arturo Perez Jr.,DIRECTOR,2019,1.0,8.7
+5526,ts213825,0.0,1.0,0.0,The Bravest Knight,SHOW,TV-Y7,11,Shabnam Rezaei,DIRECTOR,2019,1.0,6.3
+5597,ts277352,0.0,1.0,0.0,"McCartney 3,2,1",SHOW,TV-14,29,Zachary Heinzerling,DIRECTOR,2021,1.0,8.7
+5599,ts288182,0.0,1.0,0.0,9/11: One Day in America,SHOW,TV-MA,49,Daniel Bogado,DIRECTOR,2021,1.0,9.3
+5612,ts285048,0.0,1.0,0.0,Sasquatch,SHOW,TV-MA,45,Joshua Rofé,DIRECTOR,2021,1.0,6.3
+5634,ts302190,0.0,1.0,0.0,The Big Leap,SHOW,TV-14,44,Liz Heldens,DIRECTOR,2021,1.0,7.5
+5643,ts274203,0.0,1.0,0.0,Insânia,SHOW,,35,Gustavo Bonafé,DIRECTOR,2021,1.0,4.6
+5676,ts286374,0.0,1.0,0.0,Greta Thunberg: A Year to Change the World,SHOW,TV-PG,58,Alistair Duncan,DIRECTOR,2021,1.0,4.8
+5693,ts230778,0.0,1.0,0.0,A3,SHOW,,77,Beto Ribeiro,DIRECTOR,2021,1.0,8.6
+5694,ts230778,0.0,1.0,0.0,A3,SHOW,,77,Carla Albuquerque,DIRECTOR,2021,1.0,8.6
+5698,ts322832,0.0,1.0,0.0,Ronningmaen: Ttwineun Nom Wie Noneun Nom,SHOW,,40,Lim Hyung-taek,DIRECTOR,2021,1.0,7.4
+5700,ts290117,0.0,1.0,0.0,Nine Films About Technology,SHOW,TV-MA,11,Peter Huang,DIRECTOR,2021,1.0,7.3
+5702,ts635,0.0,1.0,0.0,Comedy Central Presents,SHOW,TV-14,24,--,--,1998,15.0,8.0
+5703,ts1770,0.0,1.0,0.0,Digimon Adventure 02,SHOW,TV-G,21,--,--,2000,2.0,7.4
+5704,ts15069,0.0,1.0,0.0,The FBI Files,SHOW,TV-PG,50,--,--,1998,7.0,7.9
+5705,ts51570,0.0,1.0,0.0,The New Detectives,SHOW,TV-PG,52,--,--,1996,9.0,7.8
+5706,ts1574,0.0,1.0,0.0,The First 48,SHOW,TV-14,44,--,--,2004,21.0,8.2
+5707,ts24065,0.0,1.0,0.0,Hoarders,SHOW,TV-14,51,--,--,2009,13.0,6.5
+5708,ts15745,0.0,1.0,0.0,Bad Girls Club,SHOW,TV-14,40,--,--,2006,17.0,4.7
+5709,ts241772,0.0,1.0,0.0,Wife Swap,SHOW,TV-14,42,--,--,2004,9.0,4.5
+5710,ts15210,0.0,1.0,0.0,Deadly Women,SHOW,TV-14,44,--,--,2005,14.0,7.9
+5711,ts35706,0.0,1.0,0.0,Celebrity Love Island,SHOW,,48,--,--,2005,2.0,2.3
+5712,ts22252,0.0,1.0,0.0,Unusual Suspects,SHOW,TV-14,43,--,--,2010,9.0,7.6
+5713,ts8365,0.0,1.0,0.0,"Drugs, Inc.",SHOW,TV-14,46,--,--,2010,9.0,7.8
+5714,ts40126,0.0,1.0,0.0,Missing,SHOW,,39,--,--,2010,1.0,7.4
+5715,ts18979,0.0,1.0,0.0,Daisy of Love,SHOW,TV-14,44,--,--,2009,1.0,4.4
+5716,ts56589,0.0,1.0,0.0,Tayo the Little Bus,SHOW,TV-Y,11,--,--,2010,6.0,5.2
+5717,ts83895,0.0,1.0,0.0,Full Metal Panic! The Second Raid,SHOW,TV-14,23,--,--,2005,2.0,7.7
+5718,ts24184,0.0,1.0,0.0,Nostradamus Effect,SHOW,,44,--,--,2009,1.0,5.0
+5719,ts5961,0.0,1.0,0.0,College Hill,SHOW,TV-14,22,--,--,2004,6.0,5.0
+5720,ts60269,0.0,1.0,0.0,NASA 360,SHOW,,24,--,--,2010,2.0,7.6
+5721,ts52282,0.0,1.0,0.0,La Diosa Coronada,SHOW,,41,--,--,2010,1.0,7.5
+5723,ts18557,0.0,1.0,0.0,Baldwin Hills,SHOW,TV-14,21,--,--,2007,3.0,4.3
+5724,ts6179,0.0,1.0,0.0,Celebrity Wife Swap,SHOW,TV-PG,43,--,--,2012,4.0,4.3
+5725,ts26847,0.0,1.0,0.0,Up to Speed,SHOW,TV-14,26,--,--,2012,1.0,6.4
+5726,ts191698,0.0,1.0,1.0,Little Baby Bum,SHOW,TV-Y,5,--,--,2011,4.0,6.4
+5727,ts945,0.0,1.0,0.0,Basketball Wives LA,SHOW,TV-14,42,--,--,2011,6.0,3.9
+5728,ts17103,0.0,1.0,0.0,Battleground,SHOW,,26,--,--,2012,1.0,9.5
+5729,ts10230,0.0,1.0,0.0,Dead Boss,SHOW,TV-14,32,--,--,2012,1.0,6.4
+5730,ts98053,0.0,1.0,0.0,The Bomber,SHOW,,50,--,--,2012,1.0,8.8
+5731,ts138829,0.0,1.0,0.0,PoliticKING with Larry King,SHOW,TV-14,26,--,--,2012,5.0,5.3
+5732,ts170415,0.0,1.0,0.0,Chiquis 'n Control,SHOW,TV-PG,42,--,--,2012,1.0,8.5
+5733,ts20891,0.0,1.0,0.0,Naked and Afraid,SHOW,TV-14,48,--,--,2013,14.0,6.5
+5734,ts56313,0.0,1.0,0.0,Pokémon the Series: XY,SHOW,TV-Y7,21,--,--,2013,3.0,7.5
+5735,ts32253,0.0,1.0,0.0,The Killer Speaks,SHOW,TV-14,43,--,--,2013,2.0,7.4
+5736,ts36731,0.0,1.0,0.0,Little Women: LA,SHOW,TV-14,41,--,--,2014,8.0,5.6
+5737,ts55634,0.0,1.0,0.0,Obsession: Dark Desires,SHOW,TV-14,44,--,--,2014,5.0,7.3
+5738,ts43901,0.0,1.0,0.0,Acapulco Shore,SHOW,TV-MA,48,--,--,2014,9.0,2.9
+5739,ts35453,0.0,1.0,0.0,Wander Over Yonder,SHOW,TV-Y7,18,--,--,2013,2.0,7.2
+5740,ts20271,0.0,1.0,0.0,Love & Hip Hop Hollywood,SHOW,TV-14,41,--,--,2014,6.0,4.9
+5741,ts521,0.0,1.0,0.0,Black Ink Crew New York,SHOW,TV-14,41,--,--,2013,9.0,4.6
+5742,ts34215,0.0,1.0,0.0,Married to Medicine,SHOW,TV-14,43,--,--,2013,8.0,5.3
+5743,ts32187,0.0,1.0,0.0,Quick Draw,SHOW,TV-14,23,--,--,2013,2.0,7.7
+5744,ts159161,0.0,1.0,0.0,The Comeback Kids,SHOW,,7,--,--,2014,1.0,7.4
+5745,ts156426,0.0,1.0,0.0,The Apartment,SHOW,TV-14,41,--,--,2013,6.0,4.4
+5746,ts143671,0.0,1.0,0.0,Tom Kerridge's Best Ever Dishes,SHOW,,29,--,--,2014,1.0,7.3
+5747,ts133860,0.0,1.0,0.0,With All Due Respect,SHOW,,35,--,--,2014,1.0,8.4
+5748,ts37143,0.0,1.0,0.0,Alone,SHOW,TV-MA,48,--,--,2015,8.0,8.4
+5749,ts80756,0.0,1.0,0.0,Alice in Paris,SHOW,TV-G,5,--,--,2016,2.0,8.7
+5750,ts53041,0.0,1.0,0.0,The 1980s: The Deadliest Decade,SHOW,,42,--,--,2016,2.0,8.0
+5751,ts35788,0.0,1.0,0.0,Major Lazer,SHOW,TV-MA,12,--,--,2015,1.0,7.5
+5752,ts38747,0.0,1.0,0.0,"Underworld, Inc.",SHOW,TV-14,43,--,--,2015,2.0,6.9
+5753,ts37139,0.0,1.0,0.0,Seven Year Switch,SHOW,TV-14,49,--,--,2015,3.0,4.8
+5754,ts43487,0.0,1.0,0.0,Sky Wizards Academy,SHOW,TV-PG,24,--,--,2015,1.0,6.6
+5755,ts79788,0.0,1.0,0.0,The Riveras,SHOW,TV-PG,43,--,--,2016,4.0,7.7
+5756,ts80757,0.0,1.0,0.0,Home to Win,SHOW,,46,--,--,2016,4.0,5.4
+5757,ts113169,0.0,1.0,0.0,Boonie Bears: Spring Into Action,SHOW,,13,--,--,2015,1.0,6.8
+5758,ts130271,0.0,1.0,0.0,Hello World!,SHOW,TV-PG,21,--,--,2016,1.0,7.5
+5759,ts98276,0.0,1.0,0.0,Rosaline,SHOW,TV-Y7,4,--,--,2016,1.0,7.4
+5760,ts115839,0.0,1.0,0.0,The Insider: Reggie Yates,SHOW,,52,--,--,2016,2.0,7.1
+5761,ts76019,0.0,1.0,0.0,Worst to First,SHOW,,44,--,--,2017,2.0,7.1
+5762,ts93910,0.0,1.0,0.0,Hitler's Last Stand,SHOW,TV-14,43,--,--,2018,3.0,6.3
+5763,ts104963,0.0,1.0,0.0,Struggle Meals,SHOW,TV-G,22,--,--,2018,7.0,8.7
+5764,ts215643,0.0,1.0,0.0,Killer in Plain Sight,SHOW,TV-14,21,--,--,2018,1.0,7.5
+5765,ts95880,0.0,1.0,0.0,The Baker Sisters,SHOW,,22,--,--,2017,1.0,8.7
+5766,ts116119,0.0,1.0,0.0,Monchhichi Tribe,SHOW,,11,--,--,2017,2.0,6.5
+5767,ts56365,0.0,1.0,0.0,Blue Exorcist: Kyoto Saga,SHOW,TV-14,24,--,--,2017,1.0,7.4
+5768,ts122150,0.0,1.0,0.0,Murder on the Internet,SHOW,,43,--,--,2017,1.0,6.5
+5769,ts118072,0.0,1.0,0.0,My Sordid Affair,SHOW,,42,--,--,2017,1.0,6.6
+5770,ts278613,0.0,1.0,0.0,Basic Versus Baller: Travel at Any Cost,SHOW,,21,--,--,2018,1.0,7.4
+5771,ts75228,0.0,1.0,0.0,Black Love,SHOW,TV-14,40,--,--,2017,5.0,6.1
+5773,ts234113,0.0,1.0,0.0,Tasty's Making It Big,SHOW,,14,--,--,2018,1.0,7.3
+5774,ts84080,0.0,1.0,0.0,Absolutely Ascot,SHOW,,44,--,--,2018,2.0,5.3
+5775,ts107993,0.0,1.0,0.0,Born Behind Bars,SHOW,TV-14,42,--,--,2017,1.0,8.4
+5776,ts111621,0.0,1.0,0.0,Psychotown,SHOW,,3,--,--,2018,2.0,7.4
+5777,ts107359,0.0,1.0,0.0,pocket.watch Ryan Toys Review Ultimate mishmash,SHOW,TV-G,22,--,--,2018,1.0,3.1
+5778,ts76538,0.0,1.0,0.0,Larrymania,SHOW,,43,--,--,2017,1.0,5.9
+5779,ts117500,0.0,1.0,0.0,"Bad Habits, Holy Orders",SHOW,,45,--,--,2017,1.0,6.9
+5780,ts75556,0.0,1.0,0.0,Dress to Impress,SHOW,,45,--,--,2017,1.0,6.0
+5781,ts109518,0.0,1.0,0.0,La Culpa Es De Cortés,SHOW,,52,--,--,2017,1.0,6.8
+5782,ts256020,0.0,1.0,0.0,Weakest Link,SHOW,,43,--,--,2020,2.0,6.9
+5783,ts312195,0.0,1.0,0.0,The Devil You Know,SHOW,TV-MA,43,--,--,2019,2.0,7.0
+5784,ts269696,0.0,1.0,0.0,Killer Cases,SHOW,TV-14,43,--,--,2020,2.0,7.4
+5785,ts213527,0.0,1.0,0.0,Monsterland,SHOW,TV-MA,50,--,--,2020,1.0,5.6
+5786,ts236729,0.0,1.0,0.0,Accused: Guilty or Innocent?,SHOW,TV-14,46,--,--,2020,2.0,8.2
+5787,ts232913,0.0,1.0,0.0,Alone: The Beast,SHOW,TV-PG,42,--,--,2020,1.0,5.6
+5788,ts286241,0.0,1.0,0.0,Madagascar: A Little Wild,SHOW,TV-Y,23,--,--,2020,7.0,5.6
+5789,ts284726,0.0,1.0,0.0,Trolls: TrollsTopia,SHOW,TV-Y7,24,--,--,2020,6.0,7.3
+5790,ts256200,0.0,1.0,0.0,City So Real,SHOW,,67,--,--,2020,1.0,7.6
+5791,ts222447,0.0,1.0,0.0,Taken at Birth,SHOW,TV-14,44,--,--,2019,1.0,8.3
+5792,ts100344,0.0,1.0,0.0,Marrying Millions,SHOW,TV-14,41,--,--,2019,2.0,5.0
+5793,ts222807,0.0,1.0,0.0,Kings of Pain,SHOW,TV-14,39,--,--,2019,1.0,6.7
+5794,ts226434,0.0,1.0,0.0,60 Days In: Narcoland,SHOW,TV-14,43,--,--,2019,1.0,6.2
+5796,ts87548,0.0,1.0,0.0,Many Sides of Jane,SHOW,TV-14,43,--,--,2019,1.0,5.7
+5797,ts269810,0.0,1.0,0.0,Narco Wars,SHOW,TV-14,44,--,--,2020,2.0,8.6
+5798,ts229426,0.0,1.0,0.0,Rurangi,SHOW,,20,--,--,2020,1.0,7.3
+5799,ts89258,0.0,1.0,0.0,Lost Gold of World War II,SHOW,TV-PG,40,--,--,2019,2.0,6.4
+5800,ts190558,0.0,1.0,0.0,Kids Behind Bars: Life or Parole,SHOW,TV-14,43,--,--,2019,2.0,6.8
+5801,ts111087,0.0,1.0,0.0,No Man's Land,SHOW,,47,--,--,2020,1.0,7.8
+5802,ts226757,0.0,1.0,0.0,My Little Pony: Pony Life,SHOW,TV-Y7,11,--,--,2020,2.0,4.8
+5803,ts87932,0.0,1.0,0.0,The First 48 Presents: Homicide Squad Atlanta,SHOW,TV-14,43,--,--,2019,1.0,8.2
+5804,ts189436,0.0,1.0,0.0,Big Food Bucket List,SHOW,,24,--,--,2019,2.0,7.7
+5805,ts216501,0.0,1.0,0.0,Drag SOS,SHOW,,47,--,--,2019,1.0,8.1
+5808,ts81010,0.0,1.0,0.0,The Weekly,SHOW,TV-MA,36,--,--,2019,1.0,6.7
+5809,ts219536,0.0,1.0,0.0,Phantasy Star Online 2: Episode Oracle,SHOW,,24,--,--,2019,1.0,5.9
+5810,ts100341,0.0,1.0,0.0,Cheerleader Generation,SHOW,TV-PG,41,--,--,2019,1.0,7.2
+5811,ts252133,0.0,1.0,0.0,Inside Missguided: Made In Manchester,SHOW,,46,--,--,2020,1.0,6.2
+5812,ts88988,0.0,1.0,0.0,RobiHachi,SHOW,,24,--,--,2019,1.0,5.8
+5813,ts237123,0.0,1.0,0.0,Drug Lords: The Next Generation,SHOW,,43,--,--,2020,1.0,8.1
+5815,ts251004,0.0,1.0,0.0,America: Our Defining Hours,SHOW,TV-14,84,--,--,2020,1.0,6.5
+5816,ts230784,0.0,1.0,0.0,Salvage Kings,SHOW,,46,--,--,2019,2.0,8.2
+5817,ts228189,0.0,1.0,0.0,Junior Chef Showdown,SHOW,,44,--,--,2020,1.0,7.8
+5819,ts232556,0.0,1.0,0.0,Two Pink Doors,SHOW,,3,--,--,2019,1.0,6.3
+5820,ts220364,0.0,1.0,0.0,Baking It Easy,SHOW,,22,--,--,2019,1.0,7.1
+5821,ts265376,0.0,1.0,0.0,Bride & Prejudice: Forbidden Love,SHOW,TV-14,42,--,--,2020,1.0,3.7
+5822,ts289343,0.0,1.0,0.0,Daytime Noir,SHOW,,2,--,--,2019,1.0,6.5
+5823,ts219127,0.0,1.0,0.0,Activate: The Global Citizen Movement,SHOW,TV-MA,43,--,--,2019,1.0,5.1
+5824,ts306133,0.0,1.0,0.0,Superstar,SHOW,,41,--,--,2021,1.0,7.3
+5825,ts308565,0.0,1.0,0.0,Judge Steve Harvey,SHOW,,44,--,--,2022,1.0,5.0
+5826,ts285272,0.0,1.0,0.0,Rock Solid Builds,SHOW,,44,--,--,2021,2.0,9.5
+5827,ts318710,0.0,1.0,0.0,Joe Millionaire: For Richer or Poorer,SHOW,,47,--,--,2022,1.0,6.4
+5828,ts260008,0.0,1.0,0.0,Married at First Sight: Unmatchables,SHOW,TV-14,42,--,--,2021,1.0,5.3
+5829,ts287626,0.0,1.0,0.0,Dark Side of Football,SHOW,TV-14,44,--,--,2021,1.0,5.9
+5830,ts288408,0.0,1.0,0.0,Mike Tyson: The Knockout,SHOW,TV-PG,85,--,--,2021,1.0,7.9
+5831,ts320788,0.0,1.0,0.0,Let the World See,SHOW,,33,--,--,2022,1.0,8.7
+5833,ts232617,0.0,1.0,0.0,Black Death,SHOW,,5,--,--,2021,1.0,7.3
+5834,ts273453,0.0,1.0,0.0,Soul of a Nation,SHOW,TV-PG,41,--,--,2021,1.0,4.9
+5836,ts318346,0.0,1.0,0.0,Peckham's Finest,SHOW,,33,--,--,2021,1.0,5.4
+5837,ts276887,0.0,1.0,0.0,Swan Boy,SHOW,,4,--,--,2021,1.0,8.4
+5838,ts330888,0.0,1.0,0.0,Roman to the Rescue,SHOW,,24,--,--,2021,1.0,7.0
+5847,ts225761,0.0,0.0,1.0,Tom and Jerry,SHOW,,8,Joseph Barbera,DIRECTOR,1940,16.0,7.7
+5848,ts225761,0.0,0.0,1.0,Tom and Jerry,SHOW,,8,William Hanna,DIRECTOR,1940,16.0,7.7
+6024,ts22230,0.0,0.0,1.0,"Scooby-Doo, Where Are You!",SHOW,TV-G,23,William Hanna,DIRECTOR,1969,3.0,7.9
+6025,ts22230,0.0,0.0,1.0,"Scooby-Doo, Where Are You!",SHOW,TV-G,23,Joseph Barbera,DIRECTOR,1969,3.0,7.9
+6026,ts22230,0.0,0.0,1.0,"Scooby-Doo, Where Are You!",SHOW,TV-G,23,Charles A. Nichols,DIRECTOR,1969,3.0,7.9
+6580,ts4567,0.0,0.0,1.0,Coupling,SHOW,TV-14,29,Martin Dennis,DIRECTOR,2000,8.0,8.6
+6673,ts21561,0.0,0.0,1.0,"Harvey Birdman, Attorney at Law",SHOW,TV-14,12,Vincent Waller,DIRECTOR,2000,4.0,8.0
+6674,ts21561,0.0,0.0,1.0,"Harvey Birdman, Attorney at Law",SHOW,TV-14,12,Robert Alvarez,DIRECTOR,2000,4.0,8.0
+6675,ts21561,0.0,0.0,1.0,"Harvey Birdman, Attorney at Law",SHOW,TV-14,12,Ben Jones,DIRECTOR,2000,4.0,8.0
+6676,ts21561,0.0,0.0,1.0,"Harvey Birdman, Attorney at Law",SHOW,TV-14,12,Michael Ouweleen,DIRECTOR,2000,4.0,8.0
+6677,ts21561,0.0,0.0,1.0,"Harvey Birdman, Attorney at Law",SHOW,TV-14,12,Erik Richter,DIRECTOR,2000,4.0,8.0
+6905,ts22181,0.0,0.0,1.0,"Tim and Eric Awesome Show, Great Job!",SHOW,TV-MA,12,Tim Heidecker,DIRECTOR,2007,5.0,7.6
+6906,ts22181,0.0,0.0,1.0,"Tim and Eric Awesome Show, Great Job!",SHOW,TV-MA,12,Jonathan Krisel,DIRECTOR,2007,5.0,7.6
+6907,ts22181,0.0,0.0,1.0,"Tim and Eric Awesome Show, Great Job!",SHOW,TV-MA,12,Eric Wareheim,DIRECTOR,2007,5.0,7.6
+6959,ts9926,0.0,0.0,1.0,Check It Out! with Dr. Steve Brule,SHOW,TV-14,12,Eric Wareheim,DIRECTOR,2010,4.0,8.6
+6960,ts9926,0.0,0.0,1.0,Check It Out! with Dr. Steve Brule,SHOW,TV-14,12,Tim Heidecker,DIRECTOR,2010,4.0,8.6
+7107,ts22273,0.0,0.0,1.0,Tom Goes to the Mayor,SHOW,TV-PG,11,Eric Wareheim,DIRECTOR,2004,2.0,6.7
+7108,ts22273,0.0,0.0,1.0,Tom Goes to the Mayor,SHOW,TV-PG,11,Tim Heidecker,DIRECTOR,2004,2.0,6.7
+7161,ts33361,0.0,0.0,1.0,Xavier: Renegade Angel,SHOW,TV-MA,11,John Lee,DIRECTOR,2007,2.0,7.7
+7162,ts33361,0.0,0.0,1.0,Xavier: Renegade Angel,SHOW,TV-MA,11,Vernon Chatman,DIRECTOR,2007,2.0,7.7
+7201,ts18292,0.0,0.0,1.0,12 oz. Mouse,SHOW,TV-MA,11,Matt Maiellaro,DIRECTOR,2005,3.0,6.5
+7249,ts7916,0.0,0.0,1.0,Epitaphs,SHOW,TV-MA,47,Alberto Lecchi,DIRECTOR,2004,2.0,7.9
+7250,ts7916,0.0,0.0,1.0,Epitaphs,SHOW,TV-MA,47,Daniel Barone,DIRECTOR,2004,2.0,7.9
+7299,ts30164,0.0,0.0,1.0,If God Is Willing and da Creek Don't Rise,SHOW,TV-MA,72,Spike Lee,DIRECTOR,2010,1.0,7.3
+7380,ts21101,0.0,0.0,1.0,Parade's End,SHOW,TV-MA,59,Susanna White,DIRECTOR,2012,1.0,7.5
+7427,ts26754,0.0,0.0,1.0,Witness,SHOW,TV-MA,46,David Frankham,DIRECTOR,2012,1.0,7.8
+7428,ts26754,0.0,0.0,1.0,Witness,SHOW,TV-MA,46,Abdallah Omeish,DIRECTOR,2012,1.0,7.8
+7514,ts58470,0.0,0.0,1.0,Tim and Eric's Bedtime Stories,SHOW,TV-14,13,Tim Heidecker,DIRECTOR,2014,2.0,7.8
+7515,ts58470,0.0,0.0,1.0,Tim and Eric's Bedtime Stories,SHOW,TV-14,13,Eric Wareheim,DIRECTOR,2014,2.0,7.8
+7522,ts20294,0.0,0.0,1.0,Garfunkel and Oates,SHOW,TV-14,11,Fred Savage,DIRECTOR,2014,1.0,7.5
+7544,ts41319,0.0,0.0,1.0,Sr. Ávila,SHOW,TV-MA,53,Alejandro Lozano,DIRECTOR,2013,4.0,8.2
+7545,ts41319,0.0,0.0,1.0,Sr. Ávila,SHOW,TV-MA,53,Fernando Rovzar,DIRECTOR,2013,4.0,8.2
+7581,ts43915,0.0,0.0,1.0,Head Over Heels,SHOW,,35,Jan Hřebejk,DIRECTOR,2014,2.0,7.0
+7597,ts38785,0.0,0.0,1.0,Berserk,SHOW,TV-MA,25,Shin Itagaki,DIRECTOR,2016,2.0,6.8
+7599,ts21650,0.0,0.0,1.0,The Jinx: The Life and Deaths of Robert Durst,SHOW,TV-MA,45,Andrew Jarecki,DIRECTOR,2015,1.0,8.6
+7615,ts38071,0.0,0.0,1.0,Chewing Gum,SHOW,TV-MA,23,Tom Marshall,DIRECTOR,2015,2.0,7.7
+7621,ts21887,0.0,0.0,1.0,Togetherness,SHOW,TV-MA,27,Jay Duplass,DIRECTOR,2015,2.0,7.5
+7622,ts21887,0.0,0.0,1.0,Togetherness,SHOW,TV-MA,27,Mark Duplass,DIRECTOR,2015,2.0,7.5
+7628,ts43212,0.0,0.0,1.0,The Pact,SHOW,,53,Leszek Dawid,DIRECTOR,2015,2.0,7.3
+7639,ts41277,0.0,0.0,1.0,Impractical Jokers: Inside Jokes,SHOW,TV-14,29,Mark W. Roden,DIRECTOR,2016,1.0,8.6
+7646,ts38121,0.0,0.0,1.0,Golden Life,SHOW,,54,Zsombor Dyga,DIRECTOR,2015,3.0,8.8
+7647,ts38121,0.0,0.0,1.0,Golden Life,SHOW,,54,Áron Mátyássy,DIRECTOR,2015,3.0,8.8
+7650,ts38720,0.0,0.0,1.0,Kiznaiver,SHOW,TV-PG,24,Hiroshi Kobayashi,DIRECTOR,2016,1.0,7.0
+7665,ts271031,0.0,0.0,1.0,Nuclear Family,SHOW,TV-MA,58,Ry Russo-Young,DIRECTOR,2016,1.0,6.8
+7670,ts53390,0.0,0.0,1.0,Mamon,SHOW,,54,Vladimír Michálek,DIRECTOR,2015,1.0,7.3
+7678,ts37709,0.0,0.0,1.0,Long Live the Royals,SHOW,TV-PG,11,Cole Sanchez,DIRECTOR,2015,1.0,6.7
+7680,ts77705,0.0,0.0,1.0,Messy goes to OKIDO,SHOW,TV-G,11,Liz Whitaker,DIRECTOR,2015,2.0,7.2
+7718,ts53334,0.0,0.0,1.0,The Silent Valley,SHOW,TV-MA,58,Marian Crișan,DIRECTOR,2016,1.0,6.7
+7756,ts86524,0.0,0.0,1.0,The Shivering Truth,SHOW,TV-MA,11,Vernon Chatman,DIRECTOR,2018,2.0,8.0
+7757,ts86524,0.0,0.0,1.0,The Shivering Truth,SHOW,TV-MA,11,Cat Solen,DIRECTOR,2018,2.0,8.0
+7780,ts80953,0.0,0.0,1.0,Miss Sherlock,SHOW,TV-14,50,Taki Yusuke,DIRECTOR,2018,1.0,6.9
+7781,ts80953,0.0,0.0,1.0,Miss Sherlock,SHOW,TV-14,50,Takashi Matsuoka,DIRECTOR,2018,1.0,6.9
+7782,ts80953,0.0,0.0,1.0,Miss Sherlock,SHOW,TV-14,50,Junichi Mori,DIRECTOR,2018,1.0,6.9
+7791,ts77594,0.0,0.0,1.0,Mosaic,SHOW,TV-MA,50,Steven Soderbergh,DIRECTOR,2018,1.0,6.4
+7793,ts83292,0.0,0.0,1.0,Random Acts of Flyness,SHOW,TV-MA,34,Terence Nance,DIRECTOR,2018,2.0,6.5
+7807,ts83827,0.0,0.0,1.0,Arthur's Law,SHOW,,48,Christian Zübert,DIRECTOR,2018,2.0,7.2
+7808,ts80759,0.0,0.0,1.0,Being Serena,SHOW,TV-PG,29,Noah Lerner,DIRECTOR,2018,1.0,6.1
+7818,ts83355,0.0,0.0,1.0,Hackerville,SHOW,TV-MA,53,Igor Cobileanski,DIRECTOR,2018,1.0,7.1
+7829,ts99212,0.0,0.0,1.0,The Ollie & Moon Show,SHOW,TV-Y,11,Florian Thouret,DIRECTOR,2017,2.0,8.3
+7851,ts85393,0.0,0.0,1.0,Grisse,SHOW,,51,Tony Tilse,DIRECTOR,2018,1.0,6.0
+7882,ts88632,0.0,0.0,1.0,Chernobyl,SHOW,TV-MA,65,Alexey Muradov,DIRECTOR,2019,1.0,9.4
+7889,ts288175,0.0,0.0,1.0,Smiling Friends,SHOW,TV-MA,12,Zach Hadel,DIRECTOR,2020,1.0,8.5
+7890,ts288175,0.0,0.0,1.0,Smiling Friends,SHOW,TV-MA,12,Michael Cusack,DIRECTOR,2020,1.0,8.5
+7917,ts282223,0.0,0.0,1.0,Steven Universe Future,SHOW,TV-PG,10,Rebecca Sugar,DIRECTOR,2019,2.0,7.6
+7925,ts101691,0.0,0.0,1.0,Beartown,SHOW,TV-MA,58,Peter Grönlund,DIRECTOR,2020,1.0,7.1
+7930,ts95323,0.0,0.0,1.0,The Trial of Christine Keeler,SHOW,,59,Andrea Harkin,DIRECTOR,2019,1.0,6.9
+7931,ts95323,0.0,0.0,1.0,The Trial of Christine Keeler,SHOW,,59,Leanne Welham,DIRECTOR,2019,1.0,6.9
+7940,ts87071,0.0,0.0,1.0,Success,SHOW,,51,Danis Tanović,DIRECTOR,2019,1.0,7.9
+7944,ts236731,0.0,0.0,1.0,Hard,SHOW,TV-MA,30,Júlia Pacheco Jordão,DIRECTOR,2020,2.0,6.4
+7945,ts236731,0.0,0.0,1.0,Hard,SHOW,TV-MA,30,Rodrigo Meirelles,DIRECTOR,2020,2.0,6.4
+7946,ts236731,0.0,0.0,1.0,Hard,SHOW,TV-MA,30,Caroline Fioratti,DIRECTOR,2020,2.0,6.4
+7959,ts221305,0.0,0.0,1.0,Laetitia,SHOW,,45,Jean-Xavier de Lestrade,DIRECTOR,2020,1.0,6.9
+7960,ts188097,0.0,0.0,1.0,El Pionero,SHOW,,60,Enric Bach,DIRECTOR,2019,1.0,7.3
+7976,ts89481,0.0,0.0,1.0,The World Between Us,SHOW,,28,Chun-Yang Lin,DIRECTOR,2019,1.0,9.0
+7991,ts89179,0.0,0.0,1.0,Other Parents,SHOW,,34,Lutz Heineking,DIRECTOR,2019,2.0,7.0
+7996,ts110978,0.0,0.0,1.0,Vida perfecta,SHOW,TV-MA,29,김은수,DIRECTOR,2019,2.0,7.3
+8006,ts268290,0.0,0.0,1.0,Adventure of the Ring,SHOW,TV-14,47,Kitamura Toyoharu,DIRECTOR,2020,1.0,7.9
+8011,ts271202,0.0,0.0,1.0,Tuff Money,SHOW,TV-MA,48,Daniel Sandu,DIRECTOR,2020,1.0,7.3
+8129,ts225228,0.0,0.0,1.0,The Thaw,SHOW,,49,Xawery Żuławski,DIRECTOR,2022,1.0,6.7
+8131,ts270943,0.0,0.0,1.0,It's a Sin,SHOW,TV-MA,48,Peter Hoar,DIRECTOR,2021,1.0,8.7
+8157,ts286749,0.0,0.0,1.0,Trinity of Shadows,SHOW,,45,Po-Hao Hung,DIRECTOR,2021,1.0,6.5
+8194,ts286151,0.0,0.0,1.0,The Mopes,SHOW,TV-MA,27,Christian Zübert,DIRECTOR,2021,1.0,5.9
+8196,ts296257,0.0,0.0,1.0,Tom and Jerry in New York,SHOW,TV-PG,10,Darrell Van Citters,DIRECTOR,2021,2.0,6.8
+8200,ts305355,0.0,0.0,1.0,Batman: The Audio Adventures,SHOW,TV-14,39,Dennis McNicholas,DIRECTOR,2021,1.0,8.4
+8202,ts245496,0.0,0.0,1.0,The Republic of Sarah,SHOW,TV-14,43,Marc Webb,DIRECTOR,2021,1.0,5.7
+8206,ts296148,0.0,0.0,1.0,Catch and Kill: The Podcast Tapes,SHOW,TV-MA,26,Fenton Bailey,DIRECTOR,2021,1.0,7.2
+8207,ts296148,0.0,0.0,1.0,Catch and Kill: The Podcast Tapes,SHOW,TV-MA,26,Randy Barbato,DIRECTOR,2021,1.0,7.2
+8210,ts307655,0.0,0.0,1.0,The American Guest,SHOW,TV-14,53,Bruno Barreto,DIRECTOR,2021,1.0,7.3
+8223,ts226463,0.0,0.0,1.0,Amongst Men,SHOW,TV-MA,53,Pablo Fendrik,DIRECTOR,2021,1.0,6.9
+8277,ts38855,0.0,0.0,1.0,Happily Ever After: Fairy Tales for Every Child,SHOW,TV-Y,27,--,--,1995,3.0,6.5
+8278,ts21652,0.0,0.0,1.0,Project Greenlight,SHOW,TV-MA,37,--,--,2001,4.0,7.2
+8279,ts36879,0.0,0.0,1.0,Hard Knocks,SHOW,,48,--,--,2001,17.0,8.0
+8280,ts71362,0.0,0.0,1.0,Dane Cook's Tourgasm,SHOW,TV-MA,29,--,--,2006,1.0,5.2
+8284,ts44876,0.0,0.0,1.0,Life on Fire,SHOW,TV-PG,55,--,--,2010,1.0,8.3
+8286,ts16942,0.0,0.0,1.0,Sons of Carnaval,SHOW,,50,--,--,2006,2.0,8.0
+8287,ts1494,0.0,0.0,1.0,The Alzheimer's Project,SHOW,TV-PG,58,--,--,2009,1.0,8.1
+8288,ts68187,0.0,0.0,1.0,Russell Simmons Presents: Brave New Voices,SHOW,TV-MA,31,--,--,2009,1.0,5.9
+8296,ts12221,0.0,0.0,1.0,"China, IL",SHOW,TV-14,20,--,--,2011,3.0,7.1
+8297,ts34727,0.0,0.0,1.0,Off the Air,SHOW,TV-MA,13,--,--,2011,11.0,8.5
+8298,ts26966,0.0,0.0,1.0,On Death Row,SHOW,TV-14,49,--,--,2012,2.0,7.9
+8299,ts26916,0.0,0.0,1.0,The Weight of the Nation,SHOW,,34,--,--,2012,1.0,7.1
+8300,ts160464,0.0,0.0,1.0,Jack Hanna's Wild Countdown,SHOW,TV-G,20,--,--,2011,9.0,8.8
+8301,ts79516,0.0,0.0,1.0,Tales Of Nature,SHOW,,54,--,--,2011,1.0,7.8
+8303,ts6936,0.0,0.0,1.0,The Dog and the Cat,SHOW,,21,--,--,2011,4.0,8.4
+8304,ts35803,0.0,0.0,1.0,The Weight Of The Nation For Kids,SHOW,,30,--,--,2012,1.0,6.6
+8306,ts58273,0.0,0.0,1.0,States of Grace,SHOW,,27,--,--,2012,1.0,7.4
+8307,ts87180,0.0,0.0,1.0,Single Long,SHOW,TV-MA,15,--,--,2012,1.0,7.2
+8310,ts84205,0.0,0.0,1.0,Saving My Tomorrow,SHOW,TV-G,28,--,--,2014,1.0,6.6
+8311,ts79424,0.0,0.0,1.0,Viking Women,SHOW,,54,--,--,2014,1.0,6.3
+8312,ts87176,0.0,0.0,1.0,Heroes Cotidianos,SHOW,,51,--,--,2014,1.0,6.1
+8313,ts77242,0.0,0.0,1.0,Butterfly Effect,SHOW,,25,--,--,2016,3.0,8.5
+8314,ts249017,0.0,0.0,1.0,The Chris Gethard Show,SHOW,TV-MA,42,--,--,2015,3.0,7.1
+8316,ts37914,0.0,0.0,1.0,Breakthrough,SHOW,TV-PG,46,--,--,2015,2.0,7.6
+8319,ts79402,0.0,0.0,1.0,Underwater Wonders Of The National Parks,SHOW,,15,--,--,2016,1.0,6.9
+8320,ts41505,0.0,0.0,1.0,Dios Inc.,SHOW,,51,--,--,2016,1.0,6.3
+8322,ts79504,0.0,0.0,1.0,Secret Life of Lakes,SHOW,,52,--,--,2015,1.0,7.9
+8323,ts79396,0.0,0.0,1.0,Space Probes!,SHOW,,23,--,--,2016,1.0,8.5
+8324,ts55708,0.0,0.0,1.0,Uri & Ella,SHOW,TV-MA,36,--,--,2016,1.0,7.6
+8325,ts79427,0.0,0.0,1.0,Secret Life Underground,SHOW,,51,--,--,2015,1.0,7.6
+8327,ts79537,0.0,0.0,1.0,Destination: Moon,SHOW,,11,--,--,2016,1.0,7.7
+8330,ts133640,0.0,0.0,1.0,Comedy Knockout,SHOW,TV-14,23,--,--,2016,3.0,2.6
+8332,ts58115,0.0,0.0,1.0,Room 104,SHOW,TV-MA,25,--,--,2017,4.0,6.1
+8333,ts235382,0.0,0.0,1.0,Lamput,SHOW,,3,--,--,2017,2.0,9.3
+8334,ts84649,0.0,0.0,1.0,Axios,SHOW,TV-14,31,--,--,2018,4.0,6.0
+8335,ts86106,0.0,0.0,1.0,Ancient Earth,SHOW,,32,--,--,2017,2.0,7.4
+8336,ts187021,0.0,0.0,1.0,The Carbonaro Effect: Inside Carbonaro,SHOW,,24,--,--,2018,1.0,8.4
+8337,ts87179,0.0,0.0,1.0,Fantasmagorias,SHOW,,3,--,--,2017,4.0,6.6
+8338,ts79367,0.0,0.0,1.0,Prescription: Nutrition,SHOW,,17,--,--,2017,1.0,8.2
+8339,ts87542,0.0,0.0,1.0,Age of Big Cats,SHOW,,51,--,--,2018,1.0,8.3
+8340,ts8297,0.0,0.0,1.0,Beyond Reasonable Doubt,SHOW,,44,--,--,2017,1.0,7.5
+8341,ts80283,0.0,0.0,1.0,Ballmastrz: 9009,SHOW,TV-14,11,--,--,2018,2.0,6.8
+8342,ts80817,0.0,0.0,1.0,SeNT,SHOW,TV-14,27,--,--,2017,1.0,5.0
+8343,ts77765,0.0,0.0,1.0,Laff Mobb's Laff Tracks,SHOW,TV-14,24,--,--,2018,3.0,3.2
+8345,ts93304,0.0,0.0,1.0,Living Universe,SHOW,,53,--,--,2018,1.0,7.6
+8346,ts105412,0.0,0.0,1.0,Beating Death: The Science of Survival,SHOW,,12,--,--,2018,1.0,6.0
+8349,ts87128,0.0,0.0,1.0,15: A Quinceañera Story,SHOW,TV-PG,28,--,--,2017,1.0,6.6
+8350,ts78726,0.0,0.0,1.0,The Bachelor Winter Games,SHOW,TV-14,76,--,--,2018,1.0,5.0
+8351,ts110062,0.0,0.0,1.0,Paid Off with Michael Torpey,SHOW,TV-14,23,--,--,2018,1.0,5.0
+8353,ts112341,0.0,0.0,1.0,Infinity Train,SHOW,TV-PG,11,--,--,2019,4.0,8.4
+8354,ts300471,0.0,0.0,1.0,Looney Tunes Cartoons,SHOW,TV-PG,9,--,--,2020,5.0,8.0
+8355,ts229283,0.0,0.0,1.0,Adventure Time: Distant Lands,SHOW,TV-PG,45,--,--,2020,1.0,8.7
+8357,ts252718,0.0,0.0,1.0,Agents of Chaos,SHOW,TV-MA,119,--,--,2020,1.0,7.2
+8358,ts251316,0.0,0.0,1.0,A World of Calm,SHOW,TV-G,21,--,--,2020,1.0,8.1
+8359,ts269658,0.0,0.0,1.0,Full Bloom,SHOW,TV-14,46,--,--,2020,2.0,7.3
+8360,ts236024,0.0,0.0,1.0,HBO Latino Presents: A Tiny Audience,SHOW,,55,--,--,2019,1.0,6.4
+8361,ts236683,0.0,0.0,1.0,Amazing Dinoworld,SHOW,,48,--,--,2019,1.0,8.1
+8362,ts259396,0.0,0.0,1.0,Stylish with Jenna Lyons,SHOW,,45,--,--,2020,1.0,6.8
+8364,ts231859,0.0,0.0,1.0,Vengeance: Killer Coworkers,SHOW,,40,--,--,2020,2.0,7.8
+8365,ts249862,0.0,0.0,1.0,The Secret Lives Of Big Cats,SHOW,,31,--,--,2020,1.0,8.3
+8367,ts90624,0.0,0.0,1.0,On Tour with Asperger's Are Us,SHOW,TV-14,29,--,--,2019,1.0,6.9
+8368,ts285781,0.0,0.0,1.0,Mush-Mush & the Mushables,SHOW,TV-Y,12,--,--,2020,2.0,8.1
+8369,ts108762,0.0,0.0,1.0,Squish,SHOW,,11,--,--,2019,1.0,6.4
+8371,ts229422,0.0,0.0,1.0,Mia's Magic Playground,SHOW,,7,--,--,2020,2.0,6.0
+8373,ts268250,0.0,0.0,1.0,The Cost of Winning,SHOW,TV-14,28,--,--,2020,1.0,7.4
+8375,ts226211,0.0,0.0,1.0,Invisible Stories (Nextblkgrl),SHOW,,37,--,--,2020,1.0,7.2
+8376,ts341605,0.0,0.0,1.0,Undercurrent: The Disappearance of Kim Wall,SHOW,TV-MA,63,--,--,2022,1.0,6.5
+8377,ts300937,0.0,0.0,1.0,Dodo,SHOW,,11,--,--,2021,1.0,8.7
+8378,ts303730,0.0,0.0,1.0,Traffickers: Inside the Golden Triangle,SHOW,,45,--,--,2021,1.0,7.3
+8379,ts251698,0.0,0.0,1.0,"Pray, Obey, Kill",SHOW,TV-14,57,--,--,2021,1.0,6.6
+8380,ts315522,0.0,0.0,1.0,Black and Missing,SHOW,TV-MA,54,--,--,2021,1.0,5.8
+8381,ts304558,0.0,0.0,1.0,NYC Epicenters 9/11➔2021½,SHOW,TV-MA,110,--,--,2021,1.0,7.1
+8382,ts320289,0.0,0.0,1.0,40 Means Nothing,SHOW,,38,--,--,2021,1.0,6.1
+8383,ts314732,0.0,0.0,1.0,Dolores: The Truth About the Wanninkhof Case,SHOW,TV-14,43,--,--,2021,1.0,7.4
+8384,ts309677,0.0,0.0,1.0,Level Playing Field,SHOW,TV-14,26,--,--,2021,1.0,5.5
+8385,ts300392,0.0,0.0,1.0,Through Our Eyes,SHOW,,33,--,--,2021,1.0,6.1
