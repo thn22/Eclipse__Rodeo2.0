@@ -55,35 +55,39 @@ After making that change, we decided to take a closer look at what information o
 5. Do older movies have higher IMDb scores than newer movies?
 
 **Question 1:**
+
    To solve this question, we first took our dataset that contained every movie from each streaming service and pulled out just the rows that had a director listed under the "role" column. This isolated the data to just directors and from there we could trim the data to just list the directors' names and their average IMDb scores for all of their films. From there, we listed the total count of films each director had across Netflix, Hulu, and HBO. We also decided to set a minimum total of four films per director to trim the data and remove any outliers that may have very high scores but just one movie. This left us with about 50 directors which we plotted on a bargraph along with their average IMDb scores, resulting in this:
 
-  !(/Output/director_score.png)
+  ![Movie Director Average Scores](/Output/director_score.png)
 
   After generating that graph, we wanted to try and answer the question that is our project's namesake, "What to watch next?" So with Akira Kurosawa having the highest average rating within our streaming services, we wanted to plot his movies and their IMDb scores to see which is considered the best and help us choose what we should watch next:
 
-  !(/Output/kurosawa_score.png)
+  ![Akira Kurosawa's Movie Scores](/Output/kurosawa_score.png)
 
   Based off of this data, the answer for what we should watch next would be Akira Kurosawa's Seven Samurai.
 
 **Question 2:** 
+
   For this question, we wanted to see if longer running shows were rated higher than shows that only lasted a few seasons. To answer this we decided to generate a scatter plot that listed the number of seasons for a show on one axis and the the IMDb score on the other. This is the plot we created:
 
-  !(/Output/seasons_vs_score.png)
+  ![Seasons vs. IMDb Score Scatter Plot](/Output/seasons_vs_score.png)
 
   As you can see, the regression line is almost completely flat and the r value was calculated to be 0.01 meaning there is almost no correlation between the number of seasons a show has and its IMDb score.
 
 **Question 3:**
+
   Our third question focused on the length of movies and their IMDb score. We wanted to see if people tended to rate movies poorly if they were too long or too short. We were also curious if there were a "sweet spot" where a general movie length produced above average ratings frequently. So, we created another scatter plot. This time we had the movies' runtime in minutes on one axis and the IMDb score on the other. Here is the resulting plot:
 
-  !(/Output/runtime_vs_score.png)
+  ![Movie Runtime vs. IMDb Score Scatter Plot](/../main/Output/runtime_vs_score.png)
 
   The results from this graph differ from the previous one in that the regression line has more of an incline, which would be associated with a positive corelation. However, the incline is not very steep and the calculated r value is only 0.14. This represents a weak positive correlation and you cannot say with certainty that longer movies score better overall.
 
 **Question 4:** 
+
   For our fourth question, we wanted to find out if any of the streaming services content was more so catered for adults or if any were catered towards children based on the frequency of the content's age ratings. To do this, we took the data from each individual streaming service and divided it into two data frames to seperate movies and shows. From there, we created grouped bar graphs to display the number of movies and shows with each rating for every streaming service, shown here:
 
-  !(/Output/movie_ratings_vs_service.png)
-  !(/Output/tv_ratings_vs_service.png)
+  ![Movie Ratings Per Streaming Service](/Output/movie_ratings_vs_service.png)
+  ![TV Show Ratings Per Streaming Service](/Output/tv_ratings_vs_service.png)
 
   Looking at the movie graph, you can see that each streaming service has very similar distribution ratios for each rating. Netflix and HBO are nearly identical for each rating, while Hulu has less movies than the other two. 
 
@@ -92,10 +96,11 @@ After making that change, we decided to take a closer look at what information o
   As for identifying if one streaming service is more so catered to adults, ....
 
 **Question 5:**
+
   Finally, with our last question we wanted to look at how "old" movies compared to "new" movies. To go about this, we first had to define what qualified a movie to be old. We ultimately settled on movies with a release year before 2005 as being old since this was the most even two way split of our data. Next, we created some scatter plots, one containing all movies, one with movies released from 1921-2004, and one with movies from 2005-2022:
 
-  !(/Output/year_vs_score.png)
-  !(/Output/old_release_vs_score.png)
-  !(/Output/new_release_vs_score.png)
+  ![Movie IMDb Score vs. Release Year](/Output/year_vs_score.png)
+  ![Movie IMDb Score vs. Release Year (1921-2004)](/Output/old_release_vs_score.png)
+  ![Movie IMDb Score vs. Release Year (2005-2022)](/Output/new_release_vs_score.png)
 
   All three plots show a negative correlation for IMDb scores compared to release year, although the correlation is very weak. This is likely attributed to two things, 1. the shear volume of modern movies outweighing older movies and their variance of scores bringing the average down, and 2. streaming services aren't likely to add unpopular and poorly rated old movies to their platform so the frequent high scores of old movies doesn't represent all movies from those times accurately.
