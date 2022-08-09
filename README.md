@@ -78,7 +78,7 @@ After making that change, we decided to take a closer look at what information o
 
   Our third question focused on the length of movies and their IMDb score. We wanted to see if people tended to rate movies poorly if they were too long or too short. We were also curious if there were a "sweet spot" where a general movie length produced above average ratings frequently. So, we created another scatter plot. This time we had the movies' runtime in minutes on one axis and the IMDb score on the other. Here is the resulting plot:
 
-  ![Movie Runtime vs. IMDb Score Scatter Plot](/../main/Output/runtime_vs_score.png)
+  ![Movie Runtime vs. IMDb Score Scatter Plot](/Output/runtime_vs_score.png)
 
   The results from this graph differ from the previous one in that the regression line has more of an incline, which would be associated with a positive corelation. However, the incline is not very steep and the calculated r value is only 0.14. This represents a weak positive correlation and you cannot say with certainty that longer movies score better overall.
 
