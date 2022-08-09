@@ -48,7 +48,7 @@ After making that change, we decided to take a closer look at what information o
 
 **Revised quesions:**
 
-1. Which director with 4 or more movies has the highest average rating?
+1. Which director with 5 or more movies has the highest average rating?
 2. Is there a correlation between number of seasons for a TV show and IMDb score?
 3. Is there a correlation between movie run times and IMDb score?
 4. Which streaming service is most catered towards adults? Which is best for children?
@@ -56,15 +56,15 @@ After making that change, we decided to take a closer look at what information o
 
 **Question 1:**
 
-   To solve this question, we first took our dataset that contained every movie from each streaming service and pulled out just the rows that had a director listed under the "role" column. This isolated the data to just directors and from there we could trim the data to just list the directors' names and their average IMDb scores for all of their films. From there, we listed the total count of films each director had across Netflix, Hulu, and HBO. We also decided to set a minimum total of four films per director to trim the data and remove any outliers that may have very high scores but just one movie. This left us with about 50 directors which we plotted on a bargraph along with their average IMDb scores, resulting in this:
+   To solve this question, we first took our dataset that contained every movie from each streaming service and pulled out just the rows that had a director listed under the "role" column. This isolated the data to just directors, and from there we could trim the data to just list the directors' names and their average IMDb scores for all of their films. Next, we listed the total count of films each director had across Netflix, Hulu, and HBO. We also decided to set a minimum total of five films per director to trim the data and remove any outliers that may have very high scores but just one movie. This left us with about 30 directors which we plotted on a bargraph along with their average IMDb scores, resulting in this:
 
   ![Movie Director Average Scores](/Output/director_score.png)
 
-  After generating that graph, we wanted to try and answer the question that is our project's namesake, "What to watch next?" So with Akira Kurosawa having the highest average rating within our streaming services, we wanted to plot his movies and their IMDb scores to see which is considered the best and help us choose what we should watch next:
+  After generating that graph, we wanted to try and answer the question that is our project's namesake, "What to watch next?" So with Akira Kurosawa having the highest average rating within our streaming services, we wanted to plot his movies and their IMDb scores to see which is considered the best to help us choose what we should watch next:
 
   ![Akira Kurosawa's Movie Scores](/Output/kurosawa_score.png)
 
-  Based off of this data, the answer for what we should watch next would be Akira Kurosawa's Seven Samurai.
+  Based off of this data, the answer for what we should watch next would be Akira Kurosawa's *Seven Samurai*.
 
 **Question 2:** 
 
