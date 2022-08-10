@@ -10,11 +10,11 @@
   Throughout the pandemic, many people filled their freetime with streaming content from Netflix, Amazon Prime and Hulu. After two plus years, people want to know -- What to watch next? Using data sources from Kaggle, we want to know which streaming service produces the best original content, which actor(s) to seek out, which long running shows are the best, and what genre is the most popular.
 
 **Initial questions:** 
-1. Which director with 4 or more movies has the highest average rating?
-2. Is there a correlation between number of seasons for a TV show and IMDb score?
-3. Is there a correlation between movie run times and IMDb score?
-4. Which streaming service is most catered towards adults? Which is best for children?
-5. Do older movies have higher IMDb scores than newer movies?
+1. Which streaming service has the best original content? (Using ratings from IMDb)
+2. Which actor has the highest average rating?
+3. Is there a correlation between number of seasons for a TV show and IMDb score?
+4. Is there a correlation between movie run times and IMDb score?
+5. What genre has the highest rating across all streaming services? (Movies)
 
 
 
@@ -44,7 +44,7 @@
 
 Once we began digging into the datasets we had found, we quickly realized that they were lacking information specifically regarding each streaming service's original content. There was no way for us to pick out only the original movies and shows from each service without grabbing every single one and putting it in a dataframe by hand. This forced us to return to the drawing board and come up with a new question.
 
-After making that change, we decided to take a closer look at what information our datasets provided and see if we could accurately answer our remaining questions. Upon further examination, we found that it was going to be very difficult to answer our second and fifth questions. For our second question, "Which actor has the highest average rating?", we found there were multiple actors listed within each movie and each actor shared the same IMDb score associated with the film. So the results for the actor with the highest average rating would not be a valid representation since each actor was rated the same for each movie they were a part of. As for our fifth question, "What genre has the highest rating across all streaming services? (Movies)", once we examined the genre column of our datasets, we quickly realized what a mess it was. Most, if not all movies were listed within multiple genres. To solve that problem, we thought we could group each movie with the first genre associated with it. However, this also became an issue because the firs genre listed was not always the best genre to represent the film and would cause our results to be an inaccurate representation of the data. So after scrapping those two questions as well, we looked for possible relationships and connections we could make with our data and ultimately landed on these five questions:
+After making that change, we decided to take a closer look at what information our datasets provided and see if we could accurately answer our remaining questions. Upon further examination, we found that it was going to be very difficult to answer our second and fifth questions. For our second question, "Which actor has the highest average rating?", we found there were multiple actors listed within each movie and each actor shared the same IMDb score associated with the film. So the results for the actor with the highest average rating would not be a valid representation since each actor was rated the same for each movie they were a part of. As for our fifth question, "What genre has the highest rating across all streaming services? (Movies)", once we examined the genre column of our datasets, we quickly realized what a mess it was. Most, if not all movies were listed within multiple genres. To solve that problem, we thought we could group each movie with the first genre associated with it. However, this also became an issue because the first genre listed was not always the best genre to represent the film and would cause our results to be an inaccurate representation of the data. So after scrapping those two questions as well, we looked for possible relationships and connections we could make with our data and ultimately landed on these five questions:
 
 **Revised quesions:**
 
@@ -93,7 +93,27 @@ After making that change, we decided to take a closer look at what information o
 
   The show graph differs somewhat from the movie graph. There is more variance between the three streaming services with the amount of shows within each rating category. Netflix leads the three services in total amount of shows offered, while HBO is lacking on variety and has much less to offer. 
 
-  As for identifying if one streaming service is more so catered to adults, ....
+  To determine if there was statistical significance between the age certifications and streaming service, we completed a chi-square test for each dataset (movies & TV shows). 
+  
+ ***Null Hypothesis:*** There is no statistical significance between an individual streaming service and the age ratings of the available content.
+ 
+ ***Alternative Hypothesis:*** There is statistical significance between an individual streaming service and the age ratings of the available content.
+
+ The chi-square test was performed on each age certification in each dataset across the three streaming services (Netflix, Hulu & HBO).
+
+ The degree of freedom was calculated to be 2 (3 streaming services - 1 = 2).
+
+ The P-value used was within the normal range of a probability 5 in 100.
+
+ The critical value based on the confidence level and degree of freedom is 5.99.
+
+ The expected values were calculated by using the sum of all the content within each rating across each streaming service divided by the three services.
+
+ After each test was performed, it was determined that all but one rating had statistical significance.
+
+ The age certification that did not have statistical significance was TV-G within the TV show dataset. The chi-square value for this rating was determined to be 3.625 which is less than the critical value.
+
+ Further analysis would be needed to determine which streaming service is more catered to adults and/or children.
 
 **Question 5:**
 
